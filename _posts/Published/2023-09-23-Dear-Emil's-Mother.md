@@ -7,7 +7,7 @@ version: Original
 ref: Emil
 ---
 
-##### Tuesday 23rd May 2023
+##### Tuesday 23rd May
 
 Dear Emil’s mother,
 

@@ -10,7 +10,7 @@ ref: Zahne
 Draft notes:
 German translation is important for this one.
 
-##### Thursday 15th June 2023
+##### Thursday 15th June
 
 Hi Georg,
 
