@@ -1,0 +1,9 @@
+{% assign translations = site.posts | where_exp: "post", "post.ref == page.ref and post.version != 'Original'" %}
+
+{% if translations.size > 0 %}
+  <p class="translation-links">
+    {% for translation in translations %}
+      <a href="{{ translation.url }}" class="translation-link">{{ translation.lang }} Translation: {{ translation.title }}</a>
+    {% endfor %}
+  </p>
+{% endif %}

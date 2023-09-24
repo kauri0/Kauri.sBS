@@ -1,0 +1,125 @@
+---
+layout: default
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+
+  <!-- Fetch translation posts with the same 'ref' -->
+  {% assign translation_posts = site.posts | where:"ref", page.ref | where_exp: "post", "post.url != page.url" %}
+  {% if translation_posts.size > 0 %}
+    <p>
+      <div style="text-align: right">Read me in 
+      {% for translation_post in translation_posts %}
+        <a href="{{ translation_post.url }}">{{ translation_post.lang }} </a>
+        {% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </div>
+    </p>
+  {% endif %}
+
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+
+</article>
+
+
+
+
+
+<!--
+---
+layout: default
+---
+
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
+
+
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+  
+
+<!--LANGUAGE SELECTOR--@@@@@@@
+<ul>
+{% assign posts = site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  {% if post.lang != page.lang %}
+    <li>
+      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+
+{% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  {% if page.lang != page.lang %}
+    <li>
+      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
+ <!--LANGUAGE SELECTOR--@@@@@@@@@@
+
+ <!--OLD LANGUAGE SELECTOR - shows both languages
+	<ul>
+	{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+	{% for post in posts %}
+	  <li>
+		<a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+	  </li>
+	{% endfor %}
+
+	{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+	{% for page in pages %}
+	  <li>
+		<a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+	  </li>
+	{% endfor %}
+	</ul>
+LANGUAGE SELECTOR--@@@@@@@@@
+
+</article>
+-->
