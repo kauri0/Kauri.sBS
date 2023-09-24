@@ -15,21 +15,7 @@
     </div>
     <span class="post-date">
       {{ post.date | date: "%b %-d, '%y" }}
-    </span>
-    
-    <!-- Add the translation links here 
-    {% assign translations = site.posts | where_exp: "translation", "translation.ref == post.ref and translation.version != 'Original'" %}
-    {% if translations.size > 0 %}
-      <p class="translation-links">
-        {% for translation in translations %}
-          <a href="{{ translation.url }}" class="translation-link">{{ translation.lang }} Translation: {{ translation.title }}</a>
-        {% endfor %}
-      </p>
-    {% endif %}
-	-->
-	
+    </span>	
   </a>
 </li>
-
-
 {% endif %}
