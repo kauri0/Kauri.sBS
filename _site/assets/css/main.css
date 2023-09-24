@@ -306,7 +306,7 @@ code.highlighter-rouge {
   src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.eot?#iefix") format("embedded-opentype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff2") format("woff2"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.woff") format("woff"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.ttf") format("truetype"), url("http://localhost:4000/assets/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond") format("svg"); /* Legacy iOS */
 }
 body {
-  background: #75d9aa;
+  background: #9bdfc1;
   color: #000000;
   font-family: "EB Garamond", Garamond, "Times New Roman", serif;
   font-size: 1.3125em;
@@ -459,7 +459,7 @@ figcaption {
 }
 
 .skip-navigation {
-  background: #75d9aa;
+  background: #9bdfc1;
   border: 1px dashed transparent;
   display: block;
   font-size: 0.875em;
@@ -471,7 +471,7 @@ figcaption {
   text-transform: uppercase;
 }
 .skip-navigation:hover, .skip-navigation:focus {
-  background: #7fdcb0;
+  background: #a5e2c7;
   border-color: #000000;
   margin-top: 0;
 }
@@ -629,7 +629,7 @@ figcaption {
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
-  box-shadow: 12px 18px 24px rgba(17, 62, 41, 0.1);
+  box-shadow: 12px 18px 24px rgba(30, 93, 65, 0.1);
 }
 
 .post > * {
@@ -702,8 +702,8 @@ figcaption {
   margin: 0 0.25em;
 }
 .footnote:hover, .footnote:focus {
-  background: #75d9aa;
-  border-color: #75d9aa;
+  background: #9bdfc1;
+  border-color: #9bdfc1;
 }
 
 .footnotes::before {

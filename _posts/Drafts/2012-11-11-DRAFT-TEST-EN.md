@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri
+author: Kauri Beckmann
 title: Tittse
 lang: English
 version: Draft

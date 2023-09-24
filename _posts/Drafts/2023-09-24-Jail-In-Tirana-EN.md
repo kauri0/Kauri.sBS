@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri
+author: Kauri Beckmann
 title: Arrested by the Albanian Mafia
 lang: English
 version: Draft
