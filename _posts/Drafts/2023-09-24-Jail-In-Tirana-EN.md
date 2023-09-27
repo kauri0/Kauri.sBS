@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kauri Beckmann
-title: Arrested by the Albanian Mafia
+title: Draft&#58; Arrested by the Albanian Mafia
 lang: English
 version: Draft
 ref: Jail
@@ -11,7 +11,7 @@ ref: Jail
 
 I want to say a massive thankyou to my girlfriend Lucia. Without her I would have been alone and terrified, and this story would probably have gone quite differently. You’d think there’s not much she can do from San Francisco.
 
-### Part 1: Lies and Intimidation
+### Part I: Lies and Intimidation
 
 ##### Monday 18th September
 
@@ -101,7 +101,7 @@ Eventually they take me to another building, the headquarters “…to see your 
 13565’s partner beckons, and I stick my hands through the bars. The others give him shit as he struggles, a minute to undo my shackles. The jail warden props me against the wall, pats me down, then searches my bag. He rummages a little, and produces my laptop. A laptop!? I was this close to smuggling it in! He yells at the embarrassed officers behind the bars. I wink at the man who brought me in. They keep my laptop.
 
 
-### Part 2: Jail
+### Part III: Jail
 
 The warden takes my backpack to his office, and shows me to my cell. Same as the last station – this time I’m guided through the door with a bar grill window. [This time I’m behind the door. Describe it a little more. There’s no potable water in this station either.] Inside sit a couple other fellas, young local men. They smile. “So what’d they get you for?” We exchange stories. “Yeah, these guys are the mafia. They just do what they want”. Viktor was picked up outside his apartment building, carrying a little bit of weed. The other, Florian – I forget his story – but he was the same, a little bit of weed. He’s a lawyer. “They’re not going to take your stuff, they are too scared. You won’t have any problems; they can’t do anything about a little bit of weed. They will let you go,” he advises.
 
@@ -122,7 +122,7 @@ We become quiet, as commotion stirs outside. The warden peers his head in, and h
 Around 3am, Florian is taken away by another officer. I ask this officer if I can make call, no luck. I’m advised I must wait for a “Licensed Translator” to arrive before I can be processed. I open my wallet, and the warden allows me to stay in his office and write, passing the time together over cigarettes and water. By the end, it cost me nine euro for the privilege.
 
 
-### Part 3: A big ol’ waste of everybody’s time
+### Part III: A big ol’ waste of everybody’s time
 The morning glow peeks through jail cell’s the crusty barred window. A couple hours sleep on the half-broken chairs did its job, I can’t sleep any longer. The metaphorical clock passes. I say hello to the new warden. He doesn’t speak English either.
 
 Eventually I am taken to be processed. I collect my bag from the warden. They lead me to an office, not more than ten metres from the holding cell. “New Zealand”, I understand, and the man inside shakes his head and points to his side. They lead me to the next office. Three men sit at their desks, a small room. A young man beckons me to sit down beside him.

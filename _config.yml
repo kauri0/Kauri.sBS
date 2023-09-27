@@ -23,6 +23,8 @@ icon: /assets/images/icon-512.png
 twitter_username: kauri
 github_username:  kauri0
 
+permalink: /:title.html
+
 # Build settings
 markdown: kramdown
 

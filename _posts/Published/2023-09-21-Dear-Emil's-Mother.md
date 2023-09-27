@@ -23,7 +23,7 @@ And the breakfast, lunch and constant snacks – you really stuffed all three of
 My friends ask me to tell stories – and it seems, for some reason, now they all want to meet you and your family. Though we could not speak directly, I felt your motherly warmth and kindness. I really enjoyed spending the afternoon with you.
 
 <br>
-What is it about your culture, that makes you so kind to strangers? Along my travels I met many Ukranian people, and they have all been so kind, caring, charitable to me. 
+What is it about your culture, that makes you so kind to strangers? Along my travels I met many Ukranian people, and they have all been so friendly, emotionally open, curious, kind, caring, charitable to me. One day, when this is all over, I must visit.
 
 <br>
 I wish all the best for you, your family and your countrymen. 

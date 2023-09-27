@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+    Nur für Geschicten auf Deutsch!
+  </h1>
+  
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% include draft-list-item.html %}
+      {% endfor %}
+    </ul>
+  
+  </main>
+
+      

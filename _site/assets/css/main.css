@@ -340,7 +340,9 @@ h4 {
 h5 {
   font-size: 1em;
   font-style: italic;
-  margin: 2em auto;
+  margin: 0; /* Reset all margins */
+  margin-top: 2em; /* Add margin above */
+  margin-bottom: 1em; /* Add margin below */
   text-align: left;
 }
 
@@ -404,7 +406,7 @@ img {
   display: flex;
   max-width: 100%;
   height: auto;
-  margin: 2em auto;
+  margin: 1em auto;
 }
 
 figure img {

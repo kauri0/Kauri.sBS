@@ -24,9 +24,10 @@ Fuck it, be like the wind.
 
 Our driver was kind, and dropped us near the base of Mont Carpiagne. A fair deal, in exchange to listening to your mix tapes for two hours. It took us three hours to the peak, including detours and exploration. But considering that, despite our giant backpacks we kept pace with a large group of joggers, your mileage may vary.
 
-With a stunning 270degreesunset – sunrise view of the city, and pitched camp nearby, the wind battering us, howling. I strapped up between the legs of a power pylon, uneven ground, with one end of the tarp a good metre above the ground. I knew it was a bad idea – but determined to have the coolest-ever-hammock setup, and armed with Arthur’s rock-stacking alternative to pegs, my stubborn ass stood ground.
+With a stunning 270° sunset – sunrise view of the city, and pitched camp nearby, the wind battering us, howling. I strapped up between the legs of a power pylon, uneven ground, with one end of the tarp a good metre above the ground. I knew it was a bad idea – but determined to have the coolest-ever-hammock setup, and armed with Arthur’s rock-stacking alternative to pegs, my stubborn ass stood ground.
 
-[Image]
+![marseilles_hammock_sunset](\assets\images\marseilles_hammock_sunset.JPG)
+<figcaption>Look out for the stubborn monkey!</figcaption>
 
 ##### Friday 14th April
 
@@ -40,6 +41,7 @@ With a stunning 270degreesunset – sunrise view of the city, and pitched camp n
 
 6:05 am – I discover the fourth upwind line has broken too. This one broke in-between the shock cord, which is how it’s intended to work.
 
+<br>
 The next day, the lady in the outdoor store is confused as to why on earth I need ten metres of this specific camping line. She was rather sweet, and gave us an amazing camping recommendation!
 
 We climbed back down the mountain towards the city, wandered the streets of Marseilles, went for a swim, and retired in the prettiest hostel I’ve ever seen. [Editor’s note: I really should have written more about Marseilles, but alas.]

@@ -32,7 +32,9 @@ layout: default
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
 
+    {% if page.date %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Published {{ page.date | date: "%B %-d, %Y" }}</time>
+    {% endif %}
   </div>
 
   {% if site.disqus.shortname %}
