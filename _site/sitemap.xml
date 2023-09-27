@@ -74,6 +74,9 @@
 <loc>http://localhost:4000/drafts</loc>
 </url>
 <url>
+<loc>http://localhost:4000/gallery</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 </urlset>
