@@ -13,9 +13,26 @@
         {% include post-excerpt.html %}
       {% endif %}
     </div>
-    <span class="post-date">
-      {{ post.date | date: "%b %-d, '%y" }}
-    </span>	
+    {% assign month_abbr = post.date | date: "%b" %}
+{% case month_abbr %}
+  {% when "Jan" %}{% assign month_abbr = "Jan" %}
+  {% when "Feb" %}{% assign month_abbr = "Feb" %}
+  {% when "Mar" %}{% assign month_abbr = "März" %}
+  {% when "Apr" %}{% assign month_abbr = "Apr" %}
+  {% when "May" %}{% assign month_abbr = "Mai" %}
+  {% when "Jun" %}{% assign month_abbr = "Juni" %}
+  {% when "Jul" %}{% assign month_abbr = "Juli" %}
+  {% when "Aug" %}{% assign month_abbr = "Aug" %}
+  {% when "Sep" %}{% assign month_abbr = "Sept" %}
+  {% when "Oct" %}{% assign month_abbr = "Okt" %}
+  {% when "Nov" %}{% assign month_abbr = "Nov" %}
+  {% when "Dec" %}{% assign month_abbr = "Dez" %}
+  {% else %}{% assign month_abbr = month_abbr %}
+{% endcase %}
+
+<span class="post-date">
+  {{ post.date | date: "%-d" }} {{ month_abbr }} {{ post.date | date: "%Y" }}
+</span>
   </a>
 </li>
 {% endif %}
