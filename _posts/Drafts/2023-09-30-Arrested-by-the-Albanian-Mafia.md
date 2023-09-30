@@ -7,7 +7,7 @@ version: Original
 ref: Jail
 ---
 
-**Foreword**
+##### Foreword
 
 I want to say a massive thankyou to my girlfriend Lucia. Without her I would have been alone and terrified, and this story would probably have gone quite differently. You’d think there’s not much she can do from San Francisco.
 

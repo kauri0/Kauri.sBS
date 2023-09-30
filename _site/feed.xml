@@ -5,8 +5,8 @@
     <description>placeholder text :)</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Sep 2023 18:58:58 +0200</pubDate>
-    <lastBuildDate>Sat, 30 Sep 2023 18:58:58 +0200</lastBuildDate>
+    <pubDate>Sat, 30 Sep 2023 19:06:38 +0200</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2023 19:06:38 +0200</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       
@@ -1474,7 +1474,7 @@ We have no.
           
           <author>fakeemail@gmail.com (Kauri's BS)</author>
           <description>
-            &lt;p&gt;&lt;strong&gt;Foreword&lt;/strong&gt;&lt;/p&gt;
+            &lt;h5 id=&quot;foreword&quot;&gt;Foreword&lt;/h5&gt;
 
 &lt;p&gt;I want to say a massive thankyou to my girlfriend Lucia. Without her I would have been alone and terrified, and this story would probably have gone quite differently. You’d think there’s not much she can do from San Francisco.&lt;/p&gt;
 
@@ -2292,7 +2292,9 @@ P.s: Sorry for not telling you my upcoming travel plans until you asked.&lt;/p&g
           
           <author>fakeemail@gmail.com (Kauri's BS)</author>
           <description>
-            &lt;p&gt;Actually, this one is an English translation. You can read the &lt;a href=&quot;/test&quot;&gt;German Original here&lt;/a&gt;.&lt;/p&gt;
+            &lt;h5 id=&quot;foreword&quot;&gt;Foreword&lt;/h5&gt;
+
+&lt;p&gt;Actually, this one is an English translation. You can read the &lt;a href=&quot;/Fahren-600km-mit-Anhalter-für-einen-Zahnarzttermin.html&quot;&gt;German Original here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h5 id=&quot;wednesday-7th-june&quot;&gt;Wednesday 7th June&lt;/h5&gt;
 

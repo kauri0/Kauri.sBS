@@ -7,7 +7,9 @@ version: Original
 ref: Zahne
 ---
 
-Actually, this one is an English translation. You can read the [German Original here](/test).
+##### Foreword
+
+Actually, this one is an English translation. You can read the [German Original here](/Fahren-600km-mit-Anhalter-für-einen-Zahnarzttermin.html).
 
 ##### Wednesday 7th June
 
