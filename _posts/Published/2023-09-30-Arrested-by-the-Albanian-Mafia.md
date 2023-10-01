@@ -37,10 +37,13 @@ I think back to a recent acquaintance I made. I rode five hours with a Dutch man
 
 I begrudgingly remove items from my backpack, condescendengly explaining each item. I do not want them to touch my shit. What’s in my bag? Well, fuck. With me I have all my useful junk, everything of value. All day I’ve been writing emails, applying for jobs, chatting with friends and family. The city seems a right place for it. I have my phone, my cables, my passport. Brand new earbuds. My wallet, about 30,000 LEK (300€) in cash. My togs - you never know when you're going to need them, even in the middle of the city. A tote bag, inspected. An empty water bottle, sniffed. Half a can of Pringles, poured to the floor. On reflection, the most valuable item in there was my journal.
 
-A small snus container, the culprit. A snus pouch is a small, teabag-like sachet that contains tobacco product, a white powder. Swedish stuff. 100% legal. A snus container has two compartments: the bottom compartment holds the snus itself, and the top compartment is for discarding used pouches. This is what it looks like.
+A small snus container, the culprit. I've been using it to quit smoking. A snus pouch is a small, teabag-like sachet that contains tobacco product, a white powder. Swedish stuff. 100% legal. A snus container has two compartments: the bottom compartment holds the snus itself, and the top compartment is for discarding used pouches. This is what it looks like.
 
-[image]
+<br>
+Editor's note: Image coming one day. For now you can see an example product here:
+[Wikipedia: Nicotine pouch](https://en.wikipedia.org/wiki/Nicotine_pouch)
 
+<br>
 He picks it out of my backpack’s front pocket. Despite all those muscles, he simply couldn’t get it open. Pulling and twisting, not a budge. Begrudgingly I take it from his hands and pop the top flap open, revealing three used snus pouches. “This is snus,” I explain. “Nicotine. What else do you want?”
 
 Muscleman inspects it closely. “This is cocaine?”
@@ -61,6 +64,10 @@ As if he’d just remembered something, the offending officer closes the snus co
 
 They're pestering me a bunch of questions about the weed, about the cocaine. “What is this? Where did you buy it from? Who sold it to you?” Now I don’t talk any more, I’m shitting myself. My internal monologue is blowing up. “How the fuck did you get yourself in this situation? Were you doing something wrong? Why did you let them search you? You didn’t – he just took it from your bag! Is that legal? Is any of this legal? Fuck, I don’t even know if snus is legal here! Why did you bring the weed? You don’t even smoke!”
 
+<br>
+Editor's note: I don't even smoke. Long story, I'd carried it since Croatia and pretty much forgot about it. I intended to gift it to someone during my travels.
+
+<br>
 A police car is coming to take me to the station. This is going to be a problem.
 
 “What, am I supposed to bribe these guys? How much do I bribe them? Twenty euro? Offensive. Fifty euro? Two-hundred? Fuck, that’s a lot of money. Shit, I might have told them I’m in Tirana to see the dentist. I’m dressed way too nicely. I'm probably the best-dressed person in Tirana right now. They think you have money. This is going to turn into an extortion case, isn’t it? At least it’s not the mafia, right? Why did you decide to wear your only shirt today? Why did you come here with all your valuables? You’ve been working on your laptop all day, right. And you were just on the phone with your girlfriend Lucia. Lucia? Lucia!”
