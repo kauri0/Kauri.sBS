@@ -14,7 +14,7 @@ Day one of cycle touring through Albania.<br>
 
 I've never cycle toured before.<br>
 
-I carry my rucksack.<br>
+I just carry my rucksack.<br>
 
 And this is how I carry my rucksack on a bicycle.<br>
 
