@@ -18,7 +18,7 @@ I carry my rucksack.<br>
 
 And this is how I carry my rucksack on a bicycle.<br>
 
-![cycle1_rucksack](\assets\images\cycle1\cycle1_rucksack.JPG)
+![cycle1_rucksack](\assets\images\cycle1\cycle1_rucksack.jpg)
 <figcaption>Bungee cords.</figcaption>
 
 Zak and I left Tirana mid-day, headed to Pëllumbas, twenty kilometres south-east. On the road we met a couple of German cycle tourists who'd cycled here from somewhere in Bavaria, Germany. Sven helped fixed as issue with my rear derailleur, their traumatising spelling.
@@ -32,7 +32,7 @@ We followed the street of Pëllumbas in search of a campground.
 As the sun set we set camp, overlooking the mouth of the valley, Tirana well in view.
 
 ![cycle1_viewvalley](\assets\images\cycle1\cycle1_viewvalley.jpg)
-<figcaption>The mouth of Pëllumbasit Valley</figcaption>
+<figcaption>The mouth of Pëllumbasit Valley.</figcaption>
 
 ##### Tuesday 10th October
 
@@ -62,13 +62,13 @@ A million-year-old shit in a pile at the back of the cave.<br>
 
 We slobber to the top, just to slide our way down.<br>
 
-![cycle1_smile](\assets\images\cycle1\cycle1_smile.JPG)
+![cycle1_smile](\assets\images\cycle1\cycle1_smile.jpg)
 <figcaption>The Bouncer's Smile</figcaption>
 
 In the afternoon, Sebastian and Sven departed Pëllumbas to make progress on their journey South.
 Zak and I stayed for lunch, then went to find a campsite in Pëllumbasit valley.
 
-![cycle1_sebandsven](\assets\images\cycle1\cycle1_sebandsven.JPG)
+![cycle1_sebandsven](\assets\images\cycle1\cycle1_sebandsven.jpg)
 <figcaption>Lunch with Sven and Sebastian</figcaption>
 
 ##### Wednesday 11th October
@@ -96,7 +96,7 @@ Today we rode just ten kilometres. It took us five hours, because Rupee had deci
 
 Rupert joined us while we watched the local mechanic effortlessly patch up a hole in my tire, then took him to the supermarket. He was seemed hungry, but too spoilt to even eat sausage! We tried to say goodbye, but we'd ummed and ahhed about letting him come. But in the end, he made the decision for us. We let him follow because we're headed closer to Tirana, to wait for Joe and Ebony. We'll take him home when we undoubtedly head back.
 
-![cycle1_rupee](\assets\images\cycle1\cycle1_rupee.JPG)
+![cycle1_rupee](\assets\images\cycle1\cycle1_rupee.jpg)
 <figcaption>Me, Zak and Rupee!</figcaption>
 
 We stopped a lot for rest and water; I suppose it was a huge journey for him! I even made a cardboard-box passenger seat on the back of my bike, but he doesn't like it. We'd tried, but Rupee quickly jumped out, so we cycled ahead and let him trail us.
@@ -109,12 +109,12 @@ Alas, we'd taken a wrong turn, and had to pass back the exact same way fifteen m
 
 Today we went to a bar at the top of this hill, and a man on the table next to us helped us order the two most expensive beers on the menu. We chatted a while with Klinton. He lives in the UK, family in Tirana. He brought the double-decker bus that sits atop this hill; he brought it from London himself. The waiter brought out the bill... 9 euro!? Did the bus take us back to London? Paulaner Helles, most expensive beers in Albania! Zak and I looked at eachother in panic. We're down to 6.55 euro between us. But before we could say anything, Klinton announced the beers are on him. He also advised us, if we ever need anything while we're in Albania, he's our man. 
 
-![cycle1_viewtirana](\assets\images\cycle1\cycle1_viewtirana.JPG)
+![cycle1_viewtirana](\assets\images\cycle1\cycle1_viewtirana.jpg)
 <figcaption>A view of Tirana from the cafe.</figcaption>
 
 We climbed the hill just a little bit higher, to the ruins of a military base. Now we'll sit tight and wait for Joe to join us, but Ebony might need a bit longer in the city, for her teeth. For tonight I have a wild hang on the hammock across the opening of the old military tunnels, overlooking the mountains of Tirana.
 
-![cycle1_viewhammock](\assets\images\cycle1\cycle1_viewhammock.JPG)
+![cycle1_viewhammock](\assets\images\cycle1\cycle1_viewhammock.jpg)
 <figcaption>Zak plays his ukelele.</figcaption>
 
 ##### Friday 13th October
@@ -141,7 +141,7 @@ We caught up over the usual food and cheap beer, laughing at the troubles of the
 
 ##### Sunday 15th October
 
-![cycle1_viewcastle](\assets\images\cycle1\cycle1_viewcastle.JPG)
+![cycle1_viewcastle](\assets\images\cycle1\cycle1_viewcastle.jpg)
 <figcaption>Preparing to cycle to the castle in the background.</figcaption>
 
 We'd ummed and ahhed about taking Ruby up to the castle. It'd be a return journey, she'd be as fast as us on the ascent, and we'd come back to camp in the same spot again. But she made the decision for us; while we were stocking up in town she simply disappeared. Fair enough, we hardly fed her breakfast. She didn't really like the sardines Joe brought her, and they'd made the evidently questionable decision of leaving her dog food on the beach overnight, for fear of attracting some other local wildlife.
@@ -162,7 +162,7 @@ Joe and Zak lure it closer as I lounge behind and comment. After several pieces,
 
 I get up and dish out our first serving of pasta, then take my original seat. Now the cat takes an interest in me. Admittedly, I do wolf down that first serving rather selfishly. I'm starving. She nuzzles me nonetheless. Engels, after communism, Zak named her. Later I would have Engles in my lap, playfully clawing and nibbling my fingers as I gave her a rough massage. And after she'd had her fun with us, she was gone.
 
-![cycle1_campfire](\assets\images\cycle1\cycle1_campfire.JPG)
+![cycle1_campfire](\assets\images\cycle1\cycle1_campfire.jpg)
 <figcaption>A campfire on the beach. Left to right: Engles, Zak, Rupert, Joe.</figcaption>
 
 Ruby was gone, too. Tonight she lay with us by the fire. We'd taken our turns cuddling with her. She's been with us for five nights tonight, tonight the last. I really enjoyed the adventures with her. She was happy, honest, and just so friendly. The locals treat her in kind. She is just a little bit chubby, and her hair is shedding for winter. She'll be just fine. I reckon she made a quiet departure to the nearby shell-of-a-building as soon as the sky started flickering.
@@ -184,5 +184,5 @@ The storm has passed, and all is fine. Rupert turned up at 5am smelling suspicio
 
 Joe has to go back to Tirana to stay with Ebony. Zak and I, we're planning our next moves - bolt it down south to the next city, camp in some cool places along the way. We want to leave this city, but eventually accept that a short detour back to Tirana might be in order - if not to see Ebony then at least for a few needed supplies and adjustments.
 
-![cycle1_byerupee](\assets\images\cycle1\cycle1_byerupee.JPG)
+![cycle1_byerupee](\assets\images\cycle1\cycle1_byerupee.jpg)
 <figcaption>Goodbye Ruby.</figcaption>
