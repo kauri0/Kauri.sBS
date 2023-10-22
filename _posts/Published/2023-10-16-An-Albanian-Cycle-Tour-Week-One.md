@@ -21,12 +21,12 @@ And this is how I carry my rucksack on a bicycle.<br>
 ![cycle1_rucksack](\assets\images\cycle1\cycle1_rucksack.jpg)
 <figcaption>Bungee cords.</figcaption>
 
-Zak and I left Tirana mid-day, headed to Pëllumbas, twenty kilometres south-east. On the road we met a couple of German cycle tourists who'd cycled here from somewhere in Bavaria, Germany. Sven helped fixed as issue with my rear derailleur, their traumatising spelling.
+Zak and I left Tirana mid-day, headed to Pëllumbas, twenty kilometres south-east. On the road we met a couple of German cycle tourists who'd cycled here from somewhere in Bavaria, Germany. Sven helped fixed an issue with my rear derailleur.
 Sebastian and Zak rode uphill for some imaginary medal.
 
 A good trial for the legs. By the end, the cramps wouldn't stop.
 
-A good trial for the bicycle. 100€; somehow twice the price to Ebony's bicycle, yet twice as good of a deal. 
+A good trial for the bicycle. 100€; somehow twice the price of Ebony's bicycle, yet twice as good of a deal. 
 
 We followed the street of Pëllumbas in search of a campground.
 As the sun set we set camp, overlooking the mouth of the valley, Tirana well in view.
@@ -36,7 +36,7 @@ As the sun set we set camp, overlooking the mouth of the valley, Tirana well in 
 
 ##### Tuesday 10th October
 
-We'd camped at the beginning of a hike to some spooky cave, as "Black Cave Adventures" advertises it. We packed our bags, ditched our bikes in town, then started hiking up. Sebastian and I turned the hike into a trail run that almost felt as if it hasn't been so long since my last proper run.<br><br>
+We'd camped at the beginning of a hike to some spooky cave, as "Black Cave Adventures" advertises it. We packed our bags, ditched our bikes in town, then started hiking up. Sebastian and I turned the hike into a trail run that almost felt as if it hadn't been so long since my last proper run.<br><br>
 
 The mouth of Black Cave invites us into it's darkness.<br>
 
@@ -50,13 +50,13 @@ The interior is decorated by the actions of time.<br>
 
 A noisy flock of bats dance along the ceiling.<br>
 
-The private room requires a sacrifice to enter.<br>
+The private room requires a sacrifice; muddy your knees to enter.<br>
 
 The depths, some few hundred metres, open up high and wide.<br><br>
 
 Bats roost on the ceiling. A couple hundred of them, at least.<br>
 
-The slippery, clayey ground graduates into a twenty-metre-high, and<br>
+The slippery, clayey ground graduates into a twenty-metre-high,<br>
 
 A million-year-old shit in a pile at the back of the cave.<br>
 
@@ -72,9 +72,9 @@ Zak and I stayed for lunch, then went to find a campsite in Pëllumbasit valley.
 <figcaption>Lunch with Sven and Sebastian</figcaption>
 
 ##### Wednesday 11th October
-News from Joe and Ebony, they're coming south to meet us. They've chosen a new destination - Greece. (Well actually Turkey, but now Greece as opposed to North-East through Kosovo.)
+News from Joe and Ebony, they're coming south to meet us! They've chosen a new destination - Greece. (Well actually Turkey, but now Greece as opposed to North-East through Kosovo.)
 
-We stopped for beer at a cafe in a town called Mullet, Zak insisted we must visit. We stopped across the road down a local side street, invited to camp there by our new neighbours. Children played games in the yard across from us. A lad brought us a bottle of water.
+We stopped for beer at a cafe in a town called Mullet, Zak insisted we must visit. We found camp down a local side street, invited by our new neighbours. Children played games in the yard across from us. A lad brought us a bottle of water.
 
 We filled our bellies with my usual vegetable stew, and shared Zak's tent. There were no trees for the hammock today.
 
@@ -94,25 +94,27 @@ I slept beneath the stars with Rupert.
 
 Today we rode just ten kilometres. It took us five hours, because Rupee had decided to followed us the whole way to our next campsite.
 
-Rupert joined us while we watched the local mechanic effortlessly patch up a hole in my tire, then took him to the supermarket. He was seemed hungry, but too spoilt to even eat sausage! We tried to say goodbye, but we'd ummed and ahhed about letting him come. But in the end, he made the decision for us. We let him follow because we're headed closer to Tirana, to wait for Joe and Ebony. We'll take him home when we undoubtedly head back.
+Rupert joined us while we watched the local mechanic effortlessly patch up a hole in my tire, then took Rupee to the supermarket. He seemed hungry, but too spoilt to eat even sausage! We'd ummed and ahhed about letting him follow on our journey, but in the end, he made the decision for us. We let him follow because we're headed closer to Tirana, to wait for Joe and Ebony. We'll take him home when we undoubtedly return to Mullet.
 
 ![cycle1_rupee](\assets\images\cycle1\cycle1_rupee.jpg)
 <figcaption>Me, Zak and Rupee!</figcaption>
 
-We stopped a lot for rest and water; I suppose it was a huge journey for him! I even made a cardboard-box passenger seat on the back of my bike, but he doesn't like it. We'd tried, but Rupee quickly jumped out, so we cycled ahead and let him trail us.
+We stopped a lot for rest and water; I suppose it was a huge journey for him! I even made a cardboard-box passenger seat on the back of my bike, but he hated it. We'd tried, but Rupee quickly jumped out, so we cycled ahead and let him trail us again.
 
-Suddenly some barking dogs darted from the bushes behind us, cutting Rupert off. Rupert sprinted backwards, three hungry dogs on tail. Immediately I pulled a u-turn, shouting, hogging the road, holding up cars as I pedalled full-speed. Just as the first dog caught up I was there. I dropped my bike and threatened him with all my might. Like the others, he backed off into the fields, as I cuddled Rupee, cars finally passing by. The real reason the journey took so long is because we spent half our time escorting this warm, friendly, timid dog past hungry territorial hounds.
+Suddenly some barking dogs darted from the bushes behind us, cutting Rupert off. Rupert sprinted backwards, three hungry dogs on tail. Immediately I pulled a u-turn, shouting, hogging the road, holding up cars as I pedalled full-speed. Just as the first dog caught up I was there. I dropped my bike and threatened him with all my might. Like the others, he backed off into the fields, as I cuddled Rupee, cars finally passing by. 
 
-We still had to get past, so this time we walked with him. The dogs continued their harrassing comments, and I threw back their aggression back. The commotion brought out the neighbours, one of whom with we spoke english, amidst the commotion. We finally passed the dogs, but one neighbour followed us, yelling in our direction. Shs smiled at us sweetly as we waited for her to catch up - she was yelling at her neighbours, who in the distance were stamping and smacking the ground, putting out a small fire in the field next door! The smell was nauseous, poisoned by the litter on the side of the road. As we approached we decided to help, stamping the offspring, spraying the fire with dirt. We left, the largest flames still licking their lips.
+This wasn't the only time this happened, either: the real reason the journey took so long is because we spent half our time escorting this cute, timid doggy past hungry, territorial hounds.
 
-Alas, we'd taken a wrong turn, and had to pass back the exact same way fifteen minutes later. By now the fire was reduced to a small flicker. We waved again at the poor men who seemed not to care for the fumes they were standing it. We had to go past the dogs. This time we put Rupee in his passenger seat, and Zak held him as I pedalled at walking pace. The dogs barked furiously, and followed us in the field beside us, but daren't come near.
+We still had to get past, so this time we walked with him. The dogs continued their harrassing comments, and I threw their aggression back. The commotion brought out the neighbours, and they understood our situation. We finally passed the hounds, but one neighbour followed us, yelling in our direction. Shs smiled at us sweetly as we waited for her to catch up - she was yelling at her neighbours, who in the distance were stamping and smacking the ground, putting out a small fire in the field next door! The smell was nauseous, poisoned by the litter on the side of the road. As we approached we decided to help, stamping the offshoots, spraying the fire with dirt. We left, the largest flames still licking their lips.
 
-Today we went to a bar at the top of this hill, and a man on the table next to us helped us order the two most expensive beers on the menu. We chatted a while with Klinton. He lives in the UK, family in Tirana. He brought the double-decker bus that sits atop this hill; he brought it from London himself. The waiter brought out the bill... 9 euro!? Did the bus take us back to London? Paulaner Helles, most expensive beers in Albania! Zak and I looked at eachother in panic. We're down to 6.55 euro between us. But before we could say anything, Klinton announced the beers are on him. He also advised us, if we ever need anything while we're in Albania, he's our man. 
+Alas, we'd taken a wrong turn, and had to pass back the exact same way fifteen minutes later. By now the fire was reduced to a small flicker. We waved again at the poor men who seemed not to care for the fumes they were standing it. We had to go past the dogs. This time we put Rupee in his passenger seat, and Zak held him as I pedalled at walking pace. The dogs barked furiously, and trailed beside and beside us, but daren't come near.
+
+We cycled up to a bar at the top of this hill, and a man on the table next to us helped us order the two most expensive beers on the menu. We chatted a while with Klinton. He lives in the UK, family in Tirana. He brought the double-decker bus that sits atop this hill; he brought it from London himself. The waiter brought out the bill... 9 euro!? Did the bus take us back to London? Paulaner Helles, most expensive beers in Albania! Zak and I looked at eachother in panic. We're down to 6.55 euro between us. But before we could say anything, Klinton announced the beers are on him. He also advised us, if we ever need anything while we're in Albania, he's our man. 
 
 ![cycle1_viewtirana](\assets\images\cycle1\cycle1_viewtirana.jpg)
 <figcaption>A view of Tirana from the cafe.</figcaption>
 
-We climbed the hill just a little bit higher, to the ruins of a military base. Now we'll sit tight and wait for Joe to join us, but Ebony might need a bit longer in the city, for her teeth. For tonight I have a wild hang on the hammock across the opening of the old military tunnels, overlooking the mountains of Tirana.
+We climbed the hill just a little bit higher, to the ruins of a military base, and set camp. Now we'll sit tight and wait for Joe to join us, but Ebony might need a bit longer in the city, for her teeth. For tonight I have a wild hang on the hammock across the opening of the old military tunnels, overlooking the mountains of Tirana.
 
 ![cycle1_viewhammock](\assets\images\cycle1\cycle1_viewhammock.jpg)
 <figcaption>Zak plays his ukelele.</figcaption>
@@ -130,7 +132,7 @@ Therefore, Joe cycled to the bottom of the hill, the direction Zak and I had com
 I waited in my hammock, hopelessly trying to coordinate the boys.
 Zak returned with tattered trousers, and Joe pitched tent twenty kilometres away.
 
-As I gave him a bedtime rub, I discovered, "I think Rupee has nipples!". Rupert soon acquired another nickname.
+As I gave him a bedtime rub, I discovered why all the dogs had been chasing Rupert. Rupee has nipples! Rupert soon acquired another nickname.
 
 ##### Saturday 14th October
 

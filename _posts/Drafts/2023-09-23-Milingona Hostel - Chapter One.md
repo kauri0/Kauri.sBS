@@ -61,11 +61,11 @@ I completely rewrote my cover letter and resume for Engineering, and started fir
 
 At first, I extended one night, then another. 
 
-
+I fit in with the guests, and developed a fondness for some of the volunteers. After an inspiring discussion with Joe, I decided I'd be interested in volunteering there. I'd talk to them about it first thing in the morning.
 
 That night I went to bed late. As I usually do, I had my bed made, all my stuff packed together neatly, with just a draping towel to identify my bed. I choose the top bunk always. As I reached up to the bed to set down my backpack, I felt an odd sensation. I touched again and recoiled, as he jumped stiff to attention. There's a man in my bed! After brief confusion, I turn the lights on and check: that's my bed, my towel is there. The rest of the beds are full.
 
-I fit in with the guests, and developed a fondness for some of the volunteers. After an inspiring discussion with Joe, I decided I'd be interested in volunteering there. I'd talk to them about it first thing in the morning.
+
 
 
 
