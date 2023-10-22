@@ -28,7 +28,7 @@ For now, here's a quick run-down of the last nine months...
 
 * Hitched to Munich for a date with Lucia. 'Twas faster than Jade's train. 'Twas the best first date of my life. Started studying the German language, and converted to the religion of Brot (bread, good German bread).
 
-* Hitched North-east with some hikes in Bavaria. Through Prague, Czech Republic, to Poznan, Poland to attend a massive party with my best friend Sachin. He's studying medicine there. Travelled together north to Gdansk for some tourism.
+* Hitched North-east with some hikes in Bavaria. Through Prague, Czech Republic, and on to Poznan, Poland to attend a massive party with my best friend Sachin. He's studying medicine there. Travelled together north to Gdansk for some tourism.
 
 ##### April
 * Hitched west to Berlin, to run the Berlin Half Marathon with Lucia, Jade and her boyfriend. Ran it in 1:45, with lots of comments about my bare feet.
@@ -37,12 +37,12 @@ For now, here's a quick run-down of the last nine months...
 
 * Hitched west through France. [Marseilles is not the same as Varsailles](/Marseilles-is-not-the-same-as-Versailles.html) takes place.
 
-* Hitched and hiked west through the Pyrenees Mountains to Andorra, where I met an Englishman who took me all the way to London.
+* Hitched and hiked west through the French and Spanish Pyrenees Mountains. Met an Englishman in Andorra who took me all the way to London.
 
 ##### May
 * Spent some time in London to catch up with friends and help Jade move apartments.
 
-* Hitched east across the channel from London, back through France, Belgium and Germany. Stopped off in Dusseldorf, Essen, Cologne and Bonn. Deuschlandticket is released in Germany, with unlimited local and regional train use for just €49/month. I paid but hardly used it.
+* Hitched east across the channel from London, back through France, Belgium and Germany. Stopped off in Dusseldorf, Essen, Cologne and Bonn. Deuschlandticket is released in Germany, with unlimited local and regional train use for just €49/month. I paid but hardly used it; hitchhiking is simply more fun.
 
 * Hitched south to Munich for another, for another long date with Lucia. Kicked out of a dance class together. Made applications to study in Germany, and achieved a perfect score on the GMAT. Became a local Lucia's favourite bakery in Munich. Took a train together into the German Alps to go hiking and camping in the rain.
 
