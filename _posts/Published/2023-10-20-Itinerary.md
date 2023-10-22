@@ -7,7 +7,7 @@ version: Original
 ref: Itinerary
 ---
 
-It's a little bit difficult to play catch-up on past travels, but I am working on it!
+It's a little bit difficult to play catch-up on past travels, but I am slowly working on it!
 For now, here's a quick run-down of the last nine months...
 
 ##### February
@@ -15,7 +15,7 @@ For now, here's a quick run-down of the last nine months...
 
 * Caught a bus from London to Paris to begin my travels in Europe.
 
-* Started hitchhiking north-east through Belgium. Detours through Belgium; Brussels, Namur, Dinant. Made a quality friend in Namur. [Dear Emil's Mother](/Dear-Emil's-Mother.html) takes place.
+* Started hitchhiking north-east through Belgium. Detours through Belgium; Brussels, Namur, Dinant. Made a quality friend in Namur.
 
 ##### March
 * Hitched south through Germany. Spent some time in Stuttgart.
@@ -42,7 +42,7 @@ For now, here's a quick run-down of the last nine months...
 ##### May
 * Spent some time in London to catch up with friends and help Jade move apartments.
 
-* Hitched east across the channel from London, back through France, Belgium and Germany. Stopped off in Dusseldorf, Essen, Cologne and Bonn. Deuschlandticket is released in Germany, with unlimited local and regional train use for just €49/month. I paid but hardly used it; hitchhiking is simply more fun.
+* Hitched east across the channel from London, back through France, Belgium and Germany. [Dear Emil's Mother](/Dear-Emil's-Mother.html) takes place. Stopped off in Dusseldorf, Essen, Cologne and Bonn. Deuschlandticket is released in Germany, with unlimited local and regional train use for just €49/month. I paid but hardly used it; hitchhiking is simply more fun.
 
 * Hitched south to Munich for another, for another long date with Lucia. Kicked out of a dance class together. Made applications to study in Germany, and achieved a perfect score on the GMAT. Became a local Lucia's favourite bakery in Munich. Took a train together into the German Alps to go hiking and camping in the rain.
 
