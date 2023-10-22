@@ -130,7 +130,7 @@ Therefore, Joe cycled to the bottom of the hill, the direction Zak and I had com
 I waited in my hammock, hopelessly trying to coordinate the boys.
 Zak returned with tattered trousers, and Joe pitched tent twenty kilometres away.
 
-"Rupee has nipples!" I discovered, as I gave her a bedtime rub. Rupert soon acquired another nickname.
+As I gave him a bedtime rub, I discovered, "I think Rupee has nipples!". Rupert soon acquired another nickname.
 
 ##### Saturday 14th October
 
