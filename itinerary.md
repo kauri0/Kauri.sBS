@@ -82,4 +82,4 @@ For now, here's a quick run-down of the last nine months...
 * Started volunteering in Milingona Hostel, Tirana. Story under construction. 
 
 ##### October
-* After three weeks, left the hostel to go cycle touring with Zak, Joe and Ebony. [An Albanian Cycle Tour: Week One](/An-Albanian-Cycle-Tour-Week-One.html) takes place. Week Two is still under construction.
+* After three weeks, left the hostel to go cycle touring with Zak, Joe and Ebony. [An Albanian Cycle Tour: Week One](/An-Albanian-Cycle-Tour-Week-One.html) takes place. Week Two is still under construction, and the future is a mystery.

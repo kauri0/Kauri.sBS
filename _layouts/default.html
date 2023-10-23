@@ -16,46 +16,13 @@
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
-    {%- endif -%}
-
-<!--Show only posts of same language
-	{% assign posts=site.posts | where:"lang", page.lang %}
-	<ul>
-	{% for post in posts %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		</li>
-	{% endfor %}
-	</ul>
-Show only posts of same language-->
-
-
-
+    <!--{% if jekyll.environment == 'development' %}-->
+    {% include google-analytics.html %}
+    <!--{% endif %}-->
   </head>
   <body>
 
-<!-- "Skip to content" button at top
-
-    {% if page.layout == 'home' %}
-      <a href="#main" class="skip-navigation">
-        Skip to list of posts
-      </a>
-    {% else %}
-      <a href="#main" class="skip-navigation">
-        Skip to content
-      </a>
-    {% endif %}
--->
-
     {{ content }}
-
-<!-- SEARCH BAR
-    {% unless site.hide_search %}
-      {% include search.html %}
-    {% endunless %}
--->
 
 {% include menu.html %}
 <div style="height:30px;"></div>
