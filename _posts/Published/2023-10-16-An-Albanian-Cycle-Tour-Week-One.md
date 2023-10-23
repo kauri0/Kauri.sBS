@@ -154,7 +154,7 @@ After some time at the cafe we cycled the winding, exhilirating downhill. As we 
 
 We came back to the same campsite we were at last night, in the grasses by the river. We set camp and scavenged for firewood, then sat around the riverside fireplace cooking dinner. The typical, but with an extra smoky flavour.<br><br>
 
-Caramelise onions and whole bulb of garlic, dry-fry paprika then stir together; later add tomatoes then tomato paste. Patience; reasonably low heat. For dry-fry paprika, medium-high. Multiple pasta bases: spaghetti, fusilli and spaghetti. Beef or chicken stock to salt.<br><br>
+*Caramelise onions and whole bulb of garlic, dry-fry paprika then stir together; later add tomatoes then tomato paste. Patience; reasonably low heat. For dry-fry paprika, medium-high. Multiple pasta bases: spaghetti, fusilli and spaghetti. Beef or chicken stock to salt.*<br><br>
 
 We sipped our beers as it got dark, sharing stories and banter. Zak and Joe are friends from high school, and they've developed a great storytelling routine.
 

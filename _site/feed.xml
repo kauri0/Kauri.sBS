@@ -5,155 +5,9 @@
     <description>...that&apos;s Brilliant Stories, duh</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Oct 2023 19:13:24 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Oct 2023 19:13:24 +0200</lastBuildDate>
+    <pubDate>Mon, 23 Oct 2023 12:32:29 +0200</pubDate>
+    <lastBuildDate>Mon, 23 Oct 2023 12:32:29 +0200</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
-    
-      
-        <item>
-          
-            <title>Itinerary</title>
-          
-          <author>fakeemail@gmail.com (Kauri's BS)</author>
-          <description>
-            &lt;p&gt;It’s a little bit difficult to play catch-up on past travels, but I am working on it!
-For now, here’s a quick run-down of the last nine months…&lt;/p&gt;
-
-&lt;h5 id=&quot;february&quot;&gt;February&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Landed in London. Caught up with friends and lazy-applied for some jobs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Caught a bus from London to Paris to begin my travels in Europe.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Started hitchhiking north-east through Belgium. Detours through Belgium; Brussels, Namur, Dinant. Made a quality friend in Namur. &lt;a href=&quot;/Dear-Emil&apos;s-Mother.html&quot;&gt;Dear Emil’s Mother&lt;/a&gt; takes place.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;march&quot;&gt;March&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched south through Germany. Spent some time in Stuttgart.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched south to Innsbrucke, Austria. Made a quality friend in Innsbrucke.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Failed to hitchhike west to St Anton; took a train instead.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A week of skiing in St Anton with my sister Jade and a large group of friends. Met the love of my life, Lucia.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched to Munich for a date with Lucia. ‘Twas faster than Jade’s train. ‘Twas the best first date of my life. Started studying the German language, and converted to the religion of Brot (bread, good German bread).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched North-east with some hikes in Bavaria. Through Prague, Czech Republic, to Poznan, Poland to attend a massive party with my best friend Sachin. He’s studying medicine there. Travelled together north to Gdansk for some tourism.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;april&quot;&gt;April&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched west to Berlin, to run the Berlin Half Marathon with Lucia, Jade and her boyfriend. Ran it in 1:45, with lots of comments about my bare feet.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Caught a train with Jade to Chamonix, Mt Blanc, France, for a week of perfect off-piste skiing. Became rather comfortable with drops up to five metres.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched west through France. &lt;a href=&quot;/Marseilles-is-not-the-same-as-Versailles.html&quot;&gt;Marseilles is not the same as Varsailles&lt;/a&gt; takes place.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched and hiked west through the Pyrenees Mountains to Andorra, where I met an Englishman who took me all the way to London.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;may&quot;&gt;May&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spent some time in London to catch up with friends and help Jade move apartments.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched east across the channel from London, back through France, Belgium and Germany. Stopped off in Dusseldorf, Essen, Cologne and Bonn. Deuschlandticket is released in Germany, with unlimited local and regional train use for just €49/month. I paid but hardly used it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched south to Munich for another, for another long date with Lucia. Kicked out of a dance class together. Made applications to study in Germany, and achieved a perfect score on the GMAT. Became a local Lucia’s favourite bakery in Munich. Took a train together into the German Alps to go hiking and camping in the rain.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched south-east to Salzberg where I made another quality friend. Later, some serious hiking in the Austrian Alps.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched north to Berlin, then hitched east back to Poznan, Poland to attend Sachin’s graduation ceremony.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;june&quot;&gt;June&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched west then south again back toward Munich, where &lt;a href=&quot;/Fahren-600km-mit-Anhalter-für-einen-Zahnarzttermin.html&quot;&gt;Fahren 600km per Anhalter für einen Zahnarzttermin&lt;/a&gt; takes place. &lt;a href=&quot;/Asymmetrical-warfare.html&quot;&gt;Asymmetrical Warfare: Part I&lt;/a&gt; also takes place&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spent a week in Munich with Lucia. Spent a lot of time studying together in various cafes and libraries, and helped her write a research paper. Met most of her friends, who happen to be pretty cool! &lt;a href=&quot;/Ein-Schreiben-an-Lucia&apos;s-Vermieter.html&quot;&gt;Die Kleinen Dinge: Ein Schreiben an Lucia’s Vermieter&lt;/a&gt; takes place.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Caught a train south for a hike in the German Alps, then hitched straight back to Munich for a night. Took various forms of transport all the way to Oslo, Norway. Norway, someday I’ll write a proper story about.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rented a car with Jade, and for ten days, drove and camped all over Norway. Incredible hikes and views the whole way. &lt;a href=&quot;/Asymmetrical-warfare.html&quot;&gt;Asymmetrical Warfare: Part II&lt;/a&gt; takes place.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;july&quot;&gt;July&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched south through Norway, Sweden, Denmark, Germany, down to Munich. Took two weeks, with many detours and adventures along the way.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spent another week with Lucia. Gave Lucia some more chess lessons, she’ll be my prodigy. Two university applications were rejected for different bogus reasons that’d need their own story.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Flew to Iceland. Hitched around and undertook one of the most gorgeous multi-day hikes I’ve ever done, while waiting for my sisters Jade and Stella to arrive. Rented a car together, and circumnavigated the country, wild camping along the way. Iceland, someday I’ll write a proper story about too.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;august&quot;&gt;August&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Flew back go Germany and hitched to Munich. Helped Lucia move out of her apartment; she’s going to San Francisco for a semester’s exchange at Berkeley University. Spent a beautiful week with her family.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Took trains south-east to Vienna, Austria to travel Stella. Travelled south to Hungary, then parted ways. She went to Italy, while I hitched south to Croatia.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;september&quot;&gt;September&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Spent a two weeks on various islands in Croatia. Made three quality friends; we went camping, snorkelling, hiking, cycling, free-diving together. I rarely wore a t-shirt.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hitched south to Montenegro and Albania. Spent some time in Tirana, Albania, where &lt;a href=&quot;/Arrested-by-the-Albanian-Mafia.html&quot;&gt;Arrested by the Albanian Mafia&lt;/a&gt; takes place.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Started volunteering in Milingona Hostel, Tirana. Story under construction.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;october&quot;&gt;October&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;After three weeks, left the hostel to go cycle touring with Zak, Joe and Ebony. &lt;a href=&quot;/An-Albanian-Cycle-Tour-Week-One.html&quot;&gt;An Albanian Cycle Tour: Week One&lt;/a&gt; takes place. Week Two is still under construction.&lt;/li&gt;
-&lt;/ul&gt;
-
-          </description>
-          <pubDate>Fri, 20 Oct 2023 00:00:00 +0200</pubDate>
-          <link>http://localhost:4000/Itinerary.html</link>
-          <guid isPermaLink="true">http://localhost:4000/Itinerary.html</guid>
-          
-          
-        </item>
-      
     
       
         <item>
@@ -176,12 +30,12 @@ For now, here’s a quick run-down of the last nine months…&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;\assets\images\cycle1\cycle1_rucksack.jpg&quot; alt=&quot;cycle1_rucksack&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Bungee cords.&lt;/figcaption&gt;
 
-&lt;p&gt;Zak and I left Tirana mid-day, headed to Pëllumbas, twenty kilometres south-east. On the road we met a couple of German cycle tourists who’d cycled here from somewhere in Bavaria, Germany. Sven helped fixed as issue with my rear derailleur, their traumatising spelling.
+&lt;p&gt;Zak and I left Tirana mid-day, headed to Pëllumbas, twenty kilometres south-east. On the road we met a couple of German cycle tourists who’d cycled here from somewhere in Bavaria, Germany. Sven helped fixed an issue with my rear derailleur.
 Sebastian and Zak rode uphill for some imaginary medal.&lt;/p&gt;
 
 &lt;p&gt;A good trial for the legs. By the end, the cramps wouldn’t stop.&lt;/p&gt;
 
-&lt;p&gt;A good trial for the bicycle. 100€; somehow twice the price to Ebony’s bicycle, yet twice as good of a deal.&lt;/p&gt;
+&lt;p&gt;A good trial for the bicycle. 100€; somehow twice the price of Ebony’s bicycle, yet twice as good of a deal.&lt;/p&gt;
 
 &lt;p&gt;We followed the street of Pëllumbas in search of a campground.
 As the sun set we set camp, overlooking the mouth of the valley, Tirana well in view.&lt;/p&gt;
@@ -191,7 +45,7 @@ As the sun set we set camp, overlooking the mouth of the valley, Tirana well in 
 
 &lt;h5 id=&quot;tuesday-10th-october&quot;&gt;Tuesday 10th October&lt;/h5&gt;
 
-&lt;p&gt;We’d camped at the beginning of a hike to some spooky cave, as “Black Cave Adventures” advertises it. We packed our bags, ditched our bikes in town, then started hiking up. Sebastian and I turned the hike into a trail run that almost felt as if it hasn’t been so long since my last proper run.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;We’d camped at the beginning of a hike to some spooky cave, as “Black Cave Adventures” advertises it. We packed our bags, ditched our bikes in town, then started hiking up. Sebastian and I turned the hike into a trail run that almost felt as if it hadn’t been so long since my last proper run.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The mouth of Black Cave invites us into it’s darkness.&lt;br /&gt;&lt;/p&gt;
 
@@ -205,13 +59,13 @@ As the sun set we set camp, overlooking the mouth of the valley, Tirana well in 
 
 &lt;p&gt;A noisy flock of bats dance along the ceiling.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The private room requires a sacrifice to enter.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The private room requires a sacrifice; muddy your knees to enter.&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The depths, some few hundred metres, open up high and wide.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bats roost on the ceiling. A couple hundred of them, at least.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The slippery, clayey ground graduates into a twenty-metre-high, and&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The slippery, clayey ground graduates into a twenty-metre-high,&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;A million-year-old shit in a pile at the back of the cave.&lt;br /&gt;&lt;/p&gt;
 
@@ -227,9 +81,9 @@ Zak and I stayed for lunch, then went to find a campsite in Pëllumbasit valley.
 &lt;figcaption&gt;Lunch with Sven and Sebastian&lt;/figcaption&gt;
 
 &lt;h5 id=&quot;wednesday-11th-october&quot;&gt;Wednesday 11th October&lt;/h5&gt;
-&lt;p&gt;News from Joe and Ebony, they’re coming south to meet us. They’ve chosen a new destination - Greece. (Well actually Turkey, but now Greece as opposed to North-East through Kosovo.)&lt;/p&gt;
+&lt;p&gt;News from Joe and Ebony, they’re coming south to meet us! They’ve chosen a new destination - Greece. (Well actually Turkey, but now Greece as opposed to North-East through Kosovo.)&lt;/p&gt;
 
-&lt;p&gt;We stopped for beer at a cafe in a town called Mullet, Zak insisted we must visit. We stopped across the road down a local side street, invited to camp there by our new neighbours. Children played games in the yard across from us. A lad brought us a bottle of water.&lt;/p&gt;
+&lt;p&gt;We stopped for beer at a cafe in a town called Mullet, Zak insisted we must visit. We found camp down a local side street, invited by our new neighbours. Children played games in the yard across from us. A lad brought us a bottle of water.&lt;/p&gt;
 
 &lt;p&gt;We filled our bellies with my usual vegetable stew, and shared Zak’s tent. There were no trees for the hammock today.&lt;/p&gt;
 
@@ -249,25 +103,27 @@ I slept beneath the stars with Rupert.&lt;/p&gt;
 
 &lt;p&gt;Today we rode just ten kilometres. It took us five hours, because Rupee had decided to followed us the whole way to our next campsite.&lt;/p&gt;
 
-&lt;p&gt;Rupert joined us while we watched the local mechanic effortlessly patch up a hole in my tire, then took him to the supermarket. He was seemed hungry, but too spoilt to even eat sausage! We tried to say goodbye, but we’d ummed and ahhed about letting him come. But in the end, he made the decision for us. We let him follow because we’re headed closer to Tirana, to wait for Joe and Ebony. We’ll take him home when we undoubtedly head back.&lt;/p&gt;
+&lt;p&gt;Rupert joined us while we watched the local mechanic effortlessly patch up a hole in my tire, then took Rupee to the supermarket. He seemed hungry, but too spoilt to eat even sausage! We’d ummed and ahhed about letting him follow on our journey, but in the end, he made the decision for us. We let him follow because we’re headed closer to Tirana, to wait for Joe and Ebony. We’ll take him home when we undoubtedly return to Mullet.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;\assets\images\cycle1\cycle1_rupee.jpg&quot; alt=&quot;cycle1_rupee&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Me, Zak and Rupee!&lt;/figcaption&gt;
 
-&lt;p&gt;We stopped a lot for rest and water; I suppose it was a huge journey for him! I even made a cardboard-box passenger seat on the back of my bike, but he doesn’t like it. We’d tried, but Rupee quickly jumped out, so we cycled ahead and let him trail us.&lt;/p&gt;
+&lt;p&gt;We stopped a lot for rest and water; I suppose it was a huge journey for him! I even made a cardboard-box passenger seat on the back of my bike, but he hated it. We’d tried, but Rupee quickly jumped out, so we cycled ahead and let him trail us again.&lt;/p&gt;
 
-&lt;p&gt;Suddenly some barking dogs darted from the bushes behind us, cutting Rupert off. Rupert sprinted backwards, three hungry dogs on tail. Immediately I pulled a u-turn, shouting, hogging the road, holding up cars as I pedalled full-speed. Just as the first dog caught up I was there. I dropped my bike and threatened him with all my might. Like the others, he backed off into the fields, as I cuddled Rupee, cars finally passing by. The real reason the journey took so long is because we spent half our time escorting this warm, friendly, timid dog past hungry territorial hounds.&lt;/p&gt;
+&lt;p&gt;Suddenly some barking dogs darted from the bushes behind us, cutting Rupert off. Rupert sprinted backwards, three hungry dogs on tail. Immediately I pulled a u-turn, shouting, hogging the road, holding up cars as I pedalled full-speed. Just as the first dog caught up I was there. I dropped my bike and threatened him with all my might. Like the others, he backed off into the fields, as I cuddled Rupee, cars finally passing by.&lt;/p&gt;
 
-&lt;p&gt;We still had to get past, so this time we walked with him. The dogs continued their harrassing comments, and I threw back their aggression back. The commotion brought out the neighbours, one of whom with we spoke english, amidst the commotion. We finally passed the dogs, but one neighbour followed us, yelling in our direction. Shs smiled at us sweetly as we waited for her to catch up - she was yelling at her neighbours, who in the distance were stamping and smacking the ground, putting out a small fire in the field next door! The smell was nauseous, poisoned by the litter on the side of the road. As we approached we decided to help, stamping the offspring, spraying the fire with dirt. We left, the largest flames still licking their lips.&lt;/p&gt;
+&lt;p&gt;This wasn’t the only time this happened, either: the real reason the journey took so long is because we spent half our time escorting this cute, timid doggy past hungry, territorial hounds.&lt;/p&gt;
 
-&lt;p&gt;Alas, we’d taken a wrong turn, and had to pass back the exact same way fifteen minutes later. By now the fire was reduced to a small flicker. We waved again at the poor men who seemed not to care for the fumes they were standing it. We had to go past the dogs. This time we put Rupee in his passenger seat, and Zak held him as I pedalled at walking pace. The dogs barked furiously, and followed us in the field beside us, but daren’t come near.&lt;/p&gt;
+&lt;p&gt;We still had to get past, so this time we walked with him. The dogs continued their harrassing comments, and I threw their aggression back. The commotion brought out the neighbours, and they understood our situation. We finally passed the hounds, but one neighbour followed us, yelling in our direction. Shs smiled at us sweetly as we waited for her to catch up - she was yelling at her neighbours, who in the distance were stamping and smacking the ground, putting out a small fire in the field next door! The smell was nauseous, poisoned by the litter on the side of the road. As we approached we decided to help, stamping the offshoots, spraying the fire with dirt. We left, the largest flames still licking their lips.&lt;/p&gt;
 
-&lt;p&gt;Today we went to a bar at the top of this hill, and a man on the table next to us helped us order the two most expensive beers on the menu. We chatted a while with Klinton. He lives in the UK, family in Tirana. He brought the double-decker bus that sits atop this hill; he brought it from London himself. The waiter brought out the bill… 9 euro!? Did the bus take us back to London? Paulaner Helles, most expensive beers in Albania! Zak and I looked at eachother in panic. We’re down to 6.55 euro between us. But before we could say anything, Klinton announced the beers are on him. He also advised us, if we ever need anything while we’re in Albania, he’s our man.&lt;/p&gt;
+&lt;p&gt;Alas, we’d taken a wrong turn, and had to pass back the exact same way fifteen minutes later. By now the fire was reduced to a small flicker. We waved again at the poor men who seemed not to care for the fumes they were standing it. We had to go past the dogs. This time we put Rupee in his passenger seat, and Zak held him as I pedalled at walking pace. The dogs barked furiously, and trailed beside and beside us, but daren’t come near.&lt;/p&gt;
+
+&lt;p&gt;We cycled up to a bar at the top of this hill, and a man on the table next to us helped us order the two most expensive beers on the menu. We chatted a while with Klinton. He lives in the UK, family in Tirana. He brought the double-decker bus that sits atop this hill; he brought it from London himself. The waiter brought out the bill… 9 euro!? Did the bus take us back to London? Paulaner Helles, most expensive beers in Albania! Zak and I looked at eachother in panic. We’re down to 6.55 euro between us. But before we could say anything, Klinton announced the beers are on him. He also advised us, if we ever need anything while we’re in Albania, he’s our man.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;\assets\images\cycle1\cycle1_viewtirana.jpg&quot; alt=&quot;cycle1_viewtirana&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;A view of Tirana from the cafe.&lt;/figcaption&gt;
 
-&lt;p&gt;We climbed the hill just a little bit higher, to the ruins of a military base. Now we’ll sit tight and wait for Joe to join us, but Ebony might need a bit longer in the city, for her teeth. For tonight I have a wild hang on the hammock across the opening of the old military tunnels, overlooking the mountains of Tirana.&lt;/p&gt;
+&lt;p&gt;We climbed the hill just a little bit higher, to the ruins of a military base, and set camp. Now we’ll sit tight and wait for Joe to join us, but Ebony might need a bit longer in the city, for her teeth. For tonight I have a wild hang on the hammock across the opening of the old military tunnels, overlooking the mountains of Tirana.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;\assets\images\cycle1\cycle1_viewhammock.jpg&quot; alt=&quot;cycle1_viewhammock&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Zak plays his ukelele.&lt;/figcaption&gt;
@@ -285,7 +141,7 @@ Therefore, Joe cycled to the bottom of the hill, the direction Zak and I had com
 I waited in my hammock, hopelessly trying to coordinate the boys.
 Zak returned with tattered trousers, and Joe pitched tent twenty kilometres away.&lt;/p&gt;
 
-&lt;p&gt;As I gave him a bedtime rub, I discovered, “I think Rupee has nipples!”. Rupert soon acquired another nickname.&lt;/p&gt;
+&lt;p&gt;As I gave him a bedtime rub, I discovered why all the dogs had been chasing Rupert. Rupee has nipples! Rupert soon acquired another nickname.&lt;/p&gt;
 
 &lt;h5 id=&quot;saturday-14th-october&quot;&gt;Saturday 14th October&lt;/h5&gt;
 
@@ -307,7 +163,7 @@ We caught up over the usual food and cheap beer, laughing at the troubles of the
 
 &lt;p&gt;We came back to the same campsite we were at last night, in the grasses by the river. We set camp and scavenged for firewood, then sat around the riverside fireplace cooking dinner. The typical, but with an extra smoky flavour.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Caramelise onions and whole bulb of garlic, dry-fry paprika then stir together; later add tomatoes then tomato paste. Patience; reasonably low heat. For dry-fry paprika, medium-high. Multiple pasta bases: spaghetti, fusilli and spaghetti. Beef or chicken stock to salt.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Caramelise onions and whole bulb of garlic, dry-fry paprika then stir together; later add tomatoes then tomato paste. Patience; reasonably low heat. For dry-fry paprika, medium-high. Multiple pasta bases: spaghetti, fusilli and spaghetti. Beef or chicken stock to salt.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;We sipped our beers as it got dark, sharing stories and banter. Zak and Joe are friends from high school, and they’ve developed a great storytelling routine.&lt;/p&gt;
 
@@ -3038,6 +2894,52 @@ I transcribed, edited and published a handful of my favourite stories I’d prev
           <pubDate>Sat, 23 Sep 2023 00:00:00 +0200</pubDate>
           <link>http://localhost:4000/Template.html</link>
           <guid isPermaLink="true">http://localhost:4000/Template.html</guid>
+          
+          
+        </item>
+      
+    
+      
+        <item>
+          
+            <title>Dear Emil&apos;s Mother</title>
+          
+          <author>fakeemail@gmail.com (Kauri's BS)</author>
+          <description>
+            &lt;h5 id=&quot;tuesday-23rd-may&quot;&gt;Tuesday 23rd May&lt;/h5&gt;
+
+&lt;p&gt;Dear Emil’s mother,&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I just wanted to say a proper thankyou for everything – your kindness has not been lost on me! 
+When Emil and his girlfriend Paula asked me if I was hungry – and suggested we detour to a specific kebab shop in Brussels – I did not expect Paula to return with just one giant kebab for me! Somehow I feel you have been a wonderful mother… your kindness is certainly reflected in your son!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I’m sorry about the night prior. I was camped thirty metres into a rather beautiful bush behind a construction site, where Emil and Paula dropped me off. (I was definitely not supposed to be there!) Not recognizing Emil and Paula, but shadowed strangers calling in the distance, I turned my head torch off and hid!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+And the breakfast, lunch and constant snacks – you really stuffed all three of us kids! I have never been offered a full change of clothes before after a shower – let alone a brand new vape!
+My friends ask me to tell stories – and it seems, for some reason, now they all want to meet you and your family. Though we could not speak directly, I felt your motherly warmth and kindness. I really enjoyed spending the afternoon with you.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+What is it about your culture, that makes you so kind to strangers? Along my travels I met many Ukranian people, and they have all been so friendly, emotionally open, curious, kind, caring, charitable to me. One day, when this is all over, I must visit.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I wish all the best for you, your family and your countrymen.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Until I see you again,&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Kauri&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Ps: I ate all your chocolate in two days.&lt;/p&gt;
+
+          </description>
+          <pubDate>Thu, 21 Sep 2023 00:00:00 +0200</pubDate>
+          <link>http://localhost:4000/Dear-Emil's-Mother.html</link>
+          <guid isPermaLink="true">http://localhost:4000/Dear-Emil's-Mother.html</guid>
           
           
         </item>

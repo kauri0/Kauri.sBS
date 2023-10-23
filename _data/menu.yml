@@ -1,5 +1,8 @@
-- title: About
-  url: /about.html
+- title: Intro
+  url: /intro.html
+
+- title: Itinerary
+  url: /itinerary.html
 
 #- title: Drafts
 #  url: /drafts.html

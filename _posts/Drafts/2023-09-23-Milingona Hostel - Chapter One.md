@@ -48,7 +48,6 @@ After a lovely chat I'm shown to my room - spacious, air conditioned, with a cha
 
 I was immediately enchanted by this place, and I'd found it at a time I much needed some inspiration.
 
-
 ### Part 2: Inspiration
 
 I walked in as a guest for one night, but ended up volunteering there for three weeks.
