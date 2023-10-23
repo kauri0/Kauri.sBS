@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Dear Emil's Mother
 lang: English
 version: Original
+date_written: 2023-05-23
+date_published: 2023-09-21
+date_updated: 
 ref: Emil
 ---
 

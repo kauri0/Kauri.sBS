@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Fahren 600km per Anhalter für einen Zahnarzttermin
 lang: Deutsch
 version: Translation
+date_written: 2023-06-09
+date_published: 2023-09-26
+date_updated: 
 ref: Zahne
 ---
 

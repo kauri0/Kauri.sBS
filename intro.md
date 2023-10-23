@@ -1,7 +1,12 @@
 ---
 layout: post
+author: Kauri Beckmann
 title: Introduction
-lang: en
+lang: English
+version: Original
+date_written: 
+date_published: 
+date_updated: 2023-09-24
 ref: Introduction
 ---
 

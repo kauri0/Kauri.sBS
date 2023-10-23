@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Draft&#58; Today I Fucked Up&#58; Hammock
 lang: English
 version: Draft
+date_written: 2023-09-23
+date_published: 2023-09-23
+date_updated: 
 ref: Hammock
 ---
 

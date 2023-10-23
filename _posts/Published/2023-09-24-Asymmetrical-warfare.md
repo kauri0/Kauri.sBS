@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Asymmetrical Warfare
 lang: English
 version: Original
+date_written: 2023-06-20
+date_published: 2023-09-24
+date_updated: 
 ref: Warfare
 ---
 

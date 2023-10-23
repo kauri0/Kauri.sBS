@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Hitchhiking 600km for a dentist appointment
 lang: English
 version: Original
+date_written: 2023-06-09
+date_published: 2023-09-26
+date_updated: 
 ref: Zahne
 ---
 

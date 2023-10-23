@@ -13,7 +13,7 @@
         {% include post-excerpt.html %}
       {% endif %}
     </div>
-    {% assign month_abbr = post.date | date: "%b" %}
+    {% assign month_abbr = post.date_published | date: "%b" %}
 {% case month_abbr %}
   {% when "Jan" %}{% assign month_abbr = "Jan" %}
   {% when "Feb" %}{% assign month_abbr = "Feb" %}
@@ -31,7 +31,7 @@
 {% endcase %}
 
 <span class="post-date">
-  {{ post.date | date: "%-d" }} {{ month_abbr }} {{ post.date | date: "%Y" }}
+  {{ post.date_published | date: "%-d" }} {{ month_abbr }} {{ post.date_written | date: "%Y" }}
 </span>
   </a>
 </li>

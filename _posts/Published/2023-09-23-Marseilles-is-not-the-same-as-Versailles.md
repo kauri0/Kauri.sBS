@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Marseilles is not the same as Versailles
 lang: English
 version: Original
+date_written: 2023-04-19
+date_published: 2023-09-22
+date_updated: 
 ref: Marseilles
 ---
 

@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: An Albanian Cycle Tour<br>Week One
 lang: English
 version: Original
+date_written: 2023-10-16
+date_published: 2023-10-16
+date_updated: 
 ref: Cycle1
 ---
 

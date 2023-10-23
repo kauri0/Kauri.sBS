@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Itinerary
 lang: English
 version: Original
+date_written: 
+date_published: 
+date_updated: 2023-10-20
 ref: Itinerary
 ---
 

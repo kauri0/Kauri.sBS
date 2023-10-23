@@ -32,8 +32,17 @@ layout: default
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
 
-    {% if page.date %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Published {{ page.date | date: "%B %-d, %Y" }}</time>
+<!--    {% if page.date_written %}
+      <time class="post-date dt-published" datetime="{{ page.date_written | date_to_xmlschema }}" itemprop="datePublished">Written {{ page.date | date: "%B %-d, %Y" }}</time>
+    {% endif %}
+-->
+    
+    {% if page.date_published %}
+      <time class="post-date dt-published" datetime="{{ page.date_published | date_to_xmlschema }}" itemprop="datePublished">Published {{ page.date_published | date: "%B %-d, %Y" }}</time>
+    {% endif %}
+    
+    {% if page.date_updated %}
+      <time class="post-date dt-published" datetime="{{ page.date_updated | date_to_xmlschema }}" itemprop="datePublished">Last updated {{ page.date_updated | date: "%B %-d, %Y" }}</time>
     {% endif %}
   </div>
 

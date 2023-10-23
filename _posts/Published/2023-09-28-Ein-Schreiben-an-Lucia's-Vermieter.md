@@ -4,6 +4,9 @@ author: Kauri Beckmann
 title: Die Kleinen Dinge<br>Ein Schreiben an Lucia's Vermieter
 lang: Deutsch
 version: Translation
+date_written: 2023-05-15
+date_published: 2023-09-28
+date_updated: 
 ref: Landlord
 ---
 
