@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<!-- class="content-title divided">-->
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+    Kauri Beckmann<br>
+    Engineering Portfolio
+  </h1>
+  
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% include portfolio-page-menu.html %}
+    {% endfor %}
+  </ul>
+  
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+
+    {% if page.date_updated %}
+      <time class="post-date dt-published" datetime="{{ page.date_updated | date_to_xmlschema }}" itemprop="datePublished">Last updated {{ page.date_updated | date: "%B %-d, %Y" }}</time>
+    {% endif %}
+  </div>
+
+</main>
