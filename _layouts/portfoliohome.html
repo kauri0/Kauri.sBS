@@ -61,7 +61,7 @@
     {% endif %}
 
     {% if page.date_updated %}
-      <time class="post-date dt-published" datetime="{{ page.date_updated | date_to_xmlschema }}" itemprop="datePublished">Last updated {{ page.date_updated | date: "%B %-d, %Y" }}</time>
+      <time class="post-date dt-published" datetime="{{ page.date_updated | date_to_xmlschema }}" itemprop="datePublished">{{ page.date_updated | date: "%B %-d, %Y" }}</time>
     {% endif %}
   </div>
 

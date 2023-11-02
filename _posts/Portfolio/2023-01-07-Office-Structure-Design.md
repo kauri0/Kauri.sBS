@@ -4,7 +4,7 @@ author: Kauri Beckmann
 title: 4. Office Structure Design
 lang: English
 version: Portfolio
-date_updated: 2023-10-30
+date_updated: 2023-10-31
 ref: Page4
 excerpt: 4.1 Context<br>4.2 Foundation and Superstructure Design
 ---
