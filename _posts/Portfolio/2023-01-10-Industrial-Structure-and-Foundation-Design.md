@@ -25,7 +25,7 @@ excerpt: 1.1 Historical Context<br>1.2 The Structure<br>1.3 Modelling and Analys
 
 * 113m x 20m building consisting of a 30x20m office space with a mezzanine floor, and a 87m x 23m workshop area.
 
-![Figure_1-2](\assets\images\portfolio\Figure_1-2.png)
+![Figure_1-2](\assets\images\portfolio\Figure_1-2.PNG)
 <figcaption>Figure 1.2: ETABS model for office gravity structure and lateral load resisting system.</figcaption>
 
 * Screw piles apx 27m depth with pile caps
@@ -112,7 +112,7 @@ We completed the drawings while overseeing construction. That had a lot of compl
 * Cantilevered parapets were designed during construction, sort-of an afterthought. Small moment actions struggled to be met by post-installed bolting into precast panels. Solution: plate bolted through panels.
 * Small rib infill mezzanine section in workshop. Late design, challenges connecting columns above. Specific rib design and tied in to wall.
 
-![Figure_1-6](\assets\images\portfolio\Figure_1-6.png)
+![Figure_1-6](\assets\images\portfolio\Figure_1-6.PNG)
 <figcaption>Figure 1.6: Solutions for concrete failure design challenges.</figcaption>
 
 By the end of it all we were as glad as we were relieved to sign the final paperwork certifying construction. And last I checked the building hasn’t settled yet!
