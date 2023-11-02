@@ -27,11 +27,27 @@
       <h1 class="post-title divided p-name" itemprop="name headline">
         {{ page.title }}
       </h1>
-  
+
+      <div id="markdown-toc">
+        <ul style="list-style: none; padding: 0; margin: 10; text-align: left;">
+          <li style="margin-bottom: 5px;">
+            <a href="/portfolio" style="text-decoration: underline; color: #000000;">Return to Portfolio Home</a>
+          </li>
+        </ul>
+      </div>      
+
     <div class="post-content e-content" itemprop="articleBody">
       {{content}}
     </div>
   
+    <div id="markdown-toc">
+      <ul style="list-style: none; padding: 0; margin: 10; text-align: center;">
+        <li style="margin-bottom: 5px;">
+          <a href="/portfolio" style="text-decoration: underline; color: #000000;">Return to Portfolio Home</a>
+        </li>
+      </ul>
+    </div>      
+
     <div class="post-meta">
       {% if page.author %}
         <div itemprop="author">{{ page.author }}</div>

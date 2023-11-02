@@ -9,6 +9,9 @@ ref: Page4
 excerpt: 4.1 Context<br>4.2 Foundation and Superstructure Design
 ---
 
+- TOC
+{:toc}
+
 ### 4.1 Context
 * Single storey office building
 * S-shaped building footprint
