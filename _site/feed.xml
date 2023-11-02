@@ -5,8 +5,8 @@
     <description>...that&apos;s Brilliant Stories, duh</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Oct 2023 23:55:08 +0200</pubDate>
-    <lastBuildDate>Fri, 27 Oct 2023 23:55:08 +0200</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 15:28:25 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 15:28:25 +0100</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       
@@ -23,7 +23,7 @@
 &lt;p&gt;&lt;img src=&quot;\assets\images\cycle2\leavingtirana.jpg&quot; alt=&quot;leavingtirana&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt; Excited to leave Tirana. &lt;/figcaption&gt;
 
-&lt;p&gt;After being in Tirana (and its county outskirts) for more than a month, we’re finally leaving the city, possibly for good. This time we just bolted it south, direction Vlore, gateway to the Albanian Riviera, 180km to the south. To take a faster route than before, we decided to finally cycle the highway we’d managed so long avoiding. It was wide and there were surprisingly few cars on it. Makes sense, considering the price of gas is the same here as in Europe.&lt;/p&gt;
+&lt;p&gt;After having both of us been in Tirana (and its county outskirts) for more than a month, we’re finally leaving the city, possibly for good. This time we just bolted it south, direction Vlore, gateway to the Albanian Riviera, 180km to the south. To take a faster route than before, we decided to finally cycle the highway we’d managed so long avoiding. It was wide and there were surprisingly few cars on it. Makes sense, considering the price of gas is the same here as in Europe.&lt;/p&gt;
 
 &lt;p&gt;A new road took us into the next valley over, one big step deeper into this Tirana County’s mountaneous terrain. A short detour off this reasonably-main road would take us to a waterfall we’d wanted to visit last week. But the road became steeper, and quickly its condition deteriorated.&lt;/p&gt;
 
@@ -71,7 +71,8 @@
 
 &lt;p&gt;Last night, I hadn’t been able to hang high enough, because there wasn’t any higher in the rocky shrubs to tie the hammock’s long anchors to. I’d slept with the side of my bottom nudging the ground. This happens occasionally when the trees are a bit too close together, or if one of them is flexing too much. It typically drops in height zero to five inches during the night, depending on the flex of the trees it’s supported by.&lt;/p&gt;
 
-&lt;p&gt;Tonight, one end was perfectly fine, tied high to a thick tree trunk. The other, looped and cranked tight around a large bunch of bamboo trees. I could crank my straps with all my body weight, and use that tension to hold the trees in a bunch, to pull them backwards from their resting position. The hammock wasn’t heavy enough on it’s own to hold the tension in place, and the bamboo trees bent and stretched the hammock in the opposing direction. But when I’d sit in it, my weight was enough to bend fifteen bamboo trees toward me, losing all of the tension in the hammock. I failed with three methods to hold the tension in place. One method snapped a bamboo tree in half. All methods ended with my bum eventually touching the ground. Though I still like it, the resulting hang is not particularly comfortable. To solve it I’d have to anchor the bamboo down, cranking it similarly to my hammock, but in the other direction and to the ground. Failure would be potentially sudden and catastrophic.&lt;/p&gt;
+&lt;p&gt;Tonight, one end was perfectly fine, tied high to a thick tree trunk. The other, looped and cranked tight around a large bunch of bamboo trees. I could crank my straps with all my body weight, and use that tension to hold the trees in a bunch, to pull them backwards from their resting position. The hammock wasn’t heavy enough on it’s own to hold the tension in place, and the bamboo trees bent and stretched the hammock in the opposing direction. But when I’d sit in it, my weight was enough to bend fifteen bamboo trees toward me, losing all of the tension in the hammock. I failed with three methods to hold the tension in place. One method snapped a bamboo tree in half. All methods ended with my bum eventually touching the ground. Though I still like it, the resulting hang is not particularly comfortable. If I had a rope strong enough I could first anchor the bamboo anchor the bamboo in place,
+ in the other direction, cranking it similarly to my hammock, but in the other direction and to the ground. Failure would be potentially sudden and catastrophic.&lt;/p&gt;
 
 &lt;p&gt;Anyway, my bottom’s nudging the ground again. Under normal circumstances I wouldn’t be too worried; the fabric is shielded from the ground by my insulating layer, and the material is easily strong enough to endure a lack of tension. But now, the stitching on my hammock’s enormous repair is starting to show further signs of failure. And when it gets a little worse than this, any repairs will become substantially more difficult.&lt;/p&gt;
 
@@ -1776,13 +1777,19 @@ We have no.
           
           <author>fakeemail@gmail.com (Kauri's BS)</author>
           <description>
-            &lt;h5 id=&quot;foreword&quot;&gt;Foreword&lt;/h5&gt;
+            &lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#part-i-lies-and-intimidation&quot; id=&quot;markdown-toc-part-i-lies-and-intimidation&quot;&gt;Part I: Lies and Intimidation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#part-ii-jail&quot; id=&quot;markdown-toc-part-ii-jail&quot;&gt;Part II: Jail&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#part-iii-a-big-ol-waste-of-everybodys-time&quot; id=&quot;markdown-toc-part-iii-a-big-ol-waste-of-everybodys-time&quot;&gt;Part III: A big ol’ waste of everybody’s time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 class=&quot;no_toc&quot; id=&quot;foreword&quot;&gt;Foreword&lt;/h5&gt;
 
 &lt;p&gt;I want to say a massive thankyou to my girlfriend Lucia. Without her I would have been alone and terrified, and this story would probably have gone quite differently. You’d think there’s not much she can do from San Francisco.&lt;/p&gt;
 
 &lt;h3 id=&quot;part-i-lies-and-intimidation&quot;&gt;Part I: Lies and Intimidation&lt;/h3&gt;
 
-&lt;h5 id=&quot;monday-18th-september&quot;&gt;Monday 18th September&lt;/h5&gt;
+&lt;h5 class=&quot;no_toc&quot; id=&quot;monday-18th-september&quot;&gt;Monday 18th September&lt;/h5&gt;
 
 &lt;p&gt;A productive start to a new week! It’s 4am, and I’m writing from jail in Tirana, Albania. Well, I’m smoking with the warden in his office. That privilege cost me nine euro. Potable water included.&lt;/p&gt;
 

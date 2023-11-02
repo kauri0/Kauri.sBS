@@ -126,6 +126,18 @@ figcaption {
   text-align: center;
 }
 
+.post-excerpt {
+  font-size: 1em;
+  margin-left: 1em;
+  margin-bottom: 0em;
+  text-align: left;
+  list-style: none;
+}
+
+.post-excerpt a {
+  text-decoration: none;
+}
+
 .post-date {
   color: $muted-text-color;
   display: block;

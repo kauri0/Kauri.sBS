@@ -63,3 +63,76 @@
   text-decoration: none;
   text-transform: uppercase;
 }
+
+.portfolio {
+  background: white;
+  margin: 2em auto;
+  max-width: 60rem;
+  padding: 2em 0;
+  box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
+}
+
+.portfolio > * {
+  margin-left: 5;
+  margin-right: 5;
+  max-width: 50rem;
+  padding: 0 5em;
+}
+
+.portfolio > h1 {
+  font-size: 2em;
+  max-width: 48rem;
+  padding: 2em 1em;
+  text-align: center;
+}
+
+.portfolio p {
+  text-align: justify;
+  text-indent: 0em;
+  text-justify: inter-word;
+}
+
+.portfolio p:first-of-type,
+.portfolio h2 + p {
+  text-indent: 0;
+}
+
+.portfolio a:hover {
+  background: $highlight;
+}
+
+.portfolio dl,
+.portfolio ul,
+.portfolio ol {
+  margin: 0.5em;
+}
+
+.portfolio li {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+  .portfolio-excerpt {
+    font-size: 5em; /* Adjust the font size to match your h3 */
+    color: #333; /* Adjust the text color to match your h3 */
+    margin-top: 5px; /* Adjust the margin to match your li elements */
+  }
+
+  .portfolio-title {
+    font-size: 5em; /* Adjust the font size to match your h3 */
+    color: #333; /* Adjust the text color to match your h3 */
+    margin-top: 5px; /* Adjust the margin to match your li elements */
+  }
+
+  .portfolio__heading {
+    display: block;
+    margin-right: 4em;
+    @media (min-width: $on-tablet) {
+      padding: .25em 0;
+    }
+    h1 {
+      font-size: 1em;
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+  }

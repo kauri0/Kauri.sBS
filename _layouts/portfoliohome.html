@@ -1,6 +1,26 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+	
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    {% include fakemenu.html %}
+
+    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+
+    <!--{% if jekyll.environment == 'development' %}-->
+    {% include google-analytics.html %}
+    <!--{% endif %}-->
+  </head>
+  <body>
 
 <!-- class="content-title divided">-->
 
@@ -11,6 +31,24 @@ layout: default
     Engineering Portfolio
   </h1>
   
+    <!--{% for post in site.posts %}
+    {% if post.version == "Portfolio" %}
+    <li>
+      <a href="{{ post.url | absolute_url }}" class="portfolio-link">
+        <div class="portfolio-list">
+          <h1 class="portfolio-list">
+            {{ post.title }}
+          </h1>
+          <div class="portfolio-link">
+            {{ post.excerpt }}
+          </div>
+        </div>
+      </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  -->
+
   <ul class="post-list">
     {% for post in site.posts %}
       {% include portfolio-page-menu.html %}
@@ -28,3 +66,23 @@ layout: default
   </div>
 
 </main>
+
+
+{% include fakemenu.html %}
+<div style="height:30px;"></div>
+
+<!--CREDITS-->
+    {% unless site.hide_credits %}
+      <aside class="site-credits">
+        <p>
+          <small>Powered by <a href="http://jekyllrb.com">Jekyll</a></small>
+		  <br>
+		  <small>Hosted by <a href="http://github.com">GitHub</small>
+        </p>
+      </aside>
+    {% endunless %}
+<!--CREDITS-->
+
+  </body>
+</html>
+

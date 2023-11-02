@@ -10,13 +10,18 @@ date_updated:
 ref: Jail
 ---
 
+- TOC
+{:toc}
+
 ##### Foreword
+{: .no_toc}
 
 I want to say a massive thankyou to my girlfriend Lucia. Without her I would have been alone and terrified, and this story would probably have gone quite differently. You’d think there’s not much she can do from San Francisco.
 
 ### Part I: Lies and Intimidation
 
 ##### Monday 18th September
+{: .no_toc}
 
 A productive start to a new week! It’s 4am, and I’m writing from jail in Tirana, Albania. Well, I’m smoking with the warden in his office. That privilege cost me nine euro. Potable water included.
 
