@@ -14,12 +14,12 @@ excerpt: 2.1 Context<br>2.2 Deliverables and Efficiencies<br>2.3 Negotiations an
 
 ### 2.1 Context
 Government initiative KiwiBuild, aimed to deliver affordable homes.<br>
-Political disaster, primarily due to delays.
+Political disaster, primarily due to delays, such as:
 * Land procurement
 * Resource shortages
 * Finance and funding issues
 * Design challenges
-* Bureaucratic regulatory issues
+* Bureaucratic regulatory issues;
 Some of these issues we witnessed first-hand.
 
 Prior established relationship with Kainga Ora (NZ homes and communities).<br>
