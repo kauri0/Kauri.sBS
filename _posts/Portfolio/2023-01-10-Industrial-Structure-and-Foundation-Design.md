@@ -26,7 +26,7 @@ excerpt: 1.1 Historical Context<br>1.2 The Structure<br>1.3 Modelling and Analys
 * 113m x 20m building consisting of a 30x20m office space with a mezzanine floor, and a 87m x 23m workshop area.
 
 ![Figure_1-2](\assets\images\portfolio\Figure_1-2.PNG)
-<figcaption>Figure 1.2: ETABS model for office gravity structure and lateral load resisting system.</figcaption>
+<figcaption>Figure 1.2: Revit model building overview.</figcaption>
 
 * Screw piles apx 27m depth with pile caps
 * Ground beams, steel-fibre-reinforced floor slab
@@ -40,8 +40,8 @@ excerpt: 1.1 Historical Context<br>1.2 The Structure<br>1.3 Modelling and Analys
 
 Concept design generally done by hand, excel, MEMDES and other rough tools.
 
-![Figure_1-3](\assets\images\portfolio\Figure_1-3.png)
-<figcaption>Figure 1.3: ETABS model for office first-floor.</figcaption>
+![Figure_1-3](\assets\images\portfolio\Figure_1-3.PNG)
+<figcaption>Figure 1.3: ETABS model for office gravity structure and lateral load resisting system.</figcaption>
 
 Preliminary/Detailed design
 ETABS Model for office structure
@@ -81,7 +81,10 @@ ETABS Model for office structure
 * Steel connections generally via Steel Construction NZ Connections Guide
 
 ![Figure_1-4](\assets\images\portfolio\Figure_1-4.png)
-<figcaption>Figure 1.4: SAP2000 model for foundation design - bending actions.</figcaption>
+<figcaption>Figure 1.4: ETABS model for office first-floor.</figcaption>
+
+![Figure_1-5](\assets\images\portfolio\Figure_1-5.png)
+<figcaption>Figure 1.5: SAP2000 model for foundation design - bending actions.</figcaption>
 
 ### 1.4 Construction
 We completed the drawings while overseeing construction. That had a lot of complications as well. I took two months to stay in Whangarei during construction.
@@ -93,8 +96,8 @@ We completed the drawings while overseeing construction. That had a lot of compl
 1. Screw piles installed then capped
 2. Ground beam reinforcement laid, including starters to slabs and precast panels
 3. Ground beams poured. Slab reinforcement laid.
-![Figure_1-5](\assets\images\portfolio\Figure_1-5.png)
-<figcaption>Figure 1.5: Congestion in the ground beams.</figcaption>
+![Figure_1-6](\assets\images\portfolio\Figure_1-6.png)
+<figcaption>Figure 1.6: Congestion in the ground beams.</figcaption>
 
 4. Review precast panel prefabrication drawings. Precast panels delivered and propped.
 5. Ground slab poured.
