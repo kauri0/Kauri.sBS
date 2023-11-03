@@ -93,26 +93,15 @@ We completed the drawings while overseeing construction. That had a lot of compl
 1. Screw piles installed then capped
 2. Ground beam reinforcement laid, including starters to slabs and precast panels
 3. Ground beams poured. Slab reinforcement laid.
-* Construction issue: cast-in bolts for portal legs missed due to congestion in ground beams.<br>Epoxy bolts as a poor substitute, a dozen baseplates with individual design and configuration.
 ![Figure_1-5](\assets\images\portfolio\Figure_1-5.png)
 <figcaption>Figure 1.5: Congestion in the ground beams.</figcaption>
+
 4. Review precast panel prefabrication drawings. Precast panels delivered and propped.
-* Constructability challenge: Stairwell wall connection to in-situ stairs. Inability to have reinforcement protruding from the middle of the panel due to transportation and other related challenges. Threaded inserts selected.
-* Construction issue: Clashes with starter bars, with for example slab penetrations. Allowed bending; thankful for redundancy in design.
 5. Ground slab poured.
-* Construction issue: We could have done a better job identifying and coordinating penetrations, but unfortunately they had some impact on structural integrity. Most of the time it was just in the slab, though they did sometimes clash with starter bars. Thankfully we’d designed the panels with a fair bit of redundancy and we could bend around a couple starter bars, which unavoidably puts unnecessary stress on the penetration.
 6. Review steelwork prefabrication drawings. Portal frame legs installed, followed by spliced portal beams.
-* Constructability: Transportability. Careful placement of portal splices. No site welding.
-* Construction issue: Turn-of-nut bolting methodology specified. Uncertainty in construction due to lack of uniformity with markings. Randomised visual inspection to ensure bolt thread condition, and retightening of all bolts.
 7. Gravity columns and beams supporting internal office structure installed.
 8. Various additional elements installed; roof purlins, tension bracing, additional supports to mezzanine floor.
 9. Mezzanine floor ribs, formwork then pour. Slab poured above.
 10. The workshop side had other elements as well, which I haven’t covered, such as wind beams for garage doors, and the canopy structure.
-* Design challenge: Post-installed bolting; challenges achieving capacity for concrete failure mechanisms.
-* Cantilevered parapets were designed during construction, sort-of an afterthought. Small moment actions struggled to be met by post-installed bolting into precast panels. Solution: plate bolted through panels.
-* Small rib infill mezzanine section in workshop. Late design, challenges connecting columns above. Specific rib design and tied in to wall.
-
-![Figure_1-6](\assets\images\portfolio\Figure_1-6.PNG)
-<figcaption>Figure 1.6: Solutions for concrete failure design challenges.</figcaption>
 
 By the end of it all we were as glad as we were relieved to sign the final paperwork certifying construction. And last I checked the building hasn’t settled yet!
