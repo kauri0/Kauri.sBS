@@ -3,7 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: Arrested by the Albanian Mafia
 lang: English
-version: SS
+version: Secret
 date_written: 2023-09-19
 date_published: 2023-09-30
 date_updated: 
