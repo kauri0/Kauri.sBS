@@ -3,7 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: LNCwJoe
 lang: English
-version: Secret
+version: SS
 ref: Joe
 ---
 

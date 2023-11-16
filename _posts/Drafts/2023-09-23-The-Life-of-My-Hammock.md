@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kauri Beckmann
-title: Draft&#58; Today I Fucked Up&#58; Hammock
+title: The Life of My Hammock
 lang: English
 version: Draft
 date_written: 2023-09-23
@@ -10,7 +10,31 @@ date_updated:
 ref: Hammock
 ---
 
-Needs a better title
+Chapter One: Inception
+I understand not everyone is familiar with hammock camping, and so this chapter is dedicated to informing exactly how the hammock setup works. 
+Inspired by Robert
+Stuart island, slept in his hammock for one night, so comfortable
+Just a basic hammock with minimal accessories
+
+Research and recommend Dutchware
+Gathering an assortment of accessories
+Illustrations to explain how the hammock works
+How it's set up
+Tarpaulin options
+Ground setup options
+
+
+Chapter Two: Life in New Zealand
+Discuss your one month hiking trip
+
+
+Chapter Three: Europe
+
+Chapter Four: Fire and fury
+
+Chapter Five: Repair
+
+Chapter Six: 
 
 
 ##### Friday 26th June
@@ -99,6 +123,9 @@ I'm writing from my farmland campsite in the mountains of Immerstadt, with the m
 
 Her argument did not resonate, but I lost that game of Paper, Scissors, Rock.
 
+
+
+
 ##### date ??
 
 My plan was flawed anyway. It took me three hours of stitching to realize;
@@ -109,7 +136,11 @@ My plan was flawed anyway. It took me three hours of stitching to realize;
 
 Bear in mind, this tear is almost the entire width of the hammock, and it goes under a lot of stress, 100% of which needs to be transferred through the patch. This wonky backstitch just isn't going to cut it.
 
-A shitty 10€ hammock from Kiwi (a supermarket chain in Norway) carried me through the next month, until I arrived at Cologne to stay with Lucia's family. I must say a big thankyou to Lucia's mother, who took it into the tailor for me. And to my surprise, it's still holding on!
+I must say a big thankyou to Lucia's mother, who took it into the tailor for me. And to my surprise, it's still holding on!
+
+
+
+A shitty 10€ hammock from Kiwi (a supermarket chain in Norway) carried me through the next month, until I arrived at Cologne to stay with Lucia's family. 
 
 ![hammock_patch](\assets\images\hammock_patch.JPG)
 <figcaption>funny caption</figcaption>
