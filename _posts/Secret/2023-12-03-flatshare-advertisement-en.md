@@ -24,8 +24,6 @@ People I have stayed with have written about me...<br><br>
 "that kind of guy which you meet for the first time and you feel like you have been friends for ever... easy going, interested in German culture and language, clean and helpful."<br><br>
 
 Source: <a href="https://www.bewelcome.org/members/Kauri/de">Bewelcome profile</a>
-
-
 </span></div><br>
 
 My former flatmates will also testify that I am...
