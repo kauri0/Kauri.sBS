@@ -8,14 +8,6 @@ date_published: 2023-12-03
 ref: wohnung-ad-de
 ---
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span></span>
-
-<span id="busuanzi_container_page_pv"> 
-This article has been read <span id="busuanzi_value_page_pv"></span> times in total 
-</span> 
-
 [English translation](/flatshare-advertisement-en)<br><br>
 
 Ich heiße Kauri Beckmann. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor ein Jahr aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Ich habe drei Monate in München und Bayern getrampt und, für vielen Gründen wähle ich in München zu besiedeln und hier den nächsten Schritt von Leben zum anfangen. Das bier, die Kultur, die Menschen, nicht zuletzt für meine schöne deutsche Freundin.<br><br>

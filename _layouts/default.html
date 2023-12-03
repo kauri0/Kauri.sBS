@@ -16,6 +16,8 @@
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
     <!--{% if jekyll.environment == 'development' %}-->
     {% include google-analytics.html %}
     <!--{% endif %}-->
@@ -29,13 +31,20 @@
 
 <!--CREDITS-->
     {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p>
+
+    <aside class="site-credits">
+      <div>
           <small>Powered by <a href="http://jekyllrb.com">Jekyll</a></small>
-		  <br>
-		  <small>Hosted by <a href="http://github.com">GitHub</small>
-        </p>
-      </aside>
+          <br>
+          <small>Hosted by <a href="http://github.com">GitHub</a></small>
+      </div>
+      
+      <div style="color: #9bdfc1;">
+          <small>Page count: <span id="busuanzi_value_site_uv"></span></small>
+      </div>
+  </aside>
+  
+  
     {% endunless %}
 <!--CREDITS-->
 
