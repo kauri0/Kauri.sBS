@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Kauri Beckmann
-title: The Life of My Hammock
+title: The Life of My Hammock OR A love letter to my hammock
 lang: English
 version: Draft
 date_written: 2023-09-23
@@ -11,7 +11,27 @@ ref: Hammock
 ---
 
 Chapter One: Inception
-I understand not everyone is familiar with hammock camping, and so this chapter is dedicated to informing exactly how the hammock setup works. 
+I understand not everyone is familiar with hammock camping, and so this chapter is dedicated to informing what, when, where, why and how.
+
+There's two types of hammock: spreader bar, and gathered-end. This illlustration shows the difference. Since the hammock is flat in one plane, spreader bar hammocks are more comfortable for sitting and lounging. Some argue they are more comfortable for sleeping to, but that's also a matter of hammock quality, and "sleeping technique". Gathered-end hammocks are undoubtedly superior for camping, since they do not consist of a bulky, heavy spreader bar.
+
+The hammock itself is made of **ripstop nylon**, thin as anything. Your sleeping bag beneath you is compacted beneath your weight, and the warmth of your body is sucked out in a condition known as "cold bum".
+
+External insulation is essential. While this insulation can be achieved in other ways, the best is to use an underquilt, which acts as a sleeping bag, creating a layer of air beneath the hammock. 
+
+The sleeping bag
+Together these determine how cold/temperature you can stay.
+
+ - it's also the tarpaulin. **Discuss**
+
+ I love my hammock to bits. It's not just the hammock alone - these together to make a fun, comfortable and robust camping setup.
+
+**briefly discuss how well you sleep, how you can lounge in it, cook in it, read, write.**
+
+I was inspired back in 2017 by my German friend Robert, who touted not just the comfortability of his hammock - but also the legal benefits of it. I would later come to understand, **discuss the legal implications**
+
+
+
 Inspired by Robert
 Stuart island, slept in his hammock for one night, so comfortable
 Just a basic hammock with minimal accessories
