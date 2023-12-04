@@ -11,14 +11,10 @@ ref: Cycle1
 ---
 
 ##### Monday 9th October
- <br>
 
 Day one of cycle touring through Albania.<br>
-
 I've never cycle toured before.<br>
-
 I just carry my rucksack.<br>
-
 And this is how I carry my rucksack on a bicycle.<br>
 
 ![cycle1_rucksack](\assets\images\cycle1\cycle1_rucksack.jpg)
@@ -39,30 +35,21 @@ As the sun set we set camp, overlooking the mouth of the valley, Tirana well in 
 
 ##### Tuesday 10th October
 
-We'd camped at the beginning of a hike to some spooky cave, as "Black Cave Adventures" advertises it. We packed our bags, ditched our bikes in town, then started hiking up. Sebastian and I turned the hike into a trail run that almost felt as if it hadn't been so long since my last proper run.<br><br>
+We'd camped at the beginning of a hike to some spooky cave, as "Black Cave Adventures" advertises it. We packed our bags, ditched our bikes in town, then started hiking up. Sebastian and I turned the hike into a trail run that almost felt as if it hadn't been so long since my last proper run.<br>
 
 The mouth of Black Cave invites us into it's darkness.<br>
-
 The throat tightens, the soiled floor becomes a little slippery.<br>
-
 A camoflagued pit threatens to break the ankles of the unprepared.<br>
-
-The bouncer greets us with vicious teeth.<br><br>
+The bouncer greets us with vicious teeth.<br>
 
 The interior is decorated by the actions of time.<br>
-
 A noisy flock of bats dance along the ceiling.<br>
-
 The private room requires a sacrifice; muddy your knees to enter.<br>
-
-The depths, some few hundred metres, open up high and wide.<br><br>
+The depths, some few hundred metres, open up high and wide.<br>
 
 Bats roost on the ceiling. A couple hundred of them, at least.<br>
-
 The slippery, clayey ground graduates into a twenty-metre-high,<br>
-
 A million-year-old shit in a pile at the back of the cave.<br>
-
 We slobber to the top, just to slide our way down.<br>
 
 ![cycle1_smile](\assets\images\cycle1\cycle1_smile.jpg)
@@ -157,7 +144,7 @@ After some time at the cafe we cycled the winding, exhilirating downhill. As we 
 
 We came back to the same campsite we were at last night, in the grasses by the river. We set camp and scavenged for firewood, then sat around the riverside fireplace cooking dinner. The typical, but with an extra smoky flavour.<br><br>
 
-*Caramelise onions and whole bulb of garlic, dry-fry paprika then stir together; later add tomatoes then tomato paste. Patience; reasonably low heat. For dry-fry paprika, medium-high. Multiple pasta bases: spaghetti, fusilli and spaghetti. Beef or chicken stock to salt.*<br><br>
+<div style="font-style: italic; font-size: 20px; padding: 0 50px;">*Caramelise onions and whole bulb of garlic, dry-fry paprika then stir together; later add tomatoes then tomato paste. Patience; reasonably low heat. For dry-fry paprika, medium-high. Multiple pasta bases: spaghetti, fusilli and spaghetti. Beef or chicken stock to salt.*<br><br></div>
 
 We sipped our beers as it got dark, sharing stories and banter. Zak and Joe are friends from high school, and they've developed a great storytelling routine.
 

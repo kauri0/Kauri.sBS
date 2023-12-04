@@ -34,15 +34,12 @@ With a stunning 270° sunset – sunrise view of the city, and pitched camp near
 
 ##### Friday 14th April
 
-3.00 am – One of the tarpaulin tie-downs snaps. The flapping tarp wakes me up. I secure it to my backpack.
-
-3.15 am – The adjacent tie-down breaks. The lazy fucker I am, I knot it around my feet.
-
-3.45 am – My butt is freezing. Something has shifted, I’m not certain how. I restack some rocks upwind.
-
-6.00 am – I need a piss. I can’t leave my hammock without the tarpaulin going haywire, so I decide to pack down. I notice, those rocks I restacked… one of those lines is broken too, but by some miracle it still held together. I’m not sure even I understand how that could happen.
-
-6:05 am – I discover the fourth upwind line has broken too. This one broke in-between the shock cord, which is how it’s intended to work.
+<div style="font-style: italic; font-size: 20px; padding: 0 50px;">
+3.00 am – One of the tarpaulin tie-downs snaps. The flapping tarp wakes me up. I secure it to my backpack.<br>
+3.15 am – The adjacent tie-down breaks. The lazy fucker I am, I knot it around my feet.<br>
+3.45 am – My butt is freezing. Something has shifted, I’m not certain how. I restack some rocks upwind.<br>
+6.00 am – I need a piss. I can’t leave my hammock without the tarpaulin going haywire, so I decide to pack down. I notice, those rocks I restacked… one of those lines is broken too, but by some miracle it still held together. I’m not sure even I understand how that could happen.<br>
+6:05 am – I discover the fourth upwind line has broken too. This one broke in-between the shock cord, which is how it’s intended to work. </div>
 
 <br>
 The next day, the lady in the outdoor store is confused as to why on earth I need ten metres of this specific camping line. She was rather sweet, and gave us an amazing camping recommendation!
