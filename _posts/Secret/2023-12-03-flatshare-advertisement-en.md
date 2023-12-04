@@ -35,6 +35,14 @@ My former flatmates will also testify that I am...
 
 Contact details available upon request.<br><br>
 
+In my free time I will be:
+* Playing in local chess tournaments;
+* Rolling around the floor with other sweaty men in the martial arts gym;
+* Writing stories, or intensively studying the German language;
+* Hanging out at the flat, to cook big meals and share with eachother beer;
+* Out in the German Alps for camping, hiking, skiing and trail running;
+* Naturally I must also spend time with my lovely girlfriend!<br><br>
+
 Looking forward to hearing from you! You can reach me at:<br>
 +49 176 280 66521 (mobile)<br>
 +44 7521 420 561 (whatsapp)

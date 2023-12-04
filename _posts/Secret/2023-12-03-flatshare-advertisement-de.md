@@ -35,6 +35,14 @@ Meine alten Mitbewohner werden auch bezeugen, dass ich...
 
 (Kontaktdaten auf Anfrage erhältlich).<br><br>
 
+Ich werde in meiner Freizeit:
+* Spielen in lokaler Schachspielenturniere;
+* Rollen auf den Boden mit anderer schwitzigen Männer in den Kampfsporthalle;
+* Schreiben Geschicte, oder intensiv Deutschsprache lernen;
+* Hangen bei der Wohnung aus, zu kochen größen Essen und bier zusammen teilen;
+* In den Deutschealpen für kampen, wandern, skifahren und weglaufen;
+* Natürlich muss ich auch Zeit mit meiner schönen Freundin machen!<br><br>
+
 Ich freue mich von ihnen zuhören! Sie konnen mich erreichen unter:<br>
 +49 176 280 66521 (mobile)<br>
 +44 7521 420 561 (whatsapp)
