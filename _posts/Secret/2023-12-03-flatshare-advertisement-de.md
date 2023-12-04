@@ -14,7 +14,7 @@ Ich heiße Kauri Beckmann. Ich habe meinen Job in Neuseeland als Bauingenieur Tr
 
 Anhalterreisen hatte einen großen Teil von meinen Reisen. Eigentlich, war es ein von die meistens wirkungsvolle Methoden zu unterrichte mich Deutschsprache! Aber, erfordet es wirkliche mentale Stärke, lächeln zu stehen und den vorbeifahren Autos zu winken. Ich weiß, es ist nicht üblich hier in Deutschland, so wann man mir abholt, fühle ich eine Verantwortung, eine Schöne Erfahrung zu machen, man mit in die Zukunft nehmen kann. Ich brauche es nicht zu trampen; habe ich das 49€ Ticket. Ich mache es weil es mir Freude bringt, Menschen zu Lächeln zu bringen.<br><br>
 
-Ich habe neue job im Schicken Hotel, im Januar beginnen. Geld ist keinen Problem - kann ich also Kontoauszüge als Beweis anbieten.<br><br>
+Ich habe eine neue Job im einem Schicken Hotel in Herzen den Stadt, mitte-Januar beginnen. Geld ist keinen Problem - kann ich also Kontoauszüge als Beweis anbieten.<br><br>
 
 Menschen, bei welchen ich geblieben bin, haben über mich geschrieben...<br><br>
 

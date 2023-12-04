@@ -14,7 +14,7 @@ My name's Kauri Beckmann. I left my engineering job in New Zealand one year ago 
 
 Hitchhiking has been a huge part of my travels. In fact, it's been one of the most impactful methods for teaching myself German! It's really a unique way to travel, but it takes some real mental fortitude to stand there smiling, waving at cars passing by. I know it's not so common here in Germany, so when somebody picks me up, I almost feel a responsibility to leave them with a beautiful experience that they can carry with them into the future. It's great, because you get this transient experience with a stranger from a completely different walk of life. I don't have to hitchhike; I have the 49€ ticket. I do it because I get satisfaction out of making people smile.<br><br>
 
-I have job in a fancy hotel beginning in January. Money will not be a problem; I can also provide bank statements as evidence.<br><br>
+I have job in a fancy hotel in the heart of the city, beginning mid-January. Money will not be a problem; I can also provide bank statements as evidence.<br><br>
 
 People I have stayed with have written about me...<br><br>
 
