@@ -3,7 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: Die Kleinen Dinge<br>Ein Schreiben an Lucia's Vermieter
 lang: Deutsch
-version: Translation
+version: Secret
 date_written: 2023-05-15
 date_published: 2023-09-28
 date_updated: 
@@ -12,7 +12,7 @@ ref: Landlord
 
 ##### Donnerstag 15 Juni
 
-Sehr geehrter Georg,
+Sehr geehrter Lucia's Alter Vermieter,
 
 Ich habe über unseres Gespräch am Mittwoch nachgedacht. Das Gruppentreffen war notwendig - Lucia und ich habe die Köchen in ein inakzeptabel Status verlassen; nicht leer bins, ein paar schmutzig Tellern bei den Spüle verlessen. Es war den Weckruf wir gebraucht haben nachdem eine außergewöhnlich fleißig Nacht.
 

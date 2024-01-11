@@ -3,7 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: The Little Things<br>A Letter to Lucia's Landlord
 lang: English
-version: Original
+version: Secret
 date_written: 2023-06-15
 date_published: 2023-09-28
 date_updated: 
@@ -12,7 +12,7 @@ ref: Landlord
 
 ##### Thursday 15th June
 
-Dear Georg,
+Dear Lucia's Old Landlord,
 
 I’ve been reflecting on our conversation on Wednesday. The group meeting was really needed – Lucia and I did leave the kitchen in an unacceptable state; unemptied bins, a few dishes forgotten by the sink. It was exactly the wake-up call we needed after an exceptionally busy night.
 

@@ -7,6 +7,25 @@ version: Secret
 ref: todolist
 ---
 
+##### Mittwoch 13. December
+
+Future to-do list
+ 
+Book dates in the city with Lucie
+Find a bjj gym!
+* Cybersecurity: start investing into bitcoin.
+   * No need for foreign investments, right? You have NZ and USA already.
+
+* Write the long story about your hammock
+* Write story about upcoming travels, or their ending
+* Meet people who do winter hiking
+
+
+##### Mittwoch 6. December
+
+Well done - you've followed up on all all the below items, even if they're not necessarily secure.
+
+
 ##### Saturday 11th November 2023
 
 ##### Before Munich:
@@ -39,11 +58,11 @@ Stop wasting so much time on your phone and your laptop, man. Start doing some o
 
 Apply for a bunch more hotel jobs!
 
-##### In Munich:
+##### In Munich:  
 Book dates in the city with Lucie
 Find a bjj gym!
-* Wash your gear - especially your sleeping bag!
- * Hang your stuff out to dry
+* ~~Wash your gear - especially your sleeping bag!~~
+ * ~~Hang your stuff out to dry~~
  * ~~FIX YOUR HAMMOCK!~~
 * Cybersecurity: start investing into bitcoin.
    * No need for foreign investments, right? You have NZ and USA already.

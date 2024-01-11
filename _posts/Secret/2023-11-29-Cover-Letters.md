@@ -7,6 +7,48 @@ version: Secret
 ref: CoverLetters
 ---
 
+##### Donnerstag 7. December
+
+Hallo Philipp,
+
+Ich heiße Kauri, 27 Jahre, von Neuseeland. Ich fange im mitte-Januar einen neuen Job im schick Hotel in München an. Ich bin interesse über Ihnen WG.
+
+Regardless whether of what, where, who, I think it's always important to treat the people, and the environment around you with care and respect. And that is reflected in my way of living! While I don't know houseplants so well... I certainly know how to follow instruction, and would treat them like my own pets :) As for the rest of the apartment, well, I would have my partner around sometimes, and somehow she is even tidier than I am! I think your landlady will like me. I'm not staying up late to drink and party, and lead an active, outside life. Und spreche ich genuk Deutsch das ich sie zum Lächeln bringe könnte, wenn ich sie sehe, besonders wenn ich Kuchen bringe!
+
+In terms of financial security. Paying rent will not be a problem - I can provide bank statements from New Zealand. Actually I took this minimum wage role in a fancy hotel, mainly because it forces me to learn and use the german language quickly, and this is the most important thing for me if I am going to have a future in this country.
+
+You could learn more about me, and also read what other people have written about me, here.
+https://kauri.sbs/flatshare-advertisement-de
+
+Ich würde mich freuen, bald von Ihnen zu hören.
+So, solte ich gehe diese Kinderbücher zurückzulesen :D
+
+Viele Gruße,
+Kauri Beckmann
++44 7521 420 561 (Whatsapp)
++49 176 280 66521 (Mobile)
+
+
+Hallo Philipp,
+
+Ich heiße Kauri, 27 Jahre, von Neuseeland. Ich fange im mitte-Januar einen neuen Job in München an. Natürlich bin ich interesse über deine WG.
+
+Ich lebe auch zu scwimmen, und wandern - utze ich oft meinen Buch von die Allgau Alpen, und kampen, und fahhraden (im Winter, auch!) und BBQ und... alles das macht mir draußen! Natürlich konnen wir oft zusammen kochen, und meine Freundin hat mir ein paar Deutscher Rezepte geteilt. Wir spielen oft Karten, Catan, Monopoly, und mehr. Ich kann auch Schachspielunterricht geben... halb Preis :P Was spielen spielst du?
+
+Actually, I will be honest and say the price is a bit expensive compared to what I am looking for, considering that I am not bringing my furnishings from New Zealand. However I wanted to write to you anyway, because I really liked your style of communication, and get the sense we would be quite compatible. I got the sense you are just moving into the building yourself, are you also the landlord? Either way, I'd be excited tp help make it feel like home.
+
+In terms of tidyness and consideration, well, you should read what other people write about me here:
+www.kauri.sbs/flatshare-advertisement-de
+You can also learn a bit more about me there. Naturally I'm not moving to Munich just to sit in my room in the evenings.
+
+In terms of financial security. Paying rent will not be a problem. I have attached for you just two bank and asset statements from New Zealand ($1 NZD = € 0.55). Actually I took this minimum wage role in a fancy hotel, mainly because it forces me to learn and use the german language quickly, and this is the most important thing for me if I am going to have a future in this country.
+
+So, solte ich gehe diese Kinderbücher zurückzulesen :D
+Ich würde mich freuen, bald von Ihnen zu hören.
+
+LG,
+Kauri Beckmann
++44 7521 420 561 (Whatsapp)
 
 
 ##### Mittwoch 29. November
