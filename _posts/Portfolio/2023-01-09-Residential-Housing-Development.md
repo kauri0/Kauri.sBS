@@ -12,7 +12,33 @@ excerpt: 2.1 Context<br>2.2 Deliverables and Efficiencies<br>2.3 Negotiations an
 - TOC
 {:toc}
 
+Project: New build. Concurrent development projects totalling 40 single and two-storey residential units.
+Original design fee apx $100k.
+Geotechnical and structural engineering design services.
+Government initiative KiwiBuild, aimed to deliver affordable homes.
+
+Role: Project Management, Design Coordination and Construction Monitoring
+
+Project Management
+* Tender preparation: Initial scoping and pricing
+* Client negotiation and liaison
+ * Negotiation of variations totalling apx 50% of original design budget
+* Design meetings and liaison with external design parties
+
+Design Coordination
+* Coordination of Geotechnical reporting and assessment
+ * Earthworks plans, cut/fill
+* Coordination of Structural and Foundation Design
+ * Existing "standard" building templates existed however these templates were limiting, and majority structures had design changes that required structural verification.
+ * Repetitive work: created efficiencies through standardisation of design spreadsheets, and standard details
+  * Design of internal timber framing elements outside NZS3604, including:
+   * Floor and roof beams, lintels, stairs, 
+  * Ribraft foundations for poor soil conditions
+   * Bridging piles (for civil services)
+  * Timber and concrete retaining walls up to 3.0m high
+
 ### 2.1 Context
+New build. Concurrent development projects totalling 40 single and two-storey residential units.<br>
 Government initiative KiwiBuild, aimed to deliver affordable homes.<br>
 Political disaster, primarily due to delays, such as:
 * Land procurement

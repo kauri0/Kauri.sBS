@@ -1,45 +1,162 @@
 ---
 layout: post
 author: Kauri Beckmann
-title: Notepad
+title: Interview Prep
 lang: English
 version: Secret
-ref: Notepad
+ref: IP
 ---
 
 ##### Monday 15. Januar
 
-Hi Graham,
+Richard Marshall - AndersElite
+Henry Dowler - Tandem Talent Ltd
 
-Thanks for the list, and thanks again for your time.
 
-These are the companies I'm really keen on.
-BDP, Meinhardt, Bakerhicks, HTS
-Which are undertaking the types of projects I'm keen on, embracing a modern approach to design as well as modern culture and good opportunity for development.
+##### Tell us more about yourself
 
-I couldn't get a clear read on MWP. Seems they do some really captivating projects. However for a reasonably small company they seem to offer a ton of services, worried they stretch too thin. They also have two websites that contradict each other often.
-https://www.mwp.ie
-https://www.mwpeng.co.uk
-What do you think? What's their reputation like?
-
-L+C, Perega, Symmetry and Fairhurst I would not be not interested in. 
-
-Cheers,
 Kauri
+Grew up, Lived life in NZ
+Last year travelling
+Following some of my passions
+Natural adventure - hiking, camping, cycling through the mountains
+Creative writing, publishing stories from my travels
+Learning a new language
+
+Graduated with Bachelor's Engineering 
+Working in NZ five years, Cook Costello
+Multidisciplinary engineering firm
+
+Designed wide range of structures
+Residential, industrial, commercial structures 
+New builds, alterations
+Seismic and structural assessment and reporting
+Taking on more managerial responsibility too
 
 
-##### Friday 12. Januar 2024
 
-Jane St Puzzle
+##### What are you looking for?
+##### Why Foster & Partners?
 
-Steps:
-1) Define coordinate system (x,y) (0,0) to (17,17)
-2) Define shape: 
+Continue to develop technical and soft skills
+Towards chartership
+
+Exposure to Building Information Modelling
+This is the future of Engineering, and the direction I want to move in
+F+P excels at
+
+I want to be able to go home and be proud of the projects I work on
+When the public sees the building I want to be able to say I worked on it
+
+In NZ I was always proud when I could point out the buildings I'm working on
+And I knew that I'd been involved in the design or coordination of the project.
+But the scale, here in London it's different.
+
+Norman Foster is iconic, Speaks to London city. 
+Going down in history, an influence on modern global architecture
+The Bloomberg building, Sister works there, been inside 
+The Gherkin, 
+The Harry Potter bridge 
+What more?
+
+F&P has a wild list of major projects
+I plan on being here for the foreseeable future, so I can 
+
+##### When are you ready to start
+Pretty much immediately. What are they looking for? What's the flexibility there?
+
+
+Have you got which skills:
+Are you chartered?
+
+
+Could you tell me more about the specific job? 
+It wasn't clear in the job description, what sorts of projects this role is for?
+
+
+Growing, expanding, replacing someone?
+
+Size of the team
+What else do I need to know about them
+
+I'm trying to get an understanding of the salaries. What should I be expecting in terms of pay?
+
+What's the process?
+What are the next steps?
+In-person for interviews?
+
+Vague
+It's not clear what sorts of projects.
+What sort of projects will I be on?
+What kind of interview is this going to be?
+
+
+* Tell me a bit about yourself
+
+
+* What sort of role are you looking for?
+
+
+### BIM
+I have a strong desire to develop into BIM, as this is the future of Engineering. The shift towards BIM brings about a fundamental change in the way we approach structural design, emphasizing collaboration, data integration, and a comprehensive understanding of the project from the outset. I'm applying for this role because of AECOM's excellent track record in delivering BIM projects. I'm confident my background in Structural Engineering gives me the skills to easily transition into a structural technician role.
+
+I better understand now why starting with a focus BIM modelling (as opposed to modelling analyses) is a wise approach, that restructuring workflows is an essential part of BIM design. The shift towards BIM brings about a fundamental change in the way we approach structural design, emphasizing collaboration, data integration, and a comprehensive understanding of the project from the outset.
+
+BIM modelling isn't so different from modelling in Revit, right? Different from what we normally deliver, in terms of the information deliverable. Through formatting the CAD file as per the BIM Execution Plan and performing the specified data exchanges, you create the Common Data Environment. It's kind-of just structural drafting in Revit, except doing it "properly" with BIM compatibility and reciprocal data from the Common Data Environment?
+
+crash-course in Structural BIM Modelling.
+
+### Required skills
+
+Calculations, analysis, drawings, diagrams, models
+
+Co-ordination of the internal design team
+Responsibility, where required by the project leader, for specific areas of the design and project development 
+
+    Able to demonstrate initiative and a proactive approach to daily tasks
+    Good interpersonal skills and able to work independently and as part of an effective team 
+    Flexible attitude 
+
+    An undergraduate degree of at least 4 years duration and a postgraduate degree at the MSc level or above in structural engineering
+    Understanding of all aspects of the role of an engineer in particular all relevant and current legislation
+    Ability to use initiative in response to demands of project
+    Proven skills in all aspects of negotiation and communication (whether graphical, written or verbal) including ability to listen and to understand others
+    Ability to understand and formulate design decisions
+    Ability to co-ordinate and integrate the work of internal and external members of the design team
+    Understanding of financial aspects of running a design project on time and on budget
+    Ability to manage and motivate a team, to organise oneself and others
+    Ability and effectively manage large amounts of project related information and data
+    Understanding of the importance of common standards for the structure of project related digital data
+    Ability to manage relationship with client efficiently, effectively, and professionally
+    Ability to use some of the following: GSA, ETABS, SAFE, MicroStation, InDesign, Internet Explorer, Word, Excel, Outlook, PowerPoint
 
 
 
 
-##### Friday 12. Januar 2024
+
+Earthquake design:
+
+Simple approach: 
+Based on fault proximity and soil conditions etc
+As well as weight of building
+NZ: Assume some ductility level, base shear varies
+Determine base shear
+Distribute across building height
+
+V* = k * d
+base shear = stiffness x displacement??
+
+Does not account for dynamic and inelastic response
+
+Elastic design -> no yield assumed/allowed 
+Inelastic / plastic design -> determine yield mechanism at ULS
+
+
+
+
+
+
+##### EMAIL TEMPLATES BELOW
 
 * Linkedin Application - in-house recruitment
 
