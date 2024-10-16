@@ -24,6 +24,4 @@ Love,
 
 Kauri
 
-Ps: For those of you wondering, I’m also expecting, fuck the plans to work in the UK. At time of writing I'm volunteering in Tirana, Albania with, with some *plans* for the future. I’ll update you here when I'm sure what's coming next.
-
 Pps: Einige Geschiscten haben ein deutsche Übersetzung. Wenn ihr Deutsche möchten eine Lache, ihnen aufpassen!
