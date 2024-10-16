@@ -3,7 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: Ein kiwi wurde in München gesehen!
 lang: Deutsch
-version: Original
+version: Translation
 date_written: 2023-12-03
 date_published: 2024-08-08
 ref: wohnung-ad-de
