@@ -3,12 +3,17 @@ layout: post
 author: Kauri Beckmann
 title: Ein kiwi wurde in München gesehen!
 lang: Deutsch
-version: Secret
-date_published: 2023-12-03
+version: Original
+date_written: 2023-12-03
+date_published: 2024-08-08
 ref: wohnung-ad-de
 ---
 
-[English translation](/flatshare-advertisement-en)
+##### Vorwort
+
+Ich habe diese alte WG-Anzeige gefunden, ab wann ich habe einen WG in Munchen verzweifelt gesucht. Ich lache beim Lesen, und dachte vielleicht willst du es auch.
+
+##### Die Anzeige
 
 Ich heiße Kauri Beckmann, 27 Jahre alt. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor ein Jahr aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Ich habe drei Monate in München und Bayern getrampt und, für vielen Gründen wähle ich in München zu besiedeln und hier den nächsten Schritt von Leben zum anfangen. Das bier, die Kultur, die Menschen, nicht zuletzt für meine schöne deutsche Freundin.
 
@@ -44,5 +49,4 @@ Ich werde in meiner Freizeit:
 * Natürlich muss ich auch Zeit mit meiner schönen Freundin machen!<br><br>
 
 Ich freue mich von ihnen zuhören! Sie konnen mich erreichen unter:<br>
-+49 176 280 66521 (mobile)<br>
-+44 7521 420 561 (whatsapp)
+[redacted]<br>
