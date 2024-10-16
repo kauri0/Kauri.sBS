@@ -9,6 +9,7 @@ ref: BIM102
 ---
 
 **What is BIM?**
+
 BIM in some ways starts with the 3D model of, say, a building.
 While any building can have a 3D model of it created during design; the existence of the 3D model does not qualify it as BIM.
 But for a BIM process to occur, a 3D model must be created.

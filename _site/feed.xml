@@ -5,8 +5,8 @@
     <description>...that&apos;s Brilliant Stories, duh</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Jan 2024 10:27:53 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jan 2024 10:27:53 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Feb 2024 13:28:26 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Feb 2024 13:28:26 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       
@@ -616,7 +616,37 @@ Tell a story&lt;/p&gt;
           
           <author>fakeemail@gmail.com (Kauri's BS)</author>
           <description>
-            &lt;h5 id=&quot;monday-15-januar&quot;&gt;Monday 15. Januar&lt;/h5&gt;
+            &lt;h5 id=&quot;saturday-27-january&quot;&gt;Saturday 27. January&lt;/h5&gt;
+
+&lt;p&gt;Hi Geoff,&lt;/p&gt;
+
+&lt;p&gt;Thanks for your message. You hear correctly; I’m ready to kick my engineering career off here in London! I had a read about GSE and naturally I would be interested in hearing more about a suitable position.  I have attached for you my resume. You can reach me at +44 7521 420 561.&lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Kauri&lt;/p&gt;
+
+&lt;h5 id=&quot;wednesday-17-january&quot;&gt;Wednesday 17. January&lt;/h5&gt;
+
+&lt;p&gt;Hi Ahmed,&lt;/p&gt;
+
+&lt;p&gt;Please put me through for the following companies:&lt;/p&gt;
+
+&lt;p&gt;Whitby Wood
+Elliott Wood
+Cundall
+Ingleton Wood
+Design 4 Structures
+Simpson TWS
+Eckersley O’Callaghan
+Price &amp;amp; Myers&lt;/p&gt;
+
+&lt;p&gt;ANd later,&lt;/p&gt;
+
+&lt;p&gt;Michael Barclay Partnership
+Campbell Reith
+Lyons O’Neill&lt;/p&gt;
+
+&lt;h5 id=&quot;monday-15-januar&quot;&gt;Monday 15. Januar&lt;/h5&gt;
 
 &lt;p&gt;Hi Graham,&lt;/p&gt;
 
@@ -1473,8 +1503,9 @@ Kauri&lt;/p&gt;
           
           <author>fakeemail@gmail.com (Kauri's BS)</author>
           <description>
-            &lt;p&gt;&lt;strong&gt;What is BIM?&lt;/strong&gt;
-BIM in some ways starts with the 3D model of, say, a building.
+            &lt;p&gt;&lt;strong&gt;What is BIM?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BIM in some ways starts with the 3D model of, say, a building.
 While any building can have a 3D model of it created during design; the existence of the 3D model does not qualify it as BIM.
 But for a BIM process to occur, a 3D model must be created.
 Through integrated design between architectural, structural and mechanical engineers, construction managers, and other relevant services; a centralized platform, a Common Data Environment can be created, reflecting, and accurate to the level of detail required, a n-dimensional model of the building.&lt;/p&gt;
