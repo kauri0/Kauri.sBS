@@ -6,6 +6,7 @@ lang: English
 version: Portfolio
 date_updated: 2023-10-30
 ref: Page2
+permalink: /Portfolio/Residential_Housing_Development
 excerpt: 2.1 Context<br>2.2 Deliverables and Efficiencies<br>2.3 Negotiations and Variations
 ---
 

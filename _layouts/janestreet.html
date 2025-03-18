@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+    <h1 class="content-title divided">
+      Jane Street Puzlzes
+    </h1>
+    <h2>
+        Just a few of the solutions I'm particularly proud of!
+      </h2>
+      <ul class="Jane-street-puzzle">
+        {% for post in site.posts %}
+          {% include draft-list-item.html %}
+        {% endfor %}
+      </ul>
+    
+    </main>
+    

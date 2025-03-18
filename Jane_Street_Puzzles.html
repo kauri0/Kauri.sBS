@@ -1,0 +1,22 @@
+---
+title: Jane Street Puzzles
+layout: default
+---
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+    <h1 class="content-title divided">
+      Jane Street Puzzles
+    </h1>
+    <h9 class="content-title divided">
+      Test
+    </h9>
+    
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% include js-puzzle.html %}
+      {% endfor %}
+    </ul>
+
+    </main>
+    

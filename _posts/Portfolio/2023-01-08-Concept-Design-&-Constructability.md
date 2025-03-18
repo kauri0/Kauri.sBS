@@ -6,6 +6,7 @@ lang: English
 version: Portfolio
 date_updated: 2023-10-30
 ref: Page3
+permalink: /Portfolio/Concept_Design_Constructability
 excerpt: 3.1 Context<br>3.2 Concept Design & Constructability
 ---
 

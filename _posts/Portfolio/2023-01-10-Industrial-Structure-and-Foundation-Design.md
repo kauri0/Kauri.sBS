@@ -5,6 +5,7 @@ title: 1. Industrial Structure and Foundation Design
 lang: English
 version: Portfolio
 date_updated: 2023-10-30
+permalink: /Portfolio/Industrial_Structure_and_Foundation_Design
 ref: Page1
 excerpt: 1.1 Historical Context<br>1.2 The Structure<br>1.3 Modelling and Analysis<br>1.4 Construction
 ---

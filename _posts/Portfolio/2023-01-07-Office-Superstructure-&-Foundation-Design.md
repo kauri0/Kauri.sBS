@@ -6,6 +6,7 @@ lang: English
 version: Portfolio
 date_updated: 2023-10-31
 ref: Page4
+permalink: /Portfolio/Office_Superstructure_Foundation_Design
 excerpt: 4.1 Context<br>4.2 Foundation and Superstructure Design
 ---
 

@@ -1,0 +1,22 @@
+{% if post.version == "Jane Street Puzzle" %}
+<li>
+  <a href="{{ post.url | absolute_url }}" class="post-link">
+    <div class="post-link__heading">
+        <h1 class="post-link__title">
+          {{ post.title }}
+        </h1>
+    </div>
+    {% assign month_abbr = post.date_published | date: "%b" %}
+    {% case month_abbr %}
+      {% when "Sep" %}{% assign month_abbr = "Sept" %}
+      {% when "Jun" %}{% assign month_abbr = "June" %}
+      {% when "Jul" %}{% assign month_abbr = "July" %}
+      {% else %}{% assign month_abbr = month_abbr %}
+    {% endcase %}
+
+    <span class="post-date">
+      {{ post.date_published | date: "%-d" }} {{ month_abbr }} {{ post.date_written | date: "%Y" }}
+    </span>
+  </a>
+</li>
+{% endif %}
