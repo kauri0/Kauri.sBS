@@ -3,6 +3,7 @@ layout: portfolio
 author: Kauri Beckmann
 title: Project List
 lang: English
+noindex: true
 version: Portfolio
 date_updated: 2024-01-16
 permalink: /Portfolio/Project_List

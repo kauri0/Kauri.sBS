@@ -3,6 +3,7 @@ layout: portfolio
 author: Kauri Beckmann
 title: 3. Concept Design & Constructability
 lang: English
+noindex: true
 version: Portfolio
 date_updated: 2023-10-30
 ref: Page3

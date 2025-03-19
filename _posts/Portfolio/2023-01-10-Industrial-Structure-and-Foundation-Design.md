@@ -3,6 +3,7 @@ layout: portfolio
 author: Kauri Beckmann
 title: 1. Industrial Structure and Foundation Design
 lang: English
+noindex: true
 version: Portfolio
 date_updated: 2023-10-30
 permalink: /Portfolio/Industrial_Structure_and_Foundation_Design

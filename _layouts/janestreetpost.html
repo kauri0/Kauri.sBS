@@ -1,6 +1,17 @@
-<article>
+<!DOCTYPE html>
+<html>
   <head>
+    {% if page.noindex %}
+      <meta name="robots" content="noindex, nofollow">
+    {% endif %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
+    <!-- Other head elements, links, and scripts -->
   </head>
-</article>
-{{content}}
+  <body>
+    <article>
+      {{ content }}
+    </article>
+  </body>
+</html>

@@ -3,6 +3,7 @@ layout: portfolio
 author: Kauri Beckmann
 title: 4. Office Superstructure & Foundation Design
 lang: English
+noindex: true
 version: Portfolio
 date_updated: 2023-10-31
 ref: Page4

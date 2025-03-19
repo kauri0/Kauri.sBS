@@ -3,6 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: Interview Prep AJG
 lang: English
+noindex: true
 version: Secret
 ref: IPAJG
 ---

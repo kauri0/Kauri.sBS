@@ -3,6 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: Kiwi spotted in Munich!
 lang: English
+noindex: true
 version: Secret
 date_published: 2023-12-03
 ref: wohnung-ad-en

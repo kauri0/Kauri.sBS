@@ -3,6 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: Die Kleinen Dinge<br>Ein Schreiben an Lucia's Vermieter
 lang: Deutsch
+noindex: true
 version: Secret
 date_written: 2023-05-15
 date_published: 2023-09-28
