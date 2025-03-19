@@ -5,8 +5,8 @@
     <description>...that&apos;s Brilliant Stories, duh</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed/index.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Mar 2025 23:12:04 +0100</pubDate>
-    <lastBuildDate>Tue, 18 Mar 2025 23:12:04 +0100</lastBuildDate>
+    <pubDate>Wed, 19 Mar 2025 10:14:30 +0100</pubDate>
+    <lastBuildDate>Wed, 19 Mar 2025 10:14:30 +0100</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       
@@ -17720,48 +17720,6 @@ Probability =  0.491407578838308
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;div class=&quot;jp-Cell jp-CodeCell jp-Notebook-cell&quot;&gt;
-&lt;div class=&quot;jp-Cell-inputWrapper&quot; tabindex=&quot;0&quot;&gt;
-&lt;div class=&quot;jp-Collapser jp-InputCollapser jp-Cell-inputCollapser&quot;&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-InputArea jp-Cell-inputArea&quot;&gt;
-&lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In [6]:&lt;/div&gt;
-&lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
-&lt;div class=&quot;cm-editor cm-s-jupyter&quot;&gt;
-&lt;div class=&quot;highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;jupyter&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;nbconvert&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;--to&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Beside_the_Point.ipynb
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-Cell-outputWrapper&quot;&gt;
-&lt;div class=&quot;jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser&quot;&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-OutputArea jp-Cell-outputArea&quot;&gt;
-&lt;div class=&quot;jp-OutputArea-child&quot;&gt;
-&lt;div class=&quot;jp-OutputPrompt jp-OutputArea-prompt&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;jp-RenderedText jp-OutputArea-output&quot; data-mime-type=&quot;application/vnd.jupyter.stderr&quot; tabindex=&quot;0&quot;&gt;
-&lt;pre&gt;[NbConvertApp] Converting notebook Beside_the_Point.ipynb to html
-[NbConvertApp] Writing 280562 bytes to Beside_the_Point.html
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&quot;jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs&quot;&gt;
-&lt;div class=&quot;jp-Cell-inputWrapper&quot; tabindex=&quot;0&quot;&gt;
-&lt;div class=&quot;jp-Collapser jp-InputCollapser jp-Cell-inputCollapser&quot;&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-InputArea jp-Cell-inputArea&quot;&gt;
-&lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In [ ]:&lt;/div&gt;
-&lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
-&lt;div class=&quot;cm-editor cm-s-jupyter&quot;&gt;
-&lt;div class=&quot;highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; 
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 &lt;/div&gt;
 &lt;/main&gt;
 &lt;/body&gt;
@@ -25360,7 +25318,7 @@ kauri.b@outlook.co.nz
 &lt;div class=&quot;jp-Collapser jp-InputCollapser jp-Cell-inputCollapser&quot;&gt;
 &lt;/div&gt;
 &lt;div class=&quot;jp-InputArea jp-Cell-inputArea&quot;&gt;
-&lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In [4]:&lt;/div&gt;
+&lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In [ ]:&lt;/div&gt;
 &lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
 &lt;div class=&quot;cm-editor cm-s-jupyter&quot;&gt;
 &lt;div class=&quot;highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# STAGE 1&lt;/span&gt;
@@ -25371,7 +25329,7 @@ kauri.b@outlook.co.nz
 &lt;span class=&quot;n&quot;&gt;grid_size&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;global&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;max_path_length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# Defines search depth. Our realistic computational limit maxed at 17.&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;max_path_length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# Defines search depth. Our realistic computational limit maxed at 19.&lt;/span&gt;
 
 &lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Stage 1 paths&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Checking pathways of up to &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;max_path_length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;moves&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
@@ -25901,48 +25859,6 @@ a1,b3,d2,f1,e3,f5,d6,b5,a3,c2,b4,d3,f4,e2,c3,e4,f6
 &lt;pre&gt;Example valid answer:
 1,3,2,a1,b3,d2,f1,e3,f5,d6,b5,a3,c2,b4,d3,f4,e2,c3,e4,f6,a6,b4,d3,e1,f3,d4,f5,d6,e4,d2,b1,a3,c4,e3,f1
 &lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&quot;jp-Cell jp-CodeCell jp-Notebook-cell&quot;&gt;
-&lt;div class=&quot;jp-Cell-inputWrapper&quot; tabindex=&quot;0&quot;&gt;
-&lt;div class=&quot;jp-Collapser jp-InputCollapser jp-Cell-inputCollapser&quot;&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-InputArea jp-Cell-inputArea&quot;&gt;
-&lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In [1]:&lt;/div&gt;
-&lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
-&lt;div class=&quot;cm-editor cm-s-jupyter&quot;&gt;
-&lt;div class=&quot;highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;jupyter&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;nbconvert&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;--to&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;html&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;Knight_Moves_6.ipynb
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-Cell-outputWrapper&quot;&gt;
-&lt;div class=&quot;jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser&quot;&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-OutputArea jp-Cell-outputArea&quot;&gt;
-&lt;div class=&quot;jp-OutputArea-child&quot;&gt;
-&lt;div class=&quot;jp-OutputPrompt jp-OutputArea-prompt&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;jp-RenderedText jp-OutputArea-output&quot; data-mime-type=&quot;application/vnd.jupyter.stderr&quot; tabindex=&quot;0&quot;&gt;
-&lt;pre&gt;[NbConvertApp] Converting notebook Knight_Moves_6.ipynb to html
-[NbConvertApp] Writing 329560 bytes to Knight_Moves_6.html
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class=&quot;jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs&quot;&gt;
-&lt;div class=&quot;jp-Cell-inputWrapper&quot; tabindex=&quot;0&quot;&gt;
-&lt;div class=&quot;jp-Collapser jp-InputCollapser jp-Cell-inputCollapser&quot;&gt;
-&lt;/div&gt;
-&lt;div class=&quot;jp-InputArea jp-Cell-inputArea&quot;&gt;
-&lt;div class=&quot;jp-InputPrompt jp-InputArea-prompt&quot;&gt;In [ ]:&lt;/div&gt;
-&lt;div class=&quot;jp-CodeMirrorEditor jp-Editor jp-InputArea-editor&quot; data-type=&quot;inline&quot;&gt;
-&lt;div class=&quot;cm-editor cm-s-jupyter&quot;&gt;
-&lt;div class=&quot;highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt; 
-&lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
