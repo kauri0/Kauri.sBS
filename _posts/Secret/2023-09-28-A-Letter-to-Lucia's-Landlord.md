@@ -3,6 +3,7 @@ layout: post
 author: Kauri Beckmann
 title: The Little Things<br>A Letter to Lucia's Landlord
 lang: English
+noindex: true
 version: Secret
 date_written: 2023-06-15
 date_published: 2023-09-28
