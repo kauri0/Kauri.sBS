@@ -4,13 +4,12 @@ author: Kauri Beckmann
 title: Hall of Mirrors 3 <br> Twenty-eight solutions
 noindex: true
 version: secret
-date_written: 2025-03-18
-date_published: 2025-03-18
+date_written: 2025-03-22
+date_published: 2025-03-22
 date_updated: 
 permalink: /Jane_Street_Puzzles/Hall_of_Mirrors_3_for_your_eyes_only.html
 ref: Hall_of_Mirrors_3
 ---
-
 
 <!DOCTYPE html>
 
@@ -67,9 +66,6 @@ span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 
 .highlight .s1 { color: var(--jp-mirror-editor-string-color) } /* Literal.String.Single */
 .highlight .ss { color: var(--jp-mirror-editor-string-color) } /* Literal.String.Symbol */
 .highlight .il { color: var(--jp-mirror-editor-number-color) } /* Literal.Number.Integer.Long */
-pre, code {
-      overflow-x: auto;
-    }
   </style>
 <style type="text/css">
 /*-----------------------------------------------------------------------------
@@ -7541,25 +7537,22 @@ a.anchor-link {
 <span class="sd">Twenty-eight solutions</span>
 <span class="sd">By Kauri Beckmann</span>
 <span class="sd">kauri.b@outlook.co.nz</span>
-<span class="sd">18/03/2025</span>
+<span class="sd">22/03/2025</span>
 
 
 <span class="sd">I take an iterative depth-first search approach to solving Hall of Mirrors 3.</span>
 <span class="sd">    Actually, I use two iterative DFS's.</span>
-<span class="sd">    Finding one solution takes about 0.1 seconds.</span>
 <span class="sd">    Exploring at greater depths yields more solutions, at cost of time.</span>
 <span class="sd">    I find 28 unique solutions to the puzzle, with 22 unique answers.</span>
 <span class="sd">    Without rewriting the code, regrettably I have no way to prove I haven't missed any solutions.</span>
 <span class="sd">    </span>
-<span class="sd">    Total program runtime: apx 5 minutes</span>
+<span class="sd">    Final solution runtime: apx 5 min</span>
 
 
 <span class="sd">Before going any further, I just want to say to the Jane Street Puzzle Team,</span>
 <span class="sd">The way you come up with this stuff, it blows my mind. You guys are awesome!</span>
 
-<span class="sd">In hindsight, I'm not sure if this DFS was the most effective way to solve this month's challenge.</span>
 <span class="sd">I'm not a developer, by any means. I'm just a structural engineer that likes solving complex puzzles.</span>
-
 <span class="sd">This is by far the most challenging code piece I've ever written.</span>
 <span class="sd">And writing it was a hell of a lot more fun than solving the puzzle by hand!</span>
 
@@ -7621,7 +7614,7 @@ a.anchor-link {
 <pre>
 Jane Street Puzzle
 March 2025: Hall of Mirrors 3
-Twenty-eight solutions
+Twenty-Eight Solutions
 By Kauri Beckmann
 kauri.b@outlook.co.nz
 18/03/2025
@@ -7636,7 +7629,7 @@ kauri.b@outlook.co.nz
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [29]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -7704,7 +7697,7 @@ kauri.b@outlook.co.nz
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [30]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""This is the main display function"""</span>
@@ -7822,7 +7815,7 @@ And yes, this is part of an actual solution. 3087's pathway can look like this. 
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [31]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -7887,7 +7880,7 @@ Demonstration: find_possible_moves(3087, (-1,0))
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [16]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [32]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -7968,7 +7961,7 @@ Demonstration: find_possible_moves(3087, (-1,0))
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [17]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [33]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -8011,7 +8004,7 @@ Demonstration: find_possible_moves(3087, (-1,0))
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [18]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [34]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">place_light_path</span><span class="p">(</span><span class="n">grid</span><span class="p">,</span> <span class="n">previous_pos</span><span class="p">,</span> <span class="n">current_pos</span><span class="p">):</span>
@@ -8080,7 +8073,7 @@ Say we move from (0, 1) (3, 1), ie from top to bottom
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [19]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [35]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">check_possible_moves_update_stack</span><span class="p">(</span><span class="n">current_grid</span><span class="p">,</span> <span class="n">possible_moves</span><span class="p">,</span> <span class="n">current_pos</span><span class="p">,</span> <span class="n">current_value</span><span class="p">,</span> <span class="n">path</span><span class="p">,</span> <span class="n">path_instance</span><span class="p">,</span> <span class="n">direction</span><span class="p">,</span> <span class="n">start_pos</span><span class="p">,</span> <span class="n">stack</span><span class="p">,</span> <span class="n">solutions</span><span class="p">):</span>
@@ -8176,7 +8169,7 @@ Say we move from (0, 1) (3, 1), ie from top to bottom
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [20]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [36]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">dfs_iterative</span><span class="p">(</span><span class="n">starting_grids_and_paths</span><span class="p">,</span> <span class="n">start_pos</span><span class="p">,</span> <span class="n">max_path_length</span><span class="p">):</span>
@@ -8280,7 +8273,7 @@ Say we move from (0, 1) (3, 1), ie from top to bottom
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [21]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [37]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">process_new_steps</span><span class="p">():</span>
@@ -8307,7 +8300,7 @@ Say we move from (0, 1) (3, 1), ie from top to bottom
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [22]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [38]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">print_solutions</span><span class="p">(</span><span class="n">solutions</span><span class="p">):</span>
@@ -8335,7 +8328,7 @@ Say we move from (0, 1) (3, 1), ie from top to bottom
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [23]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [39]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""EXAMPLE DFS PART 1</span>
@@ -8436,7 +8429,7 @@ Paths for Solution 1: [[(0, 10), (1, 10), (1, 11)], [(11, 6), (10, 6), (10, 11)]
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [24]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [40]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -8510,7 +8503,7 @@ Paths for Solution 1: [[(0, 10), (1, 10), (1, 11)], [(11, 6), (10, 6), (10, 11)]
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [25]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [41]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""EXAMPLE DFS PART 3</span>
@@ -8636,7 +8629,7 @@ Notice how the first solution has an empty internal cell.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [26]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [42]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -8702,14 +8695,15 @@ Notice how the first solution has an empty internal cell.
 <span class="sd">    This one's simple.</span>
 <span class="sd">    Requires all border cells to be filled.</span>
 <span class="sd">    Sums each border and multiplies together.</span>
+<span class="sd">    Since we shouldn't include original border cells, just start border sums as negative numbers summing original border cells</span>
 <span class="sd">    """</span>
     <span class="n">rows</span><span class="p">,</span> <span class="n">cols</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">grid</span><span class="p">),</span> <span class="nb">len</span><span class="p">(</span><span class="n">grid</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
     
     <span class="c1"># Initialize sums for each border</span>
-    <span class="n">sum_top</span> <span class="o">=</span> <span class="mi">0</span>
-    <span class="n">sum_bottom</span> <span class="o">=</span> <span class="mi">0</span>
-    <span class="n">sum_left</span> <span class="o">=</span> <span class="mi">0</span>
-    <span class="n">sum_right</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">sum_top</span> <span class="o">=</span> <span class="o">-</span><span class="p">(</span><span class="mi">112</span> <span class="o">+</span> <span class="mi">48</span> <span class="o">+</span> <span class="mi">3087</span> <span class="o">+</span> <span class="mi">9</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span>
+    <span class="n">sum_bottom</span> <span class="o">=</span> <span class="o">-</span><span class="p">(</span><span class="mi">2025</span> <span class="o">+</span> <span class="mi">12</span> <span class="o">+</span> <span class="mi">64</span> <span class="o">+</span> <span class="mi">5</span> <span class="o">+</span> <span class="mi">405</span><span class="p">)</span>
+    <span class="n">sum_left</span> <span class="o">=</span> <span class="o">-</span><span class="p">(</span><span class="mi">27</span> <span class="o">+</span> <span class="mi">12</span> <span class="o">+</span> <span class="mi">225</span><span class="p">)</span>
+    <span class="n">sum_right</span> <span class="o">=</span> <span class="o">-</span><span class="p">(</span><span class="mi">4</span> <span class="o">+</span> <span class="mi">27</span> <span class="o">+</span> <span class="mi">16</span><span class="p">)</span>
     
     <span class="c1"># Sum the top border (excluding corners)</span>
     <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">cols</span> <span class="o">-</span> <span class="mi">1</span><span class="p">):</span>  
@@ -8749,7 +8743,7 @@ Notice how the first solution has an empty internal cell.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [27]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [43]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -8843,7 +8837,7 @@ Notice how the first solution has an empty internal cell.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [28]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [44]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -8887,7 +8881,7 @@ Notice how the first solution has an empty internal cell.
 <pre>EXAMPLE PART 4 FINAL
 
 Number of answers found:  4
-Answers:  [11745101625405, 11592063624960, 11556297695880, 11643744559608]
+Answers:  [601931086080, 578609323776, 576363666480, 582246656016]
 
 Notice how we previously had two solutions, and now we have four.
    This is because we considered placing a mirror in the empty cell of the first solution, creating three solutions from one.
@@ -8934,7 +8928,7 @@ This is the end of the examples. Next I move on to the real solution.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [29]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [45]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -9050,7 +9044,7 @@ Paths for Solution 1: [[(0, 10), (1, 10), (1, 11)], [(11, 6), (10, 6), (10, 11)]
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [30]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [46]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -9410,7 +9404,7 @@ Paths for Solution 14: [[(0, 7), (1, 7), (1, 10), (4, 10), (4, 11)], [(7, 11), (
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [71]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [47]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -9530,7 +9524,7 @@ I have turned off prints - the fourteen solutions are identical to Part 2.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [72]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [48]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">report_duplicates</span><span class="p">(</span><span class="nb">list</span><span class="p">):</span>
@@ -9558,7 +9552,7 @@ I have turned off prints - the fourteen solutions are identical to Part 2.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [73]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [49]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="sd">"""</span>
@@ -9636,9 +9630,9 @@ I have turned off prints - the fourteen solutions are identical to Part 2.
 Twenty-Two Unique Answers:
 
 Total number of answers &amp; solutions found:  28
-Answers sorted smallest to largest:  [11481263939439, 11517330258585, 11556297695880, 11569210432155, 11592063624960, 11643744559608, 11745101625405, 12381662700000, 12471330960000, 12473213639040, 12473213639040, 12488572784160, 12488572784160, 12494212315200, 12505825949760, 12505825949760, 12754410514560, 12803185904640, 12836429982720, 13093876800000, 13166016752640, 13167520806720, 13167520806720, 13183251217920, 13183251217920, 13187755183680, 13200496611840, 13200496611840]
+Answers sorted smallest to largest:  [576363666480, 578609323776, 582246656016, 601931086080, 617381715456, 617381715456, 618473003076, 618550999008, 620976126640, 621828794436, 621828794436, 623431751360, 625189829220, 625189829220, 627387030704, 640451222002, 640451222002, 641546478474, 641612783238, 645034845780, 645034845780, 648461819786, 648461819786, 667255198260, 693717276948, 869902731720, 874155869246, 877730411052]
 Number of unique answers found:  22
-Unique answers sorted smallest to largest:  [11481263939439, 11517330258585, 11556297695880, 11569210432155, 11592063624960, 11643744559608, 11745101625405, 12381662700000, 12471330960000, 12473213639040, 12488572784160, 12494212315200, 12505825949760, 12754410514560, 12803185904640, 12836429982720, 13093876800000, 13166016752640, 13167520806720, 13183251217920, 13187755183680, 13200496611840]
+Unique answers sorted smallest to largest:  [576363666480, 578609323776, 582246656016, 601931086080, 617381715456, 618473003076, 618550999008, 620976126640, 621828794436, 623431751360, 625189829220, 627387030704, 640451222002, 641546478474, 641612783238, 645034845780, 648461819786, 667255198260, 693717276948, 869902731720, 874155869246, 877730411052]
 
 Duplicates:
 Answers 6 and 3
@@ -9657,7 +9651,7 @@ kauri.b@outlook.co.nz
 
 
 Solution  1  of  28
-Answer  1  of  28  :  13200496611840
+Answer  1  of  28  :  648461819786
 </pre>
 </div>
 </div>
@@ -9671,7 +9665,7 @@ Answer  1  of  28  :  13200496611840
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  2  of  28
-Answer  2  of  28  :  13183251217920
+Answer  2  of  28  :  645034845780
 </pre>
 </div>
 </div>
@@ -9685,7 +9679,7 @@ Answer  2  of  28  :  13183251217920
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  3  of  28
-Answer  3  of  28  :  13167520806720
+Answer  3  of  28  :  640451222002
 </pre>
 </div>
 </div>
@@ -9699,7 +9693,7 @@ Answer  3  of  28  :  13167520806720
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  4  of  28
-Answer  4  of  28  :  13166016752640
+Answer  4  of  28  :  641612783238
 </pre>
 </div>
 </div>
@@ -9713,7 +9707,7 @@ Answer  4  of  28  :  13166016752640
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  5  of  28
-Answer  5  of  28  :  13093876800000
+Answer  5  of  28  :  693717276948
 </pre>
 </div>
 </div>
@@ -9727,7 +9721,7 @@ Answer  5  of  28  :  13093876800000
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  6  of  28
-Answer  6  of  28  :  13167520806720
+Answer  6  of  28  :  640451222002
 </pre>
 </div>
 </div>
@@ -9741,7 +9735,7 @@ Answer  6  of  28  :  13167520806720
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  7  of  28
-Answer  7  of  28  :  13200496611840
+Answer  7  of  28  :  648461819786
 </pre>
 </div>
 </div>
@@ -9755,7 +9749,7 @@ Answer  7  of  28  :  13200496611840
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  8  of  28
-Answer  8  of  28  :  13187755183680
+Answer  8  of  28  :  641546478474
 </pre>
 </div>
 </div>
@@ -9769,7 +9763,7 @@ Answer  8  of  28  :  13187755183680
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  9  of  28
-Answer  9  of  28  :  13183251217920
+Answer  9  of  28  :  645034845780
 </pre>
 </div>
 </div>
@@ -9783,7 +9777,7 @@ Answer  9  of  28  :  13183251217920
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  10  of  28
-Answer  10  of  28  :  12505825949760
+Answer  10  of  28  :  625189829220
 </pre>
 </div>
 </div>
@@ -9797,7 +9791,7 @@ Answer  10  of  28  :  12505825949760
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  11  of  28
-Answer  11  of  28  :  12488572784160
+Answer  11  of  28  :  621828794436
 </pre>
 </div>
 </div>
@@ -9811,7 +9805,7 @@ Answer  11  of  28  :  12488572784160
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  12  of  28
-Answer  12  of  28  :  12473213639040
+Answer  12  of  28  :  617381715456
 </pre>
 </div>
 </div>
@@ -9825,7 +9819,7 @@ Answer  12  of  28  :  12473213639040
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  13  of  28
-Answer  13  of  28  :  12471330960000
+Answer  13  of  28  :  618473003076
 </pre>
 </div>
 </div>
@@ -9839,7 +9833,7 @@ Answer  13  of  28  :  12471330960000
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  14  of  28
-Answer  14  of  28  :  12381662700000
+Answer  14  of  28  :  667255198260
 </pre>
 </div>
 </div>
@@ -9853,7 +9847,7 @@ Answer  14  of  28  :  12381662700000
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  15  of  28
-Answer  15  of  28  :  12473213639040
+Answer  15  of  28  :  617381715456
 </pre>
 </div>
 </div>
@@ -9867,7 +9861,7 @@ Answer  15  of  28  :  12473213639040
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  16  of  28
-Answer  16  of  28  :  12505825949760
+Answer  16  of  28  :  625189829220
 </pre>
 </div>
 </div>
@@ -9881,7 +9875,7 @@ Answer  16  of  28  :  12505825949760
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  17  of  28
-Answer  17  of  28  :  12494212315200
+Answer  17  of  28  :  618550999008
 </pre>
 </div>
 </div>
@@ -9895,7 +9889,7 @@ Answer  17  of  28  :  12494212315200
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  18  of  28
-Answer  18  of  28  :  12488572784160
+Answer  18  of  28  :  621828794436
 </pre>
 </div>
 </div>
@@ -9909,7 +9903,7 @@ Answer  18  of  28  :  12488572784160
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  19  of  28
-Answer  19  of  28  :  12803185904640
+Answer  19  of  28  :  874155869246
 </pre>
 </div>
 </div>
@@ -9923,7 +9917,7 @@ Answer  19  of  28  :  12803185904640
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  20  of  28
-Answer  20  of  28  :  12754410514560
+Answer  20  of  28  :  869902731720
 </pre>
 </div>
 </div>
@@ -9937,7 +9931,7 @@ Answer  20  of  28  :  12754410514560
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  21  of  28
-Answer  21  of  28  :  12836429982720
+Answer  21  of  28  :  877730411052
 </pre>
 </div>
 </div>
@@ -9951,7 +9945,7 @@ Answer  21  of  28  :  12836429982720
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  22  of  28
-Answer  22  of  28  :  11517330258585
+Answer  22  of  28  :  623431751360
 </pre>
 </div>
 </div>
@@ -9965,7 +9959,7 @@ Answer  22  of  28  :  11517330258585
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  23  of  28
-Answer  23  of  28  :  11481263939439
+Answer  23  of  28  :  620976126640
 </pre>
 </div>
 </div>
@@ -9979,7 +9973,7 @@ Answer  23  of  28  :  11481263939439
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  24  of  28
-Answer  24  of  28  :  11569210432155
+Answer  24  of  28  :  627387030704
 </pre>
 </div>
 </div>
@@ -9993,7 +9987,7 @@ Answer  24  of  28  :  11569210432155
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  25  of  28
-Answer  25  of  28  :  11592063624960
+Answer  25  of  28  :  578609323776
 </pre>
 </div>
 </div>
@@ -10007,7 +10001,7 @@ Answer  25  of  28  :  11592063624960
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  26  of  28
-Answer  26  of  28  :  11556297695880
+Answer  26  of  28  :  576363666480
 </pre>
 </div>
 </div>
@@ -10021,7 +10015,7 @@ Answer  26  of  28  :  11556297695880
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  27  of  28
-Answer  27  of  28  :  11643744559608
+Answer  27  of  28  :  582246656016
 </pre>
 </div>
 </div>
@@ -10035,7 +10029,7 @@ Answer  27  of  28  :  11643744559608
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Solution  28  of  28
-Answer  28  of  28  :  11745101625405
+Answer  28  of  28  :  601931086080
 </pre>
 </div>
 </div>
@@ -10049,35 +10043,6 @@ Answer  28  of  28  :  11745101625405
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>End.
-</pre>
-</div>
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [74]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="o">!</span>jupyter<span class="w"> </span>nbconvert<span class="w"> </span>--to<span class="w"> </span>html<span class="w"> </span>Hall_of_Mirrors_Twenty_Eight_Solutions.ipynb
-</pre></div>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-<div class="jp-OutputArea jp-Cell-outputArea">
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr" tabindex="0">
-<pre>[NbConvertApp] Converting notebook Hall_of_Mirrors_Twenty_Eight_Solutions.ipynb to html
-[NbConvertApp] WARNING | Alternative text is missing on 38 image(s).
-[NbConvertApp] Writing 2762139 bytes to Hall_of_Mirrors_Twenty_Eight_Solutions.html
 </pre>
 </div>
 </div>
