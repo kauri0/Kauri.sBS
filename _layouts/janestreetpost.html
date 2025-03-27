@@ -1,13 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
     {% if page.noindex %}
-      <meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="noindex, nofollow">
     {% endif %}
+  
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <!-- Other head elements, links, and scripts -->
+    
+    {% include menu.html %}
+
+    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+
+    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+
+    <link rel="stylesheet" href="{{ '/assets/css/html.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+
+    <link rel="apple-touch-icon" href="{{ site.icon }}">
+
+    {% include google-analytics.html %}
+
   </head>
   <body>
     <article>
