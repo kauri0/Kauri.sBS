@@ -4,7 +4,7 @@ author: Kauri Beckmann
 title: Die Kleinen Dinge<br>Ein Schreiben an Lucia's Vermieter
 lang: Deutsch
 noindex: true
-version: Secret
+version: Translation
 date_written: 2023-05-15
 date_published: 2023-09-28
 date_updated: 
@@ -28,7 +28,6 @@ Es ist nur ein kleinen Dinge, die weg Sie sprechen zu Leute. Intolerant, gefühl
 Ich aufgehe ich genau nicht gesagt habe, danke für die Gastfreundschaft. Nachte Zeit ich werde die Mülleimer für ihnen auch leeren.
 
 Grüße,
-
 Kauri
 
 P.s: Enschuldigung ich habe nicht ihnen gezagt über meinen kommend Reiseplans bis Sie gefragt.

@@ -1,12 +1,3 @@
----
-layout: post
-author: Kauri Beckmann
-title: Interview Prep
-lang: English
-noindex: true
-version: Secret
-ref: IP
----
 
 ##### Monday 15. Januar
 

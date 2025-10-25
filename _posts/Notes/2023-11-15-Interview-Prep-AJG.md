@@ -1,13 +1,3 @@
----
-layout: post
-author: Kauri Beckmann
-title: Interview Prep AJG
-lang: English
-noindex: true
-version: Secret
-ref: IPAJG
----
-
 ##### KAURI BECKMANN
 +49 176 280 66521 | kauri.b@outlook.co.nz
 Interview Prep

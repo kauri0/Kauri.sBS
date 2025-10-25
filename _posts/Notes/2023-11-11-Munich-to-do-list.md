@@ -1,12 +1,3 @@
----
-layout: post
-author: Kauri Beckmann
-title: Munich To-do list
-lang: English
-noindex: true
-version: Secret
-ref: todolist
----
 
 ##### Mittwoch 13. December
 

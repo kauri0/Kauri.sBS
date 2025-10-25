@@ -1,15 +1,3 @@
----
-layout: post
-author: Kauri Beckmann
-title: BIM Modelling 101
-lang: English
-noindex: true
-version: Secret
-date_written: 2023-09-28
-date_published: 2023-09-28
-date_updated: 
-ref: BIM101
----
 
 ##### BIM Notes
 

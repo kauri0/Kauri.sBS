@@ -5,7 +5,7 @@ title: Dear Emil's Mother
 lang: English
 version: Original
 date_written: 2023-05-23
-date_published: 2023-09-21
+date_published: 2023-07-21
 date_updated: 
 ref: Emil
 ---
@@ -26,8 +26,7 @@ What is it about your culture, that makes you so kind to strangers? Along my tra
 
 I wish all the best for you, your family and your countrymen. 
 
-Until I see you again,
-
+Until I see you again,<br>
 Kauri
 
 Ps: I ate all your chocolate in two days. 

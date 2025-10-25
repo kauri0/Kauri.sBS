@@ -1,13 +1,3 @@
----
-layout: post
-author: Kauri Beckmann
-title: Cover Letters
-lang: English
-noindex: true
-version: Secret
-ref: CoverLetters
----
-
 ##### Donnerstag 7. December
 
 Hallo Philipp,

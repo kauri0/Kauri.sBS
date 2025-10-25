@@ -117,12 +117,12 @@ figcaption {
 .home {
   max-width: 24em;
   margin: auto;
-  padding: 4em 1em;
+  padding: 0em 0em;
 }
 
 .content-title {
   font-size: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 0em;
   text-align: center;
 }
 
@@ -205,4 +205,15 @@ figcaption {
     border-color: $text-color;
     margin-top: 0;
   }
+
+.home .content-title {
+  margin-top: 0;           /* <-- key */
+  /* keep your existing bottom if you like: */
+  /* margin-bottom: 0; */
+}
+
+.site-masthead {
+  padding-bottom: 2rem;    /* tune to taste */
+  margin-bottom: 0;        /* stops margin-collapsing with the next block */
+}
 }

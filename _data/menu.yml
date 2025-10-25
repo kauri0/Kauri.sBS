@@ -1,8 +1,8 @@
 - title: Intro
   url: /intro.html
 
-- title: Itinerary
-  url: /itinerary.html
+#- title: Itinerary
+#  url: /itinerary.html
 
 #- title: Drafts
 #  url: /drafts.html
@@ -10,8 +10,8 @@
 - title: Deutsch
   url: /deutsch.html
 
-- title: Gallery
-  url: /gallery.html
+#- title: Gallery
+#  url: /gallery.html
 
 - title: Puzzles
   url: /Jane_Street_Puzzles/

@@ -4,12 +4,16 @@ author: Kauri Beckmann
 title: The Little Things<br>A Letter to Lucia's Landlord
 lang: English
 noindex: true
-version: Secret
-date_written: 2023-06-15
-date_published: 2023-09-28
+version: Original
+date_written: 2025-06-15
+date_published: 2025-10-01
 date_updated: 
 ref: Landlord
 ---
+
+##### Foreword
+
+This one is an English translation. You can read the [German Original here](/Ein-Schreiben-an-Lucia's-Vermieter.html).
 
 ##### Thursday 15th June
 
@@ -27,8 +31,5 @@ It’s just a little thing, the way you talk to people. Intolerant, unempathetic
 
 I realize I haven’t properly said, thanks for the hospitality. Next time I’ll empty the bins for you too.
 
-Cheers,
-
+Cheers,<br>
 Kauri
-
-P.s: Sorry for not telling you my upcoming travel plans until you asked.

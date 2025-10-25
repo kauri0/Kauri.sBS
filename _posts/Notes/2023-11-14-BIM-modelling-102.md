@@ -1,13 +1,3 @@
----
-layout: post
-author: Kauri Beckmann
-title: BIM Modelling 102
-lang: English
-noindex: true
-version: Secret
-date: 12th November 2023
-ref: BIM102
----
 
 **What is BIM?**
 

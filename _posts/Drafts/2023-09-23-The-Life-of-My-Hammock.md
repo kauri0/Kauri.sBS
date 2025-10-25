@@ -54,7 +54,7 @@ Chapter Four: Fire and fury
 
 Chapter Five: Repair
 
-Chapter Six: 
+Chapter Six: Repair in Albania (also backpack repair)
 
 
 ##### Friday 26th June

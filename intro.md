@@ -1,14 +1,30 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: 
 title: Introduction
 lang: English
 version: Original
 date_written: 
 date_published: 
-date_updated: 2023-09-24
+date_updated: 2025-10-24
 ref: Introduction
+permalink: /intro.html
 ---
+
+##### October 24th 2025
+
+Two years ago I was hiking in the Austrian Alps. Just before I started hiking, my friend Dominik introduced me to the Jane Street puzzles. Out of curiousity, I scribbled that month’s puzzle into my notebook, and started off on my multi-day hike. On a hike you have a lot of downtime, and the second night - camped deep in the mountains, swinging in my hammock - I solved it.
+
+But now, the dilemma - how would I submit this Jane Street puzzle in time for the cut-off, in some 24 hours? There’s no phone service for miles!
+
+The next morning, I wrote the solution onto several scraps with paper, along with Dom's contact. And as I hiked, whenever I encountered someone, I handed them a note and asked, *please send my friend this ten-digit number*. I took great pleasure in coming up with different excuses: "I'm measuring latency in human communication." "It's part of an art project called *The Human Network*." "I can't explain - I have an NDA!" Most carried the message forward, but just four in time - an outcome I’d quietly allowed for.
+
+To the Jane Street Puzzle Team, the way you come up with this stuff, it blows my mind. I'm not a developer, nor a mathematician, by any means. I'm just a (former) structural engineer who loves solving complex problems.
+
+As of writing, I’ve solved ten puzzles. The ones I’ve published here are simply those whose solutions I find particularly interesting. I hope to add more soon-perhaps other *Quanty* things as well.
+
+\- Kauri
+
 
 ##### Saturday 24th September 2023
 
@@ -20,8 +36,9 @@ I’m ashamed to say, I’m not exactly great at keeping up to date with you, bu
 
 So, I hope you enjoy reading about my experiences, a taste of the bullshit adventures I call life.
 
-Love,
-
+Love,<br>
 Kauri
 
-Pps: Einige Geschiscten haben ein deutsche Übersetzung. Wenn ihr Deutsche möchten eine Lache, ihnen aufpassen!
+Ps: Einige Geschiscten haben ein deutsche Übersetzung. Wenn ihr Deutsche möchten eine Lache, ihnen aufpassen!
+
+Pps: The 2023 [itinerary](/itinerary.html).
