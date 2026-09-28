@@ -6,7 +6,7 @@ layout: default
 
   <!-- Fetch translation posts with the same 'ref' -->
   {% assign translation_posts = site.posts | where:"ref", page.ref | where_exp: "post", "post.url != page.url" %}
-  {% if translation_posts.size > 0 %}
+  {% if page.ref and translation_posts.size > 0 %}
     <p>
       <div style="text-align: right">Read me in 
       {% for translation_post in translation_posts %}

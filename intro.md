@@ -1,11 +1,11 @@
 ---
 layout: post
-author: Kauri
+author: 
 title: Introduction
 lang: English
 version: Original
-date_written: 2023-09-24
-date_published: 2023-09-24
+date_written: 
+date_published: 
 date_updated: 2025-10-24
 ref: Introduction
 permalink: /intro.html

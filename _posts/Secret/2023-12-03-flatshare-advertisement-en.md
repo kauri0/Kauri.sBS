@@ -45,6 +45,6 @@ Contact details available upon request.<br>
 * Naturally I must also spend time with my lovely girlfriend!<br><br>
 
 Looking forward to hearing from you! You can reach me at:<br>
-+49 176 280 66521 (mobile)<br>
-+44 7521 420 561 (whatsapp)
++49 XXX XXX XXXXX (mobile)<br>
++44 XXXX XXX XXX (whatsapp)
 
