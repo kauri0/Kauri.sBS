@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Asymmetrical Warfare
 lang: English
 version: Original

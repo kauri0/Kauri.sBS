@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-author: Kauri Beckmann
+author: Kauri
 title: 4. Office Superstructure & Foundation Design
 lang: English
 noindex: true

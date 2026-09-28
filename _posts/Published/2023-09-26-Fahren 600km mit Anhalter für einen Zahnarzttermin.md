@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Fahren 600km per Anhalter für einen Zahnarzttermin
 lang: Deutsch
 version: Translation

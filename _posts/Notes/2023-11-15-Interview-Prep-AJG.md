@@ -1,9 +1,9 @@
-##### KAURI BECKMANN
-+49 176 280 66521 | kauri.b@outlook.co.nz
+##### KAURI
++49 176 280 66521 | contact@kauri.sbs
 Interview Prep
 
 
-KAURI BECKMANN	1
+KAURI	1
 Question: Tell us about yourself	1
 Question: Tell us about your role at Cook Costello	2
 Question: Tell us about your role in Health and Safety	2

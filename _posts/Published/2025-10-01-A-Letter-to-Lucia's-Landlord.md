@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: The Little Things<br>A Letter to Lucia's Landlord
 lang: English
 noindex: true

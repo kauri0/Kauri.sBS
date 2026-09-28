@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Hitchhiking 600km for a dentist appointment
 lang: English
 version: Original

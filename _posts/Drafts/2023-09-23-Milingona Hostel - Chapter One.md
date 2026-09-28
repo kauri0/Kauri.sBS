@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Experience at Milingona Hostel<br>Part 1
 lang: English
 version: Draft

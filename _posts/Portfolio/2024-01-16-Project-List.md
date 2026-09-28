@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-author: Kauri Beckmann
+author: Kauri
 title: Project List
 lang: English
 noindex: true

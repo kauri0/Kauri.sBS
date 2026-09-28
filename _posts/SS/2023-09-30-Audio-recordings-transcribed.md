@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Audio Recordings Transcribed
 lang: English
 version: SS

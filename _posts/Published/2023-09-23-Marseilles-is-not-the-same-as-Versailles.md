@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Marseilles is not the same as Versailles
 lang: English
 version: Original

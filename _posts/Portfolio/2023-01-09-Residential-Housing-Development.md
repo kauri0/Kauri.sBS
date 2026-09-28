@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-author: Kauri Beckmann
+author: Kauri
 title: 2. Residential Housing Development
 lang: English
 noindex: true

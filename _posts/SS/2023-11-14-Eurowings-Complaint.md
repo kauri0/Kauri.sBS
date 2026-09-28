@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Eurowings complaint
 lang: English | Deutsch
 version: SS

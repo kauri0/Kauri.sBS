@@ -15,7 +15,7 @@ Ich würde mich freuen, bald von Ihnen zu hören.
 So, solte ich gehe diese Kinderbücher zurückzulesen :D
 
 Viele Gruße,
-Kauri Beckmann
+Kauri
 +44 7521 420 561 (Whatsapp)
 +49 176 280 66521 (Mobile)
 
@@ -38,26 +38,26 @@ So, solte ich gehe diese Kinderbücher zurückzulesen :D
 Ich würde mich freuen, bald von Ihnen zu hören.
 
 LG,
-Kauri Beckmann
+Kauri
 +44 7521 420 561 (Whatsapp)
 
 
 ##### Mittwoch 29. November
 
 
-Kauri Beckmann
+Kauri
 New Zealand Citizen
 +49 176 280 66521 (mobile)
-kauri.b@outlook.co.nz
+contact@kauri.sbs
 
 Deinstag, 21. November
 Re: Bewerbung für eine Stelle im Gastgewerbe
 
 Sehr geehrte Damen und Herren,
 
-Ich heiße Kauri Beckmann. Ich interessiere mich für eine Stelle im Gastgewerbe. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor neun Monaten aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich lerne Deutsch Sprache (A2-B1) für einige Monate, aber ich glaube, besser zu weitermachen in Englisch so ich gebe euch nicht einen Schlaganfall!
+Ich heiße Kauri. Ich interessiere mich für eine Stelle im Gastgewerbe. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor neun Monaten aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich lerne Deutsch Sprache (A2-B1) für einige Monate, aber ich glaube, besser zu weitermachen in Englisch so ich gebe euch nicht einen Schlaganfall!
 
-Ich heiße Kauri Beckmann. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor neun Monaten aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. In diese Monate hatte ich viele Erfahrungen gemacht, die mich dazu gebracht haben, eine Karriere im Gastgewerbe anzustreben. I möchte in München für eine langen Zeit leben, welche ist wie ich habe Ruby Hotel gefindet. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Aber ich glaube, besser zu weitermachen in Englisch so ich gebe euch nicht einen Schlaganfall!
+Ich heiße Kauri. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor neun Monaten aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. In diese Monate hatte ich viele Erfahrungen gemacht, die mich dazu gebracht haben, eine Karriere im Gastgewerbe anzustreben. I möchte in München für eine langen Zeit leben, welche ist wie ich habe Ruby Hotel gefindet. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Aber ich glaube, besser zu weitermachen in Englisch so ich gebe euch nicht einen Schlaganfall!
 
 I recently had a transient experience in a hostel that has inspired me to pursue a permanent role in hospitality. I have not formally listed it on my resume; since I was only supposed to be passing through the city I only stayed a couple months. Busy days were running around; cleaning dishes, changing bed sheets and laundry,  and with a big smile showing guests around the property and entertaining them with our craft beer. Within a week I learnt Tirana’s chaotic public transportation system, to better help the guests with their travel plans. (And I already know Munich reasonably well!) I also trained all the new staff who came through. In those short months the work left a big impact on me.
 
@@ -71,7 +71,7 @@ I applied for the Service and Reception role because I love a busy, varied, peop
 
 Cheers,
 
-Kauri Beckmann
+Kauri
 
 Hi Christina Wagner,
 
@@ -91,7 +91,7 @@ Christian Hirschmann
 
 Sehr geehrte Herr Yannik Stole,
 
-Ich heiße Kauri Beckmann. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor neun Monaten aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Aber ich glaube, besser zu weitermachen in Englisch so ich gebe euch nicht einen Schlaganfall!
+Ich heiße Kauri. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor neun Monaten aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Aber ich glaube, besser zu weitermachen in Englisch so ich gebe euch nicht einen Schlaganfall!
 
 Cocoon Hotel looks like a fantastic place where I can be part of a unique, passionate team, to kickstart a career in the hospitality industry. I discovered your hotel because of it's name - and your values really resonate; the sort of values I'd be proud to represent.
 
@@ -101,7 +101,7 @@ I do have some strong motivations for moving to Munich, and for pursuing a caree
 
 Cheers,
 
-Kauri Beckmann
+Kauri
 
 
 broad and transferrable, and I pick up new systems 
@@ -118,7 +118,7 @@ ________________
 
 English translation also available below.
 
-Ich heiße Kauri Beckmann. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor ein Jahr aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Ich habe drei Monate in München und Bayern getrampt und, für vielen Gründen wähle ich in München zu besiedeln und hier den nächsten Schritt von Leben zum anfangen. Das bier, die Kultur, die Menschen, nicht zuletzt für meine schöne deutsche Freundin.
+Ich heiße Kauri. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor ein Jahr aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Ich habe drei Monate in München und Bayern getrampt und, für vielen Gründen wähle ich in München zu besiedeln und hier den nächsten Schritt von Leben zum anfangen. Das bier, die Kultur, die Menschen, nicht zuletzt für meine schöne deutsche Freundin.
 
 Anhalterreisen hatte einen großen Teil von meinen Reisen. Eigentlich, war es ein von die meistens wirkungsvolle Methoden zu unterrichte mich Deutschsprache! Aber, erfordet es wirkliche mentale Stärke, lächeln zu stehen und den vorbeifahren Autos zu winken. Ich weiß, es ist nicht üblich hier in Deutschland, so wann man mir abholt, fühle ich eine Verantwortung, eine Schöne Erfahrung zu machen, man mit in die Zukunft nehmen kann. Ich brauche es nicht zu trampen; habe ich das 49€ Ticket. Ich mache es weil es mir Freude bringt, Menschen zu Lächeln zu bringen.
 

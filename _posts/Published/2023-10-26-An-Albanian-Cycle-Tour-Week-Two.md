@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: An Albanian Cycle Tour<br>Week Two
 lang: English
 version: Original

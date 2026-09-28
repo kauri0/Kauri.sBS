@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: The Life of My Hammock OR A love letter to my hammock
 lang: English
 version: Draft

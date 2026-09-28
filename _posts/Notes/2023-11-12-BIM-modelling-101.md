@@ -18,7 +18,7 @@ I read that "The structural engineer has the opportunity to expand their role to
 Anyway, I had a bunch more questions, but I'll leave my excitement at that. Looking forward to hearing back!
 
 Cheers,
-Kauri Beckmann
+Kauri
 
 
 <!-- Ps: You never told me the name of your partner!? -->

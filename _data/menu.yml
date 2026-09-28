@@ -1,20 +1,20 @@
-- title: Intro
-  url: /intro.html
-
 #- title: Itinerary
 #  url: /itinerary.html
 
 #- title: Drafts
 #  url: /drafts.html
 
+- title: Quanty
+  url: /Quanty/
+
 - title: Deutsch
   url: /deutsch.html
 
+- title: About
+  url: /about.html
+
 #- title: Gallery
 #  url: /gallery.html
-
-- title: Puzzles
-  url: /Jane_Street_Puzzles/
 
 #- title: Portfolio
 #  url: /portfolio.html

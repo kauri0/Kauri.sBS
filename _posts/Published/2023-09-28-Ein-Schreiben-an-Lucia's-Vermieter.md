@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Die Kleinen Dinge<br>Ein Schreiben an Lucia's Vermieter
 lang: Deutsch
 noindex: true

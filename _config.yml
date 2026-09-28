@@ -31,7 +31,16 @@ markdown: kramdown
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+#
+# Private notes and raw material: kept in the repo, never built into the site.
+exclude:
+  - _posts/Notes
+  - _posts/SS
+  - _posts/2023-09-23-Template.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+# Default exclusions, for reference:
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

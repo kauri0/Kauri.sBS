@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kauri Beckmann
+author: Kauri
 title: Ein kiwi wurde in München gesehen!
 lang: Deutsch
 version: Translation
@@ -15,7 +15,7 @@ Ich habe diese alte WG-Anzeige gefunden, ab wann ich habe einen WG in Munchen ve
 
 ##### Die Anzeige
 
-Ich heiße Kauri Beckmann, 27 Jahre alt. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor ein Jahr aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Ich habe drei Monate in München und Bayern getrampt und, für vielen Gründen wähle ich in München zu besiedeln und hier den nächsten Schritt von Leben zum anfangen. Das bier, die Kultur, die Menschen, nicht zuletzt für meine schöne deutsche Freundin.
+Ich heiße Kauri, 27 Jahre alt. Ich habe meinen Job in Neuseeland als Bauingenieur Tragwerksplanung vor ein Jahr aufgegeben, mit dem Rucksack zu skifahren, wandern und campen über Europa. Ich unterrichte mich selbst seit einigen Monaten der deutschen Sprache und habe etwa B1 erreicht, und verbessere mich täglich weiter. Ich habe drei Monate in München und Bayern getrampt und, für vielen Gründen wähle ich in München zu besiedeln und hier den nächsten Schritt von Leben zum anfangen. Das bier, die Kultur, die Menschen, nicht zuletzt für meine schöne deutsche Freundin.
 
 Anhalterreisen hatte einen großen Teil von meinen Reisen. Eigentlich, war es ein von die meistens wirkungsvolle Methoden zu unterrichte mich Deutschsprache! Aber, erfordet es wirkliche mentale Stärke, lächeln zu stehen und den vorbeifahren Autos zu winken. Ich weiß, es ist nicht üblich hier in Deutschland, so wann man mir abholt, fühle ich eine Verantwortung, eine Schöne Erfahrung zu machen, man mit in die Zukunft nehmen kann. Ich brauche es nicht zu trampen; habe ich das 49€ Ticket. Ich mache es weil es mir Freude bringt, Menschen zu Lächeln zu bringen.
 

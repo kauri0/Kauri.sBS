@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-author: Kauri Beckmann
+author: Kauri
 title: 3. Concept Design & Constructability
 lang: English
 noindex: true
