@@ -24,11 +24,15 @@
   }
 }
 
+// Verse block: shrinks to its longest line, centred on the page by the
+// masthead's text-align, lines left-aligned inside it.
 .site-masthead .masthead-verse {
   color: $muted-text-color;
+  display: inline-block;
   font-size: 1em;
   line-height: 1.6;
   margin: 0.75em auto 0;
   max-width: 44em;
   padding: 0 2rem;
+  text-align: left;
 }
