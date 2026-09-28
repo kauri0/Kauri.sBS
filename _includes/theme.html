@@ -1,0 +1,40 @@
+<!-- _includes/theme.html: applies the colour theme BEFORE the body parses, so there is no flash.
+     The OS / browser preference is the default and is followed live until the reader presses the
+     toggle in the menu; from then on their choice lasts (localStorage, per browser). Same behaviour
+     as the chess dashboards' theme.mjs. -->
+<script>
+(function () {
+  var KEY = "kauri-theme", root = document.documentElement;
+  var mq = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+  function os() { return !!(mq && mq.matches); }
+  function get() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  function set(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
+  var stored = get(), dark = stored ? stored === "dark" : os();
+  function apply() {
+    root.setAttribute("data-theme", dark ? "dark" : "light");
+    var label = dark ? "Switch to light mode" : "Switch to dark mode";
+    var buttons = document.querySelectorAll(".theme-toggle");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].title = label;
+      buttons[i].setAttribute("aria-label", label);
+    }
+  }
+  apply();
+  document.addEventListener("click", function (e) {
+    var t = e.target && e.target.closest ? e.target.closest(".theme-toggle") : null;
+    if (!t) return;
+    dark = !dark;
+    set(dark ? "dark" : "light");
+    apply();
+  });
+  document.addEventListener("DOMContentLoaded", apply);
+  window.addEventListener("storage", function (e) {
+    if (e.key === KEY) { dark = e.newValue ? e.newValue === "dark" : os(); apply(); }
+  });
+  if (mq) {
+    var follow = function () { if (!get()) { dark = os(); apply(); } };
+    if (mq.addEventListener) mq.addEventListener("change", follow);
+    else if (mq.addListener) mq.addListener(follow);
+  }
+})();
+</script>

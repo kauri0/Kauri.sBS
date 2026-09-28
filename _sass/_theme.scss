@@ -1,0 +1,36 @@
+// Light / dark palettes as CSS custom properties (2026-09-29).
+//
+// Light is the original site: brand green page, white cards, black text. Dark is a
+// green-black page with dark cards and light text, in the same spirit as the chess
+// dashboards' dark mode. The rest of the stylesheet reads ONLY these variables for
+// colour; the Sass variables in _variables.scss exist to compute the light values.
+//
+// html[data-theme] is set by _includes/theme.html before the body parses: the OS /
+// browser preference by default, the reader's stored choice once they press the
+// toggle in the menu.
+
+:root {
+  --bg:             #{$brand-color};
+  --bg-hover:       #{lighten($brand-color, 2.5%)};
+  --card:           #ffffff;
+  --text:           #{$text-color};
+  --muted:          #{$muted-text-color};
+  --highlight:      #{$highlight};
+  --shadow:         #{rgba(darken($brand-color, 50%), .1)};
+  --divider-filter: none;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --bg:             #101715;
+  --bg-hover:       #16201c;
+  --card:           #1a2220;
+  --text:           #dde3ea;
+  --muted:          #9aa4ae;
+  --highlight:      #24332c;
+  --shadow:         rgba(0, 0, 0, .45);
+  --divider-filter: invert(1) opacity(.85);
+}
+
+// Photographs and notebook figures keep their own colours; only the ink-on-paper
+// divider is inverted (see the divider mixin).

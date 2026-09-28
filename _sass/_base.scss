@@ -1,6 +1,6 @@
 body {
-  background: $brand-color;
-  color: $text-color;
+  background: var(--bg);
+  color: var(--text);
   font-family: $font-family;
   font-size: 1.3125em;
   line-height: 1.5;
@@ -55,11 +55,11 @@ strong {
 }
 
 a {
-  color: $text-color;
+  color: var(--text);
 }
 
 a:focus {
-  outline: 1px dashed $text-color;
+  outline: 1px dashed var(--text);
 }
 
 blockquote {
@@ -139,7 +139,7 @@ figcaption {
 }
 
 .post-date {
-  color: $muted-text-color;
+  color: var(--muted);
   display: block;
   font-size: .825em;
   white-space: nowrap;
@@ -150,7 +150,7 @@ figcaption {
 }
 
 .post-date-story {
-  color: $muted-text-color;
+  color: var(--muted);
   display: block;
   font-size: .825em;
   white-space: nowrap;
@@ -161,7 +161,7 @@ figcaption {
 }
 
 .post-date-published {
-  color: $muted-text-color;
+  color: var(--muted);
   display: block;
   font-size: .825em;
   white-space: nowrap;
@@ -172,7 +172,7 @@ figcaption {
 }
 
 .post-date-updated {
-  color: $muted-text-color;
+  color: var(--muted);
   display: block;
   font-size: .825em;
   white-space: nowrap;
@@ -189,7 +189,7 @@ figcaption {
 }
 
 .skip-navigation {
-  background: $brand-color;
+  background: var(--bg);
   border: 1px dashed transparent;
   display: block;
   font-size: .875em;
@@ -201,8 +201,8 @@ figcaption {
   text-transform: uppercase;
   &:hover,
   &:focus {
-    background: lighten($brand-color, 2.5%);
-    border-color: $text-color;
+    background: var(--bg-hover);
+    border-color: var(--text);
     margin-top: 0;
   }
 

@@ -1,9 +1,9 @@
 .post {
-  background: white;
+  background: var(--card);
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
-  box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
+  box-shadow: 12px 18px 24px var(--shadow);
 }
 
 .post > * {
@@ -33,7 +33,7 @@
 }
 
 .post a:hover {
-  background: $highlight;
+  background: var(--highlight);
 }
 
 .post dl,
@@ -66,11 +66,11 @@
 }
 
 .portfolio {
-  background: white;
+  background: var(--card);
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
-  box-shadow: 12px 18px 24px rgba(darken($brand-color, 50%), .1);
+  box-shadow: 12px 18px 24px var(--shadow);
 }
 
 .portfolio > * {
@@ -99,7 +99,7 @@
 }
 
 .portfolio a:hover {
-  background: $highlight;
+  background: var(--highlight);
 }
 
 .portfolio dl,
@@ -115,13 +115,13 @@
 
   .portfolio-excerpt {
     font-size: 5em; /* Adjust the font size to match your h3 */
-    color: #333; /* Adjust the text color to match your h3 */
+    color: var(--text);
     margin-top: 5px; /* Adjust the margin to match your li elements */
   }
 
   .portfolio-title {
     font-size: 5em; /* Adjust the font size to match your h3 */
-    color: #333; /* Adjust the text color to match your h3 */
+    color: var(--text);
     margin-top: 5px; /* Adjust the margin to match your li elements */
   }
 

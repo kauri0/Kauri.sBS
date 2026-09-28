@@ -9,10 +9,10 @@
   border: 0;
   font: 1em $font-family;
   padding: .5em;
-  color: $text-color;
+  color: var(--text);
   text-align: center;
   &:focus {
-    outline: 1px dashed $text-color;
+    outline: 1px dashed var(--text);
   }
 }
 
@@ -21,14 +21,14 @@
 }
 
 ::-webkit-input-placeholder {
-  color: $muted-text-color;
+  color: var(--muted);
 }
 ::-moz-placeholder {
-  color: $muted-text-color;
+  color: var(--muted);
 }
 :-ms-input-placeholder {
-  color: $muted-text-color;
+  color: var(--muted);
 }
 :-moz-placeholder {
-  color: $muted-text-color;
+  color: var(--muted);
 }

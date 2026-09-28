@@ -36,3 +36,34 @@
   &:hover,
   &:focus { opacity: 1; }
 }
+
+// Light / dark toggle: the outline sun from the chess dashboards, in a small
+// bordered button at the end of the menu row. Same icon in both themes; its
+// title says which way it switches (set by _includes/theme.html).
+.site-navigation .theme-toggle-item {
+  display: flex;
+  align-items: center;
+  padding: 0 .5em;
+}
+
+.site-navigation .theme-toggle {
+  display: inline-grid;
+  place-items: center;
+  box-sizing: border-box;
+  height: 1.5em;
+  width: 1.5em;
+  padding: 0;
+  border: 1px solid var(--muted);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  opacity: .7;
+  transition: opacity .125s ease-in-out;
+
+  &:hover,
+  &:focus-visible { opacity: 1; }
+  &:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+
+  svg { width: 1em; height: 1em; display: block; }
+}

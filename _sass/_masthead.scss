@@ -15,7 +15,7 @@
 }
 
 .site-masthead h2 {
-  color: $muted-text-color;
+  color: var(--muted);
   font-size: 1.25em;
   margin: 0;
   padding: 0 2rem;
@@ -27,7 +27,7 @@
 // Verse block: shrinks to its longest line, centred on the page by the
 // masthead's text-align, lines left-aligned inside it.
 .site-masthead .masthead-verse {
-  color: $muted-text-color;
+  color: var(--muted);
   display: inline-block;
   font-size: 1em;
   line-height: 1.6;
