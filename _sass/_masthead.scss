@@ -23,3 +23,18 @@
     font-size: 1.5em;
   }
 }
+
+// Page title under the site title (Quanty): content-title size, not muted.
+.site-masthead h2.masthead-title {
+  color: inherit;
+  font-size: 2em;
+}
+
+.site-masthead .masthead-verse {
+  color: $muted-text-color;
+  font-size: 1em;
+  line-height: 1.6;
+  margin: 0.75em auto 0;
+  max-width: 44em;
+  padding: 0 2rem;
+}
