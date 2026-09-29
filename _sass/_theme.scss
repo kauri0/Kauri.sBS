@@ -10,6 +10,11 @@
 // toggle in the menu.
 
 :root {
+  // Declared in BOTH states: a page that names no colour scheme is force-darkened by
+  // Chrome on Android and Samsung Internet (light cards inverted to black, text to
+  // white). With a scheme declared, and the meta in _includes/theme.html, the
+  // browser leaves our colours alone.
+  color-scheme: light;
   --bg:             #{$brand-color};
   --bg-hover:       #{lighten($brand-color, 2.5%)};
   --card:           #ffffff;

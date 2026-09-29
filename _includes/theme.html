@@ -1,7 +1,11 @@
 <!-- _includes/theme.html: applies the colour theme BEFORE the body parses, so there is no flash.
      The OS / browser preference is the default and is followed live until the reader presses the
      toggle in the menu; from then on their choice lasts (localStorage, per browser). Same behaviour
-     as the chess dashboards' theme.mjs. -->
+     as the chess dashboards' theme.mjs.
+     The meta tells browsers this page handles both schemes itself, which switches OFF their
+     forced auto-dark (Chrome on Android, Samsung Internet) that otherwise inverts the light
+     theme's white cards to black. -->
+<meta name="color-scheme" content="light dark">
 <script>
 (function () {
   var KEY = "kauri-theme", root = document.documentElement;
