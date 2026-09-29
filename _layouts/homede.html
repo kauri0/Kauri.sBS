@@ -2,18 +2,21 @@
 layout: default
 ---
 
+<header class="site-masthead">
+  <p class="masthead-verse">
+    Weil ich durch Deutschland gereisen, habe ich die sprache ein bisschen gelernt, aber nicht so gut. Zu uben, ich hat ein bisschen geschreiben - hier das ist. Ich hoffe, du willst ein lachen!<br>
+    (I picked up some German travelling through Germany. These are my attempts. Expect mistakes.)
+  </p>
+</header>
+
 <main class="home" id="main" role="main" aria-label="Content">
 
-  <h1 class="content-title divided">
-    Nur für Geschicten auf Deutsch!
-  </h1>
-  
+  <h1 class="content-title divided"></h1>
+
     <ul class="post-list">
       {% for post in site.posts %}
         {% include translation-list-item.html %}
       {% endfor %}
     </ul>
-  
-  </main>
 
-      
+  </main>
