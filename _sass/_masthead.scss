@@ -24,15 +24,12 @@
   }
 }
 
-// Verse block: shrinks to its longest line, centred on the page by the
-// masthead's text-align, lines left-aligned inside it.
+// Verse block: centred lines (operator 2026-09-29, after trying left-aligned).
 .site-masthead .masthead-verse {
   color: var(--muted);
-  display: inline-block;
   font-size: 1em;
   line-height: 1.6;
   margin: 0.75em auto 0;
   max-width: 44em;
   padding: 0 2rem;
-  text-align: left;
 }

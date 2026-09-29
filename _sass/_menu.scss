@@ -66,3 +66,13 @@
 
   svg { width: 1.6em; height: 1.6em; display: block; }
 }
+
+// The toggle must not pull the centred links off centre (operator 2026-09-29):
+// a spacer of the same width sits at the other end of the row, so the links are
+// centred on the page and the sun sits a little to their right.
+.site-navigation ul::before {
+  content: "";
+  flex: none;
+  font-size: .875em;
+  width: 3em;
+}
