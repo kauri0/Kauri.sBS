@@ -137,3 +137,22 @@
       margin-top: 0;
     }
   }
+// Top of a Quanty notebook page (layout janestreetpost): [Puzzle] [Official Solution]
+// links to Jane Street, or an Author's Note, from front matter (js_puzzle, js_solution,
+// authors_note). Aligned with the notebook cells' content column.
+.js-links {
+  margin: 1em 0 0 calc(var(--jp-cell-prompt-width, 64px) + var(--jp-cell-collapser-width, 8px) + var(--jp-cell-padding, 5px));
+  padding-right: 1em;
+  font-family: var(--jp-content-font-family, inherit);
+  font-size: var(--jp-content-font-size1, 1em);
+  line-height: 1.6;
+
+  a {
+    color: var(--jp-content-link-color, inherit);
+    text-decoration: none;
+    margin-right: .75em;
+    &:hover, &:focus { text-decoration: underline; }
+  }
+
+  .authors-note { margin: 0; }
+}

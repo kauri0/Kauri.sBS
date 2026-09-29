@@ -61,6 +61,14 @@
 
   <body>
     <article>
+      {%- comment -%} Jane Street links / Author's Note from front matter (js_puzzle, js_solution, authors_note) {%- endcomment -%}
+      {% if page.js_puzzle or page.js_solution or page.authors_note %}
+      <div class="js-links">
+        {% if page.js_puzzle %}<a href="{{ page.js_puzzle }}">[Puzzle]</a>{% endif %}
+        {% if page.js_solution %}<a href="{{ page.js_solution }}">[Official Solution]</a>{% endif %}
+        {% if page.authors_note %}<p class="authors-note"><em>Author's Note:</em> {{ page.authors_note }}</p>{% endif %}
+      </div>
+      {% endif %}
       {{ content }}
     </article>
 
