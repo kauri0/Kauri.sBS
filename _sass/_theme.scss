@@ -39,3 +39,71 @@ html[data-theme="dark"] {
 
 // Photographs and notebook figures keep their own colours; only the ink-on-paper
 // divider is inverted (see the divider mixin).
+
+// The puzzle pages (layout janestreetpost) load assets/css/python_output.css, the
+// whole JupyterLab light theme: it paints its own white page, black text and code
+// colours from --jp-* variables defined on :root, AFTER our stylesheet. In light
+// mode that is the page as it has always been. In dark mode we give those
+// variables dark values here; html[data-theme] outranks :root, so ours win.
+// Values follow JupyterLab's own dark theme, with the page and card colours ours.
+html[data-theme="dark"] {
+  --jp-layout-color0: var(--bg);
+  --jp-layout-color1: var(--card);
+  --jp-layout-color2: #2a3330;
+  --jp-layout-color3: #3d4744;
+  --jp-layout-color4: #55605c;
+  --jp-inverse-layout-color0: #ffffff;
+  --jp-inverse-layout-color1: #f5f5f5;
+  --jp-inverse-layout-color2: #eeeeee;
+  --jp-inverse-layout-color3: #e0e0e0;
+  --jp-inverse-layout-color4: #bdbdbd;
+  --jp-ui-font-color0: rgba(255, 255, 255, 1);
+  --jp-ui-font-color1: rgba(255, 255, 255, .87);
+  --jp-ui-font-color2: rgba(255, 255, 255, .54);
+  --jp-ui-font-color3: rgba(255, 255, 255, .38);
+  --jp-ui-inverse-font-color0: rgba(0, 0, 0, 1);
+  --jp-ui-inverse-font-color1: rgba(0, 0, 0, .8);
+  --jp-ui-inverse-font-color2: rgba(0, 0, 0, .5);
+  --jp-ui-inverse-font-color3: rgba(0, 0, 0, .3);
+  --jp-content-font-color0: rgba(255, 255, 255, 1);
+  --jp-content-font-color1: rgba(255, 255, 255, .87);
+  --jp-content-font-color2: rgba(255, 255, 255, .54);
+  --jp-content-font-color3: rgba(255, 255, 255, .38);
+  --jp-content-link-color: #8ab4e8;
+  --jp-border-color0: #3d4744;
+  --jp-border-color1: #3d4744;
+  --jp-border-color2: #2a3330;
+  --jp-border-color3: #1a2220;
+  --jp-cell-editor-background: var(--card);
+  --jp-cell-editor-border-color: #2a3330;
+  --jp-cell-editor-active-background: var(--bg);
+  --jp-cell-prompt-not-active-font-color: #9aa4ae;
+  --jp-rendermime-error-background: rgba(244, 67, 54, .28);
+  --jp-rendermime-table-row-background: #2a3330;
+  --jp-rendermime-table-row-hover-background: rgba(3, 169, 244, .2);
+  --jp-input-background: #2a3330;
+  --jp-mirror-editor-keyword-color: #c792ea;
+  --jp-mirror-editor-atom-color: #f78c6c;
+  --jp-mirror-editor-number-color: #f78c6c;
+  --jp-mirror-editor-def-color: #82aaff;
+  --jp-mirror-editor-variable-color: #e0e0e0;
+  --jp-mirror-editor-variable-2-color: #eeffff;
+  --jp-mirror-editor-variable-3-color: #f07178;
+  --jp-mirror-editor-punctuation-color: #89ddff;
+  --jp-mirror-editor-property-color: #89ddff;
+  --jp-mirror-editor-operator-color: #89ddff;
+  --jp-mirror-editor-comment-color: #7a8f99;
+  --jp-mirror-editor-string-color: #c3e88d;
+  --jp-mirror-editor-string-2-color: #f07178;
+  --jp-mirror-editor-meta-color: #89ddff;
+  --jp-mirror-editor-qualifier-color: #82aaff;
+  --jp-mirror-editor-builtin-color: #ffcb6b;
+  --jp-mirror-editor-bracket-color: #eeffff;
+  --jp-mirror-editor-tag-color: #f07178;
+  --jp-mirror-editor-attribute-color: #ffcb6b;
+  --jp-mirror-editor-header-color: #82aaff;
+  --jp-mirror-editor-quote-color: #7a8f99;
+  --jp-mirror-editor-link-color: #82aaff;
+  --jp-mirror-editor-error-color: #f07178;
+  --jp-mirror-editor-hr-color: #999999;
+}

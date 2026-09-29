@@ -13,7 +13,10 @@
   function os() { return !!(mq && mq.matches); }
   function get() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
   function set(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
-  var stored = get(), dark = stored ? stored === "dark" : os();
+  // ?theme=light|dark on the URL forces that theme for this load only (testing, or a link
+  // that should open one way); it is not stored.
+  var forced = /[?&]theme=(light|dark)\b/.exec(location.search);
+  var stored = get(), dark = forced ? forced[1] === "dark" : stored ? stored === "dark" : os();
   function apply() {
     root.setAttribute("data-theme", dark ? "dark" : "light");
     var label = dark ? "Switch to light mode" : "Switch to dark mode";
